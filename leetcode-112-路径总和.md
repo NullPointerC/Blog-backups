@@ -1,7 +1,7 @@
 ---
 title: leetcode-112-路径总和
 date: 2021-07-15 21:07:50
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

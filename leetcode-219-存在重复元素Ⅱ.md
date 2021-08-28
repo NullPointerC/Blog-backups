@@ -1,7 +1,7 @@
 ---
 title: leetcode-219-存在重复元素Ⅱ
 date: 2021-06-21 21:34:23
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

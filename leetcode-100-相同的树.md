@@ -1,7 +1,7 @@
 ---
 title: leetcode-100-相同的树
 date: 2021-06-24 19:23:55
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

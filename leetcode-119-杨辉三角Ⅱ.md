@@ -1,7 +1,7 @@
 ---
 title: leetcode-119-杨辉三角Ⅱ
 date: 2021-07-16 21:19:44
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

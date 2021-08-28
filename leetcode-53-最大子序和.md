@@ -1,7 +1,7 @@
 ---
 title: leetcode-53-最大子序和
 date: 2021-07-02 17:26:50
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

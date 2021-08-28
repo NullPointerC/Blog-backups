@@ -1,7 +1,7 @@
 ---
 title: leetcode-111-二叉树的最小深度
 date: 2021-07-01 13:04:36
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

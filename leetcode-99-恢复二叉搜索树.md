@@ -1,7 +1,7 @@
 ---
 title: leetcode-99-恢复二叉搜索树
 date: 2021-08-15 12:55:56
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

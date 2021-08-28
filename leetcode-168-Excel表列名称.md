@@ -1,7 +1,7 @@
 ---
 title: leetcode-168-Excel表列名称
 date: 2021-06-29 09:56:43
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

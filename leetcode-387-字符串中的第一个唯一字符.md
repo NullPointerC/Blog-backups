@@ -1,7 +1,7 @@
 ---
 title: leetcode-387-字符串中的第一个唯一字符
 date: 2021-07-11 07:58:14
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

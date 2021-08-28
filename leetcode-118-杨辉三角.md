@@ -1,7 +1,7 @@
 ---
 title: leetcode-118-杨辉三角
 date: 2021-07-05 12:49:08
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: leetcode-155-最小栈
 date: 2021-06-17 19:18:14
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

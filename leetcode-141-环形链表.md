@@ -1,7 +1,7 @@
 ---
 title: leetcode-141-环形链表
 date: 2021-07-12 08:09:20
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

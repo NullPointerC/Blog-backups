@@ -1,7 +1,7 @@
 ---
 title: leetcode-95-不同的二叉搜索树Ⅱ
 date: 2021-08-16 13:56:41
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

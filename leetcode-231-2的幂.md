@@ -1,7 +1,7 @@
 ---
 title: leetcode-231-2的幂
 date: 2021-06-19 22:14:11
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: leetcode-228-汇总区间
 date: 2021-06-22 13:42:15
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

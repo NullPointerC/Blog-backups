@@ -1,7 +1,7 @@
 ---
 title: leetcode-645-错误的集合
 date: 2021-07-04 09:51:01
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

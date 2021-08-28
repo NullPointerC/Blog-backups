@@ -1,7 +1,7 @@
 ---
 title: leetcode-350-两个数组的交集Ⅱ
 date: 2021-07-04 10:17:22
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

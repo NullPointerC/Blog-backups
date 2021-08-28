@@ -1,7 +1,7 @@
 ---
 title: leetcode-203-删除链表元素
 date: 2021-07-12 09:00:24
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

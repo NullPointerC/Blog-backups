@@ -1,7 +1,7 @@
 ---
 title: leetcode-172-阶乘后的零
 date: 2021-07-16 21:41:57
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

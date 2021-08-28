@@ -1,7 +1,7 @@
 ---
 title: SpringBoot-日志
 date: 2021-05-18 18:30:02
-categories: Java
+categories: SpringBoot
 tags: [Java,backend,SpringBoot]
 ---
 

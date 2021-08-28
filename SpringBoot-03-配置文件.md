@@ -1,7 +1,7 @@
 ---
-title: springboot-02-配置文件
-date: 2021-04-04 10:21:55
-categories: Java
+title: SpringBoot-03-配置文件
+date: 2021-04-05 10:21:55
+categories: SpringBoot
 tags: [Java,backend,SpringBoot]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: leetcode-94-二叉树的中序遍历
 date: 2021-06-11 20:54:43
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

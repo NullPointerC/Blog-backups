@@ -23,17 +23,11 @@ Objec(对象),NULL(空值)7中
 <? php
     $x = "Hello World!";//使用双引号定义字符串
 	echo $x;
-
 	echo "<br/>";
-
 	$y = 'Hello World';//使用单引号
-
 	echo $y;
-
 	$z = '马老师,发生肾么事了?';//汉字也是字符串
-
 	echo $z;
-
 ?>
 ```
 
@@ -59,11 +53,9 @@ Objec(对象),NULL(空值)7中
 	$y = -5985;//负数
 	var_dump($y);
 	echo '<br/>';
-
 	$x = 0x8C;//十六进制
 	var_dump($x);
 	echo '<br/>';
-
 	$x = 047;//八进制
 	var_dump($x);
 	echo '<br/>';
@@ -94,7 +86,6 @@ Objec(对象),NULL(空值)7中
 ```php
 <? php
 	$x = true;
-	
 	$y = false;
 ?>
 ```
@@ -147,11 +138,8 @@ $cars数组中的元素包括有字符串和子数组,var_dump()将数组以键�
             return $this->color;
         }
     }
-
 	$car = new Car();
-
 	$car->set_color('red');
-
 	echo $car->get_color();
 ?>
 ```
@@ -170,7 +158,5 @@ NULL值表示变量没有值,NULL是数据类型为NULL的值,指明一个变量
 ?>
 ```
 
-## 二.运算符
 
-运算符是说明特定操作的符号,是构造
 

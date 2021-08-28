@@ -1,7 +1,7 @@
 ---
 title: leetcode-566-重塑矩阵
 date: 2021-07-05 12:29:25
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

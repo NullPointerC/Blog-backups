@@ -1,7 +1,7 @@
 ---
 title: leetcode-21-合并两个有序链表
 date: 2021-07-12 08:24:19
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

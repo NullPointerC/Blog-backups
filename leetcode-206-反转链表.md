@@ -1,7 +1,7 @@
 ---
 title: leetcode-206-反转链表
 date: 2021-07-13 07:58:15
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

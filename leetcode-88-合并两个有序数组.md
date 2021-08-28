@@ -1,7 +1,7 @@
 ---
 title: leetcode-88-合并两个有序数组
 date: 2021-07-03 14:55:28
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

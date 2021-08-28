@@ -1,7 +1,7 @@
 ---
 title: leetcode-1-两数之和
 date: 2021-07-03 12:59:18
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

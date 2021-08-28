@@ -1,7 +1,7 @@
 ---
 title: leetcode-383-赎金信
 date: 2021-07-11 08:11:20
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

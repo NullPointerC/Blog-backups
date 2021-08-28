@@ -1,7 +1,7 @@
 ---
 title: leetcode-242-有效的单词异位词
 date: 2021-07-11 08:30:59
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

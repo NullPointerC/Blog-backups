@@ -1,7 +1,7 @@
 ---
 title: leetcode-101-对称二叉树
 date: 2021-07-14 09:25:35
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

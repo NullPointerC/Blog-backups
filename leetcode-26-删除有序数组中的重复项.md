@@ -1,7 +1,7 @@
 ---
 title: leetcode-26.删除有序数组中的重复项
 date: 2021-06-08 22:09:07
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

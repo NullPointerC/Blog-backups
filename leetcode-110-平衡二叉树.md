@@ -1,7 +1,7 @@
 ---
 title: leetcode-110-平衡二叉树
 date: 2021-07-01 12:28:48
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

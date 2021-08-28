@@ -1,7 +1,7 @@
 ---
 title: leetcode-73-矩阵置零
 date: 2021-07-10 09:03:36
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

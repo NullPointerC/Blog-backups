@@ -1,7 +1,7 @@
 ---
 title: leetcode-144-二叉树的前序遍历
 date: 2021-07-14 07:57:41
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

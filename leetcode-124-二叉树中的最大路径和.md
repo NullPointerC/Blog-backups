@@ -1,7 +1,7 @@
 ---
 title: leetcode-124-二叉树中的最大路径和
 date: 2021-08-15 11:32:17
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 

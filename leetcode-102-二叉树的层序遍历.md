@@ -1,7 +1,7 @@
 ---
 title: leetcode-102-二叉树的层序遍历
 date: 2021-07-14 08:38:58
-categories: algorithm
+categories: LeetCode
 tags: [algorithm,Java,LeetCode]
 ---
 
