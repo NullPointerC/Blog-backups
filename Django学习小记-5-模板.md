@@ -1,8 +1,11 @@
 ---
 title: Django学习小记-5-模板
+categories: [Django]
+tags:
+  - Python
+  - backend
+  - Django
 date: 2021-08-21 16:19:31
-categories: Python
-tags: [Python,backend,Django]
 ---
 
 

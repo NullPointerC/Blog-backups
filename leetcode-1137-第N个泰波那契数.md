@@ -1,9 +1,10 @@
 ---
 title: leetcode-1137-第N个泰波那契数
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-01 10:08:48
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/n-th-tribonacci-number/)

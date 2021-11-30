@@ -1,9 +1,10 @@
 ---
 title: leetcode-292-Nim游戏
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-18 19:03:36
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/nim-game/)

@@ -1,8 +1,11 @@
 ---
 title: Django学习小记-8-中间件
+categories: [Django]
+tags:
+  - Python
+  - backend
+  - Django
 date: 2021-08-26 17:01:24
-categories: Python
-tags: [Python,backend,Django]
 ---
 
 中间件是Django请求与响应处理的钩子框架，是一个轻量级的插件系统。

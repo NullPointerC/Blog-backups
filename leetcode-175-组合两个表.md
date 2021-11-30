@@ -1,8 +1,10 @@
 ---
 title: leetcode-175-组合两个表
+categories: [LeetCode]
+tags:
+  - SQL
+  - LeetCode
 date: 2021-08-23 15:40:19
-categories: LeetCode
-tags: [MySQL,SQL,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/combine-two-tables/)

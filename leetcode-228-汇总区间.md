@@ -1,8 +1,10 @@
 ---
 title: leetcode-228-汇总区间
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-06-22 13:42:15
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 <a href="https://leetcode-cn.com/problems/summary-ranges/">传送门</a>

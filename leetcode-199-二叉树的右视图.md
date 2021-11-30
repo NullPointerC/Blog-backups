@@ -1,8 +1,10 @@
 ---
 title: leetcode-199-二叉树的右视图
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-29 11:14:33
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/binary-tree-right-side-view/)

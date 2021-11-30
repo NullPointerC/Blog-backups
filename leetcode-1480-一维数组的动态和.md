@@ -1,8 +1,10 @@
 ---
 title: leetcode-1480-一维数组的动态和
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-29 09:56:58
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/running-sum-of-1d-array/)

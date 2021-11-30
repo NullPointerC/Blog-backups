@@ -1,8 +1,10 @@
 ---
 title: leetcode-99-恢复二叉搜索树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-15 12:55:56
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/recover-binary-search-tree/)

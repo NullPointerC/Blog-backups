@@ -1,8 +1,11 @@
 ---
 title: Django学习小记-4-视图
+categories: [Django]
+tags:
+  - Python
+  - backend
+  - Django
 date: 2021-08-19 00:01:21
-categories: Python
-tags: [Python,backend,Django]
 ---
 
 >这里记录一下Django的视图和后台管理

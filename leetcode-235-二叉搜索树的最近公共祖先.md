@@ -1,8 +1,10 @@
 ---
 title: leetcode-235-二叉搜索树的最近公共祖先
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-17 19:33:34
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 **[link](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)**

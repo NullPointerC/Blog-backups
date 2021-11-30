@@ -1,8 +1,10 @@
 ---
 title: leetcode-83-删除排序链表中的重复元素
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-06-10 21:14:02
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 <a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/" style="color:red;text-decoration:none">传送门</a>

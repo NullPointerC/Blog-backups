@@ -1,8 +1,10 @@
 ---
 title: leetcode-21-合并两个有序链表
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-12 08:24:19
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/merge-two-sorted-lists/)

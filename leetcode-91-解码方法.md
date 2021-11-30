@@ -1,9 +1,10 @@
 ---
 title: leetcode-91-解码方法
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-11 11:26:29
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/decode-ways/)

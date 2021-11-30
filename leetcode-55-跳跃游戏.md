@@ -1,9 +1,10 @@
 ---
 title: leetcode-55-跳跃游戏
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-04 10:26:33
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/jump-game/)

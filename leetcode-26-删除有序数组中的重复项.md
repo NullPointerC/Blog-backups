@@ -1,8 +1,10 @@
 ---
 title: leetcode-26.删除有序数组中的重复项
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-06-08 22:09:07
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 <a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/" style="color:red;text-decoration:none">传送门</a>

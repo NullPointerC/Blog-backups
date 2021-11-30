@@ -1,8 +1,11 @@
 ---
 title: Django学习小记-2-配置
+categories: [Django]
+tags:
+  - Python
+  - backend
+  - Django
 date: 2021-08-09 21:27:01
-categories: Python
-tags: [Python,backend,Django]
 ---
 
 ## 一、项目配置

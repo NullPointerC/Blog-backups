@@ -1,9 +1,10 @@
 ---
 title: leetcode-162-寻找峰值
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-15 09:55:10
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/find-peak-element/)
@@ -71,6 +72,21 @@ class Solution {
         }
         return front;
     }
+}
+```
+
+```go
+func findPeakElement(nums []int) int {
+    left, right := 0, len(nums) - 1
+    for left < right {
+        mid := left + (right - left) >> 1
+        if nums[mid] < nums[mid + 1] {
+            left = mid + 1
+        } else {
+            right = mid
+        }
+    }
+    return left
 }
 ```
 

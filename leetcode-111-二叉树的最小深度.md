@@ -1,8 +1,10 @@
 ---
 title: leetcode-111-二叉树的最小深度
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-01 13:04:36
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [<font color='blue'>传送门</font>](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/submissions/)

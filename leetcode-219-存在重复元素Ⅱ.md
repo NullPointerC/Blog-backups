@@ -1,8 +1,10 @@
 ---
 title: leetcode-219-存在重复元素Ⅱ
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-06-21 21:34:23
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 <a href="https://leetcode-cn.com/problems/contains-duplicate-ii/">传送门</a>

@@ -1,8 +1,10 @@
 ---
 title: leetcode-98-验证二叉搜索树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-18 11:33:10
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/validate-binary-search-tree/)

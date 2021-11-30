@@ -1,8 +1,10 @@
 ---
 title: Go语言学习-1.语言介绍
+categories: [Go]
+tags:
+  - backend
+  - Go
 date: 2021-03-29 12:53:02
-categories: Go
-tags: [backend,Go]
 ---
 
 ## 一.Go语言的前世今生

@@ -1,8 +1,10 @@
 ---
 title: leetcode-141-环形链表
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-12 08:09:20
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/linked-list-cycle/)

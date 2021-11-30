@@ -1,8 +1,10 @@
 ---
 title: leetcode-101-对称二叉树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-14 09:25:35
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/symmetric-tree/)

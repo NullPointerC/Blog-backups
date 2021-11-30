@@ -1,8 +1,10 @@
 ---
 title: SpringBoot-02-自动配置
+categories: [SpringBoot]
+tags:
+  - backend
+  - SpringBoot
 date: 2021-04-04 09:42:23
-categories: SpringBoot
-tags: [Java,backend,SpringBoot]
 ---
 
 # 1、自动配置原理入门

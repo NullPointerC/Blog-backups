@@ -1,8 +1,10 @@
 ---
 title: SpringBoot-01-容器配置
+categories: [SpringBoot]
+tags:
+  - backend
+  - SpringBoot
 date: 2021-04-03 22:04:42
-categories: SpringBoot
-tags: [Java,backend,SpringBoot]
 ---
 
 # 1、SpringBoot特点

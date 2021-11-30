@@ -1,9 +1,10 @@
 ---
 title: leetcode-1221-分割平衡字符串
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-07 16:37:41
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)

@@ -1,8 +1,10 @@
 ---
 title: leetcode-297-二叉树的序列化和反序列化
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-30 22:46:20
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)

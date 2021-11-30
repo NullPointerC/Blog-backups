@@ -1,9 +1,10 @@
 ---
 title: leetcode-129-求根节点到叶节点数字之和
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-25 15:40:08
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 

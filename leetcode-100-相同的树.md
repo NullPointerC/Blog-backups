@@ -1,8 +1,10 @@
 ---
 title: leetcode-100-相同的树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-06-24 19:23:55
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 <a href="https://leetcode-cn.com/problems/same-tree/submissions/">传送门</a>

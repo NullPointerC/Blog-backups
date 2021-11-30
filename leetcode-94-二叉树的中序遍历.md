@@ -1,8 +1,10 @@
 ---
 title: leetcode-94-二叉树的中序遍历
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-06-11 20:54:43
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 <a href="https://leetcode-cn.com/problems/binary-tree-inorder-traversal/submissions/" style="color:red;text-decoration:none">传送门</a>

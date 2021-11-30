@@ -1,8 +1,10 @@
 ---
 title: leetcode-206-反转链表
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-13 07:58:15
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/reverse-linked-list/)

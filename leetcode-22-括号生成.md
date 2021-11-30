@@ -1,9 +1,10 @@
 ---
 title: leetcode-22-括号生成
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-24 09:51:22
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/generate-parentheses/submissions/)

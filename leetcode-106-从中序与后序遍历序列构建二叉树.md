@@ -1,8 +1,10 @@
 ---
 title: leetcode-106-从中序与后序遍历序列构建二叉树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-19 09:11:16
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)

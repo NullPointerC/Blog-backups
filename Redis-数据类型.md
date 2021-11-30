@@ -1,8 +1,10 @@
 ---
 title: Redis-数据类型
+categories: [Redis]
+tags:
+  - backend
+  - Redis
 date: 2021-08-28 17:30:10
-categories: Redis
-tags: [SQL,backend,Redis]
 ---
 
 ## 数据类型

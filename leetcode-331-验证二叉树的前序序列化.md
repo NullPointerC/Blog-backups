@@ -1,8 +1,10 @@
 ---
 title: leetcode-331-验证二叉树的前序序列化
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-31 11:16:21
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)

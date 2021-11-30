@@ -1,8 +1,10 @@
 ---
 title: leetcode-108-将有序数组转换为二叉搜索树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-06-30 10:23:19
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [传送门](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)

@@ -1,8 +1,11 @@
 ---
 title: Core-Java学习笔记-8
+categories: [Java]
+tags:
+  - Java
+  - backend
+  - 计算机基础
 date: 2021-07-18 09:15:57
-categories: Java
-tags: [Java,backend,计算机基础]
 ---
 
 > CoreJava第9章 集合

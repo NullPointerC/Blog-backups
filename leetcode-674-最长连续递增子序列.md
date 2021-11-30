@@ -1,9 +1,10 @@
 ---
 title: leetcode-674-最长连续递增子序列
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-16 15:30:31
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)

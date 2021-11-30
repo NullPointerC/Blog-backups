@@ -1,9 +1,10 @@
 ---
 title: leetcode-515-在每个树行中找最大值
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-19 19:10:19
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)

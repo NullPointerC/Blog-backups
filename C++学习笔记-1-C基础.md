@@ -1,9 +1,11 @@
 ---
 title: C++学习笔记-1-C基础
+categories: [C++]
+tags:
+  - C++
+  - backend
+  - 计算机基础
 date: 2021-07-11 21:02:10
-categories: C++
-tags: [C++,backend,计算机基础]
-
 ---
 
 虽然是学C++,但是C++的基础是C,所以顺带着把C也回顾了一遍

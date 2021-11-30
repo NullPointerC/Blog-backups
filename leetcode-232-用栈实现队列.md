@@ -1,8 +1,10 @@
 ---
 title: leetcode-232-用栈实现队列
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-13 09:06:11
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/implement-queue-using-stacks/)

@@ -1,8 +1,11 @@
 ---
 title: Core-Java学习笔记-2
+categories: [Java]
+tags:
+  - Java
+  - backend
+  - 计算机基础
 date: 2021-04-24 22:43:59
-categories: Java
-tags: [Java,backend,计算机基础]
 ---
 
 前言:这是Core-Java中的第三章部分Java的基本程序设计结构

@@ -1,8 +1,10 @@
 ---
 title: leetcode-62-不同路径
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-28 10:08:43
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/unique-paths/)

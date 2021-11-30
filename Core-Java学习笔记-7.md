@@ -1,8 +1,11 @@
 ---
 title: Core-Java-学习笔记7
+categories: [Java]
+tags:
+  - Java
+  - backend
+  - 计算机基础
 date: 2021-07-17 12:52:00
-categories: Java
-tags: [Java,backend,计算机基础]
 ---
 
 > Core-Java的第8章 泛型程序设计

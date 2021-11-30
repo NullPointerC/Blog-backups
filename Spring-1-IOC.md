@@ -1,9 +1,10 @@
 ---
 title: Spring-1-IOC
+categories: [Spring]
+tags:
+  - FrameWork
+  - backend
 date: 2021-08-31 17:59:44
-categories: FrameWork
-tags: [FrameWork,backend,Spring,Java]
-
 ---
 
 ## IOC

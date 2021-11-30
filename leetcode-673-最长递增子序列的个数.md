@@ -1,9 +1,10 @@
 ---
 title: leetcode-673-最长递增子序列的个数
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-20 13:22:40
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)

@@ -1,8 +1,10 @@
 ---
 title: leetcode-53-最大子序和
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-02 17:26:50
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/maximum-subarray/)

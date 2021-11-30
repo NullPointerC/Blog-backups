@@ -1,9 +1,10 @@
 ---
 title: leetcode-322-零钱兑换
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-18 10:23:45
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/coin-change/)

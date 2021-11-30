@@ -1,8 +1,10 @@
 ---
 title: leetcode-118-杨辉三角
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-05 12:49:08
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/pascals-triangle/)

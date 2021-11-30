@@ -1,9 +1,10 @@
 ---
 title: leetcode-404-左叶子之和
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-03 11:44:22
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/sum-of-left-leaves/)

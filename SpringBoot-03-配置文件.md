@@ -1,8 +1,10 @@
 ---
 title: SpringBoot-03-配置文件
+categories: [SpringBoot]
+tags:
+  - backend
+  - SpringBoot
 date: 2021-04-05 10:21:55
-categories: SpringBoot
-tags: [Java,backend,SpringBoot]
 ---
 
 # 1、文件类型
@@ -148,3 +150,4 @@ person:
         </plugins>
     </build>
 ```
+

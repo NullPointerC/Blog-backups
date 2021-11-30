@@ -1,8 +1,10 @@
 ---
 title: leetcode-172-阶乘后的零
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-16 21:41:57
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [Link](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)

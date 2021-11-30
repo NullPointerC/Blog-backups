@@ -1,9 +1,10 @@
 ---
 title: leetcode-11-盛最多水的容器
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-06 20:25:50
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/container-with-most-water/)

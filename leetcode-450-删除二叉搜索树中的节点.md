@@ -1,9 +1,10 @@
 ---
 title: leetcode-450-删除二叉搜索树中的节点
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-06 19:49:38
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/delete-node-in-a-bst/solution/)

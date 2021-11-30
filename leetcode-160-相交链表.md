@@ -1,9 +1,10 @@
 ---
 title: leetcode-160-相交链表
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-07 18:22:41
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)

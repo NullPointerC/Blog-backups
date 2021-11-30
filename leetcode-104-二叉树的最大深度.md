@@ -1,8 +1,10 @@
 ---
 title: leetcode-104-二叉树的最大深度
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-14 09:21:42
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)

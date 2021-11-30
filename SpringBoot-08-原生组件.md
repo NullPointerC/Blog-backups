@@ -1,9 +1,10 @@
 ---
 title: SpringBoot-08-原生组件
+categories: [SpringBoot]
+tags:
+  - backend
+  - SpringBoot
 date: 2021-04-10 09:58:35
-categories: SpringBoot
-tags: [Java,backend,SpringBoot]
-
 ---
 
 # Web原生组件注入

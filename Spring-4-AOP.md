@@ -1,9 +1,10 @@
 ---
 title: Spring-4-AOP
+categories: [Spring]
+tags:
+  - FrameWork
+  - backend
 date: 2021-09-03 21:51:57
-categories: FrameWork
-tags: [FrameWork,backend,Spring,Java]
-
 ---
 
 ## AOP

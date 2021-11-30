@@ -1,8 +1,11 @@
 ---
 title: Django学习小记-6-表单
+categories: [Django]
+tags:
+  - Python
+  - backend
+  - Django
 date: 2021-08-23 16:47:30
-categories: Python
-tags: [Python,backend,Django]
 ---
 
 在Web站点中与后端服务进行交互，通常使用表单提交的方式。表单提交数据到达后端，首先要对数据做校验，对于不合法的数据需要拒绝并提示给前端，通过校验之后才能执行服务返回响应。由于所有的表单创建与处理流程都是相似的，所以，Django将这一过程抽象出来，形成表单系统。从在浏览器中显示表单到数据验证，再到对错误的处理，都可以由表单系统来完成。

@@ -1,9 +1,10 @@
 ---
 title: Spring-3-注解开发
+categories: [Spring]
+tags:
+  - FrameWork
+  - backend
 date: 2021-09-03 19:40:38
-categories: FrameWork
-tags: [FrameWork,backend,Spring,Java]
-
 ---
 
 ## 注解开发

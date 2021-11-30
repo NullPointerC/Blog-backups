@@ -1,9 +1,10 @@
 ---
 title: leetcode-344-反转字符串
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-20 14:02:19
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/reverse-string/)
@@ -36,3 +37,28 @@ class Solution {
 }
 ```
 
+<hr/>
+
+plus:2021-11-3
+
+利用新学的位运算：
+
+```java
+class Solution {
+    public void reverseString(char[] s) {
+        int n = s.length;
+        for (int i = 0; i < n / 2; ++i) {
+            int j = n - 1 - i;
+            s[i] ^= s[j];
+            s[j] ^= s[i];
+            s[i] ^= s[j];
+        }
+    }
+}
+```
+
+第一步的时候$s[i]=s[i] \text {^} s[j]$
+
+第二步的时候$s[j] = s[j] \text{^} s[i] \text{^}s[j] \Rightarrow s[i] $
+
+最后再$s[i] = s[i] \text{^} s[j] \text{^} s[j] \Rightarrow s[i]$

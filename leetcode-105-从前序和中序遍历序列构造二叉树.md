@@ -1,8 +1,10 @@
 ---
 title: leetcode-105-从前序和中序遍历序列构造二叉树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-15 11:59:49
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)

@@ -1,9 +1,10 @@
 ---
 title: leetcode-437-路径总和Ⅲ
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-05 10:47:25
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/path-sum-iii/)

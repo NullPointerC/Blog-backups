@@ -1,8 +1,10 @@
 ---
 title: leetcode-144-二叉树的前序遍历
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-14 07:57:41
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)

@@ -1,8 +1,10 @@
 ---
 title: SpringBoot-05-请求参数处理
+categories: [SpringBoot]
+tags:
+  - backend
+  - SpringBoot
 date: 2021-04-08 09:58:35
-categories: SpringBoot
-tags: [Java,backend,SpringBoot]
 ---
 
 # 1、请求参数处理

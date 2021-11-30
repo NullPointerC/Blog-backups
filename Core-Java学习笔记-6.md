@@ -1,8 +1,11 @@
 ---
 title: Core-Java学习笔记-6
+categories: [Java]
+tags:
+  - Java
+  - backend
+  - 计算机基础
 date: 2021-07-15 09:09:28
-categories: Java
-tags: [Java,backend,计算机基础]
 ---
 
 > CoreJava第7章 异常、断言和日志

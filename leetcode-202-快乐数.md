@@ -1,9 +1,10 @@
 ---
 title: leetcode-202-快乐数
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-08 10:49:10
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/happy-number/)

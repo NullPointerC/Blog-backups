@@ -1,9 +1,10 @@
 ---
 title: leetcode-221-最大正方形
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-13 21:26:20
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$\huge {link}$](https://leetcode-cn.com/problems/maximal-square/)

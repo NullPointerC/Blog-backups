@@ -1,9 +1,10 @@
 ---
 title: leetcode-343-整数拆分
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-18 11:22:26
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/integer-break/)

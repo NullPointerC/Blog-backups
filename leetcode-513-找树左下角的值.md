@@ -1,9 +1,10 @@
 ---
 title: leetcode-513-找树左下角的值
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-19 18:47:16
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)

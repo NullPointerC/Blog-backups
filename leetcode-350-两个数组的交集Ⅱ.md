@@ -1,8 +1,10 @@
 ---
 title: leetcode-350-两个数组的交集Ⅱ
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-04 10:17:22
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)

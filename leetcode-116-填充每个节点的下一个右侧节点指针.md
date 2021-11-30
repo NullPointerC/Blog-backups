@@ -1,8 +1,10 @@
 ---
 title: leetcode-116-填充每个节点的下一个右侧节点指针
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-27 11:37:31
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)

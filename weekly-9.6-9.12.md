@@ -1,9 +1,10 @@
 ---
 title: weekly-9.6-9.12
+categories: [review]
+tags:
+  - record
+  - schoollife
 date: 2021-09-12 22:20:15
-categories: weekly
-tags: [record, schoollife]
-
 ---
 
 > 开学了也就是大三了,打算从大三开始每周都坚持写一篇周报记录自己大三这一年。

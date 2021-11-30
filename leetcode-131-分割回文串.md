@@ -1,9 +1,10 @@
 ---
 title: leetcode-131-分割回文串
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-11 15:52:25
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$\large \textit{link}$](https://leetcode-cn.com/problems/palindrome-partitioning/)

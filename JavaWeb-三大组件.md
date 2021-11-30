@@ -1,8 +1,11 @@
 ---
 title: JavaWeb-三大组件
+categories: [Java]
+tags:
+  - web
+  - Java
+  - backend
 date: 2021-07-30 16:54:59
-categories: Java
-tags: [web,Java,backend]
 ---
 
 ## 一、Servlet

@@ -1,8 +1,10 @@
 ---
 title: leetcode-102-二叉树的层序遍历
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-14 08:38:58
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)

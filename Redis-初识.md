@@ -1,8 +1,10 @@
 ---
 title: Redis-初识
+categories: [Redis]
+tags:
+  - backend
+  - Redis
 date: 2021-08-28 10:56:35
-categories: Redis
-tags: [SQL,backend,Redis]
 ---
 
 ## Redis介绍

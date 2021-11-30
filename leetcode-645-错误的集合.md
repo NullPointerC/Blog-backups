@@ -1,8 +1,10 @@
 ---
 title: leetcode-645-错误的集合
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-04 09:51:01
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/set-mismatch/)

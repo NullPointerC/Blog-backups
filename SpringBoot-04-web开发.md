@@ -1,8 +1,10 @@
 ---
 title: SpringBoot-04-web开发
+categories: [SpringBoot]
+tags:
+  - backend
+  - SpringBoot
 date: 2021-04-07 09:49:48
-categories: SpringBoot
-tags: [Java,backend,SpringBoot]
 ---
 
 # 1、SpringMVC自动配置概览

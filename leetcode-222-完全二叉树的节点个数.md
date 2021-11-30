@@ -1,8 +1,10 @@
 ---
 title: leetcode-222-完全二叉树的节点个数
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-29 11:57:46
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/count-complete-tree-nodes/)

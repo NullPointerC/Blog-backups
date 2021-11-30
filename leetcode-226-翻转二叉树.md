@@ -1,8 +1,10 @@
 ---
 title: leetcode-226-翻转二叉树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-15 21:03:43
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [Link](https://leetcode-cn.com/problems/invert-binary-tree/)

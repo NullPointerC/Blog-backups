@@ -1,8 +1,10 @@
 ---
 title: leetcode-230-二叉搜索树中第K小的元素
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-29 14:49:50
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)

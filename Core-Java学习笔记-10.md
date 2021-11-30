@@ -1,8 +1,11 @@
 ---
 title: Core-Java学习笔记-10
+categories: [Java]
+tags:
+  - Java
+  - backend
+  - 计算机基础
 date: 2021-07-20 15:44:40
-categories: Java
-tags: [Java,backend,计算机基础]
 ---
 
 > Core-Java第12章并发

@@ -1,8 +1,10 @@
 ---
 title: leetcode-96-不同的二叉搜索树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-16 13:37:36
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/unique-binary-search-trees/)

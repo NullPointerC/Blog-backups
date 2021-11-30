@@ -1,8 +1,10 @@
 ---
 title: leetcode-145-二叉树的后序遍历
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-14 08:07:31
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)

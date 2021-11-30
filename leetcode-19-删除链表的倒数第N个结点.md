@@ -1,9 +1,10 @@
 ---
 title: leetcode-19-删除链表的倒数第N个结点
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-08 10:25:14
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)

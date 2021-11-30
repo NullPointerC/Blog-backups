@@ -1,9 +1,10 @@
 ---
 title: leetcode-337-打家劫舍Ⅲ
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-02 18:40:29
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/house-robber-iii/submissions/)

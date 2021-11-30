@@ -1,8 +1,10 @@
 ---
 title: leetcode-176-第二高的薪水
+categories: [LeetCode]
+tags:
+  - SQL
+  - LeetCode
 date: 2021-08-25 11:02:07
-categories: LeetCode
-tags: [MySQL,SQL,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/second-highest-salary/)

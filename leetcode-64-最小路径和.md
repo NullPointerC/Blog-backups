@@ -1,9 +1,10 @@
 ---
 title: leetcode-64-最小路径和
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-10 16:46:05
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [**link**](https://leetcode-cn.com/problems/minimum-path-sum/submissions/)

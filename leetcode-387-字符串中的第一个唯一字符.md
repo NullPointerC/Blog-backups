@@ -1,8 +1,10 @@
 ---
 title: leetcode-387-字符串中的第一个唯一字符
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-11 07:58:14
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)

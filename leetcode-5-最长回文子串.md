@@ -1,8 +1,10 @@
 ---
 title: leetcode-5-最长回文子串
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-23 16:56:55
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/longest-palindromic-substring/)

@@ -1,8 +1,10 @@
 ---
 title: leetcode-45-跳跃游戏Ⅱ
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-28 09:27:34
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/jump-game-ii/)

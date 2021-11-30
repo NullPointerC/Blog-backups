@@ -1,9 +1,10 @@
 ---
 title: leetcode-341-扁平化嵌套列表迭代器
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-02 21:34:51
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)

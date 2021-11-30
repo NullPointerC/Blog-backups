@@ -1,8 +1,10 @@
 ---
 title: leetcode-177-第N高的薪水
+categories: [LeetCode]
+tags:
+  - SQL
+  - LeetCode
 date: 2021-08-29 10:14:10
-categories: LeetCode
-tags: [MySQL,SQL,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/nth-highest-salary/)

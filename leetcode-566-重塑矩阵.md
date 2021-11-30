@@ -1,8 +1,10 @@
 ---
 title: leetcode-566-重塑矩阵
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-05 12:29:25
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/reshape-the-matrix/)

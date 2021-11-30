@@ -1,8 +1,11 @@
 ---
 title: Django学习小记-7-路由
+categories: [Django]
+tags:
+  - Python
+  - backend
+  - Django
 date: 2021-08-25 16:54:04
-categories: Python
-tags: [Python,backend,Django]
 ---
 
 >路由系统最本质的目的就是建立请求URL与视图函数（类）之间的映射关系。

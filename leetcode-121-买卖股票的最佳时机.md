@@ -1,8 +1,10 @@
 ---
 title: leetcode-121-买卖股票的最佳时机
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-04 11:15:07
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)

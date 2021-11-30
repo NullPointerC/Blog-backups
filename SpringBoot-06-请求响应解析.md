@@ -1,8 +1,10 @@
 ---
 title: SpringBoot-06-请求响应解析
+categories: [SpringBoot]
+tags:
+  - backend
+  - SpringBoot
 date: 2021-04-09 09:58:35
-categories: SpringBoot
-tags: [Java,backend,SpringBoot]
 ---
 
 # 1、数据响应

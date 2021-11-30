@@ -1,8 +1,10 @@
 ---
 title: leetcode-112-路径总和
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-15 21:07:50
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [Link](https://leetcode-cn.com/problems/path-sum/)

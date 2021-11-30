@@ -1,8 +1,10 @@
 ---
 title: leetcode-110-平衡二叉树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-01 12:28:48
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [<font color="blue">传送门</font>](https://leetcode-cn.com/problems/balanced-binary-tree/submissions/)

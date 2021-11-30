@@ -1,9 +1,10 @@
 ---
 title: leetcode-429-N叉树的层序遍历
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-05 09:59:05
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)

@@ -1,9 +1,10 @@
 ---
 title: leetcode-427-建立四叉树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-03 13:13:02
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/construct-quad-tree/)

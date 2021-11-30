@@ -1,8 +1,11 @@
 ---
 title: Django学习小记-1-简介
+categories: [Django]
+tags:
+  - Python
+  - backend
+  - Django
 date: 2021-08-07 20:12:34
-categories: Python
-tags: [Python,backend,Django]
 ---
 
 >本系列用于记录本人的Django学习之旅

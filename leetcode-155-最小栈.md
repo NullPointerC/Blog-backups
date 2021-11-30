@@ -1,8 +1,10 @@
 ---
 title: leetcode-155-最小栈
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-06-17 19:18:14
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 <a href="https://leetcode-cn.com/problems/min-stack/submissions/" style="color:red;text-decoration:none">传送门</a>

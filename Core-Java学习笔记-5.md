@@ -1,8 +1,11 @@
 ---
 title: Core-Java学习笔记-5
+categories: [Java]
+tags:
+  - Java
+  - backend
+  - 计算机基础
 date: 2021-07-12 09:32:24
-categories: Java
-tags: [Java,backend,计算机基础]
 ---
 
 > CoreJava第六章---接口、lambda表达式与内部类

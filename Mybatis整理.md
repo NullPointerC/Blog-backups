@@ -1,9 +1,11 @@
 ---
 title: Mybatis整理
+categories: [FrameWork]
+tags:
+  - FrameWork
+  - backend
+  - Mybatis
 date: 2021-08-19 11:12:41
-categories: FrameWork
-tags: [FrameWork,backend,Mybatis]
-
 ---
 
 ## 一、框架简述

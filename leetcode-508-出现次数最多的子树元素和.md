@@ -1,9 +1,10 @@
 ---
 title: leetcode-508-出现次数最多的子树元素和
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-19 18:13:59
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/most-frequent-subtree-sum/)

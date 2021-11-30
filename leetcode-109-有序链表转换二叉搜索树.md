@@ -1,8 +1,10 @@
 ---
 title: leetcode-109-有序链表转换二叉搜索树
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-20 09:35:13
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)

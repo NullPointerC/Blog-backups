@@ -1,8 +1,10 @@
 ---
 title: leetcode-173-二叉搜索树迭代器
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-29 10:31:59
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/binary-search-tree-iterator/)

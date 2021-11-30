@@ -1,8 +1,10 @@
 ---
 title: leetcode-36-有效的数独
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-10 08:53:34
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/valid-sudoku/submissions/)

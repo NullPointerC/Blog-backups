@@ -1,9 +1,10 @@
 ---
 title: leetcode-17-电话号码的字母组合
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-14 21:21:46
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)

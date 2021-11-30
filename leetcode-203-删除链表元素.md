@@ -1,8 +1,10 @@
 ---
 title: leetcode-203-删除链表元素
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-12 09:00:24
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/remove-linked-list-elements/)

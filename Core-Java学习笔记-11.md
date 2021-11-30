@@ -1,8 +1,11 @@
 ---
 title: Core-Java学习笔记-11
+categories: [Java]
+tags:
+  - Java
+  - backend
+  - 计算机基础
 date: 2021-07-21 16:00:40
-categories: Java
-tags: [Java,backend,计算机基础]
 ---
 
 > CoreJava卷2：高级特性 第1章 Java8的流库

@@ -1,8 +1,10 @@
 ---
 title: leetcode-168-Excel表列名称
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-06-29 09:56:43
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 <a href="https://leetcode-cn.com/problems/excel-sheet-column-title/">传送门</a>

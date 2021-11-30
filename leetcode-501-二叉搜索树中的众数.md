@@ -1,9 +1,10 @@
 ---
 title: leetcode-501-二叉搜索树中的众数
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-19 17:44:15
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)

@@ -1,8 +1,10 @@
 ---
 title: leetcode-257-二叉树的所有路径
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-30 21:36:42
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/binary-tree-paths/)

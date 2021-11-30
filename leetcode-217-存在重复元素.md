@@ -1,8 +1,10 @@
 ---
 title: leetcode-217-存在重复元素
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-02 16:31:15
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 看到leetcode有个[活动](https://leetcode-cn.com/study-plan/data-structures/?progress=kzlb5)是3天学数据结构,正好复习一遍数据结构

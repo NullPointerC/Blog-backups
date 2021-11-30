@@ -1,8 +1,11 @@
 ---
 title: JavaWeb-协议和服务器
+categories: [Java]
+tags:
+  - web
+  - Java
+  - backend
 date: 2021-07-30 14:40:53
-categories: Java
-tags: [web,Java,backend]
 ---
 ## 一、HTTP协议
 

@@ -1,8 +1,11 @@
 ---
 title: Django学习小记-3-ORM
+categories: [Django]
+tags:
+  - Python
+  - backend
+  - Django
 date: 2021-08-17 22:23:31
-categories: Python
-tags: [Python,backend,Django]
 ---
 
 ## 一、Django ORM

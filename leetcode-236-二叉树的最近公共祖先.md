@@ -1,9 +1,10 @@
 ---
 title: leetcode-236-二叉树的最近公共祖先
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-08-30 21:20:21
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [link](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)

@@ -1,8 +1,11 @@
 ---
 title: Core-Java学习笔记-1
+categories: [Java]
+tags:
+  - Java
+  - backend
+  - 计算机基础
 date: 2021-04-24 15:33:39
-categories: Java
-tags: [Java,backend,计算机基础]
 ---
 
 ## 一.前言

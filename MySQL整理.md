@@ -1,8 +1,10 @@
 ---
 title: MySQL整理
+categories: [MySQL]
+tags:
+  - backend
+  - MySQL
 date: 2021-08-15 22:22:48
-categories: MySQL
-tags: [SQL,backend,MySQL]
 ---
 
 ## 一、数据库简介

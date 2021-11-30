@@ -1,8 +1,10 @@
 ---
 title: leetcode-119-杨辉三角Ⅱ
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-16 21:19:44
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/pascals-triangle-ii/)

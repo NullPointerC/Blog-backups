@@ -1,9 +1,10 @@
 ---
 title: Spring-2-bean生命周期
+categories: [Spring]
+tags:
+  - FrameWork
+  - backend
 date: 2021-09-03 18:53:05
-categories: FrameWork
-tags: [FrameWork,backend,Spring,Java]
-
 ---
 
 ## bean scope

@@ -1,8 +1,10 @@
 ---
 title: leetcode-242-有效的单词异位词
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-07-11 08:30:59
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
 ---
 
 [link](https://leetcode-cn.com/problems/valid-anagram/)

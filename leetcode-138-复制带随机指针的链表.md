@@ -1,9 +1,10 @@
 ---
 title: leetcode-138-复制带随机指针的链表
+categories: [LeetCode]
+tags:
+  - algorithm
+  - LeetCode
 date: 2021-09-20 13:52:17
-categories: LeetCode
-tags: [algorithm,Java,LeetCode]
-
 ---
 
 [$link$](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
