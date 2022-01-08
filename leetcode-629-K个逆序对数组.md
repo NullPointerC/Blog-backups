@@ -2,7 +2,7 @@
 title: leetcode-629-K个逆序对数组
 date: 2021-11-11 20:47:22
 categories: LeetCode
-tags: [leetCode,algorithm]
+tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/k-inverse-pairs-array/)

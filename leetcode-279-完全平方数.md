@@ -2,7 +2,7 @@
 title: leetcode-279-完全平方数
 date: 2021-10-29 16:28:16
 categories: [LeetCode]
-tags: [Leetcode,algorithm]
+tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/perfect-squares/)
