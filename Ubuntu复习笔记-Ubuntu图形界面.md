@@ -3,6 +3,7 @@ title: Ubuntu复习笔记-Ubuntu图形界面
 date: 2022-01-02 20:22:28
 categories: Ubuntu
 tags: [Ubuntu,Linux,backend]
+hidden: true
 ---
 
 Ubuntu不仅提供了强大的字符界面，而且比较方便的可以定制图形界面。

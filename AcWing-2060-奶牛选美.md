@@ -3,6 +3,7 @@ title: AcWing-2060-奶牛选美
 date: 2022-01-04 17:03:09
 categories: AcWing
 tags: [AcWing,algorithm]
+hidden: true
 ---
 
 [2060. 奶牛选美](https://www.acwing.com/problem/content/description/2062/)

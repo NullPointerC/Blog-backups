@@ -3,6 +3,7 @@ title: Ubuntu复习笔记-认识Linux
 date: 2022-01-01 20:10:44
 categories: Ubuntu
 tags: [Ubuntu,Linux,backend]
+hidden: true
 ---
 
 本次复习基于$Ubuntu20.04$的发行版进行总结，目的是更好记录自己学习的$Linux$。

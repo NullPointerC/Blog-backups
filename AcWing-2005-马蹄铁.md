@@ -3,6 +3,7 @@ title: AcWing-2005-马蹄铁
 date: 2022-01-07 16:37:15
 categories: AcWing
 tags: [AcWing,algorithm]
+hidden: true
 ---
 
 [2005. 马蹄铁](https://www.acwing.com/problem/content/description/2007/)
