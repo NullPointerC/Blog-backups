@@ -2,7 +2,7 @@
 title: leetcode-2022-将一维数组转变为二维数组
 date: 2022-01-01 17:21:08
 categories: LeetCode
-tags: LeetCode,algorithm
+tags: [LeetCode,algorithm]
 ---
 
 ![image-20220101172143030](https://gitee.com/cao_ziqiang/img/raw/master/20220101172143.png)
