@@ -1,9 +1,11 @@
 ---
 title: leetcode-300-最长递增子序列
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3808c419
 date: 2021-09-16 12:05:40
 ---
 

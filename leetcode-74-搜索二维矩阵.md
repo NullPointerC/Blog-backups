@@ -1,8 +1,11 @@
 ---
 title: leetcode-74-搜索二维矩阵
-date: 2021-11-14 20:13:22
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 2b4c757a
+date: 2021-11-14 20:13:22
 ---
 
 [$link$](https://leetcode-cn.com/problems/search-a-2d-matrix/)

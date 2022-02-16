@@ -1,9 +1,11 @@
 ---
 title: Go语言学习-8-map
-categories: [Go]
+categories:
+  - Go
 tags:
   - backend
   - Go
+abbrlink: 103c0c35
 date: 2021-10-14 20:37:20
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-563-二叉树的坡度
-date: 2021-11-18 16:09:49
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: c88b9bd0
+date: 2021-11-18 16:09:49
 ---
 
 [$link$](https://leetcode-cn.com/problems/binary-tree-tilt/)

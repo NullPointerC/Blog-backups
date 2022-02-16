@@ -1,9 +1,11 @@
 ---
 title: leetcode-53-最大子序和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 46eb9f97
 date: 2021-07-02 17:26:50
 ---
 

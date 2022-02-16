@@ -1,9 +1,11 @@
 ---
 title: leetcode-566-重塑矩阵
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 11da6373
 date: 2021-07-05 12:29:25
 ---
 

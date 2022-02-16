@@ -1,8 +1,11 @@
 ---
 title: leetcode-391-完美矩形
-date: 2021-11-16 08:37:12
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 1cd6bf45
+date: 2021-11-16 08:37:12
 ---
 
 [$link$](https://leetcode-cn.com/problems/perfect-rectangle/)

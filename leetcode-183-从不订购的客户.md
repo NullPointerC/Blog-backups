@@ -1,9 +1,11 @@
 ---
 title: leetcode-183-从不订购的客户
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: 11a307fa
 date: 2021-10-10 19:28:47
 ---
 

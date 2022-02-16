@@ -1,9 +1,11 @@
 ---
 title: SpringBoot-08-原生组件
-categories: [SpringBoot]
+categories:
+  - SpringBoot
 tags:
   - backend
   - SpringBoot
+abbrlink: c2bec084
 date: 2021-04-10 09:58:35
 ---
 

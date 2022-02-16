@@ -1,9 +1,11 @@
 ---
 title: leetcode-1-两数之和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 9d976f6b
 date: 2021-07-03 12:59:18
 ---
 

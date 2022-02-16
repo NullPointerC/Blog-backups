@@ -1,9 +1,12 @@
 ---
 title: AcWing-2014-岛
-date: 2022-01-07 14:03:20
 categories: AcWing
-tags: [AcWing,algorithm]
+tags:
+  - AcWing
+  - algorithm
 hidden: true
+abbrlink: 6f1971b1
+date: 2022-01-07 14:03:20
 ---
 
 [2014. 岛](https://www.acwing.com/problem/content/description/2016/)

@@ -1,9 +1,11 @@
 ---
 title: leetcode-100-相同的树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 29c235b7
 date: 2021-06-24 19:23:55
 ---
 

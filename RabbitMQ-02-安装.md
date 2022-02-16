@@ -1,9 +1,11 @@
 ---
 title: RabbitMQ-02-安装
-categories: [MQ]
+categories:
+  - MQ
 tags:
   - MQ
   - backend
+abbrlink: '421795e8'
 date: 2021-09-21 15:36:53
 ---
 

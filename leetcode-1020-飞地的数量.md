@@ -1,8 +1,11 @@
 ---
 title: leetcode-1020-飞地的数量
-date: 2022-02-12 16:37:49
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: c77f73c1
+date: 2022-02-12 16:37:49
 ---
 
 [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/ "1020. 飞地的数量")

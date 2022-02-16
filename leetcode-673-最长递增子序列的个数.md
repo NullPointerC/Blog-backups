@@ -1,9 +1,11 @@
 ---
 title: leetcode-673-最长递增子序列的个数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 45cb857d
 date: 2021-09-20 13:22:40
 ---
 

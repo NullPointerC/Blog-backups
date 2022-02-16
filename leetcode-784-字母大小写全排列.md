@@ -1,8 +1,11 @@
 ---
 title: leetcode-784-字母大小写全排列
-date: 2021-11-10 16:24:35
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 28b52a68
+date: 2021-11-10 16:24:35
 ---
 
 [$link$](https://leetcode-cn.com/problems/letter-case-permutation/)

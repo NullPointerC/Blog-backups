@@ -1,12 +1,14 @@
 ---
 title: C++学习笔记-2-C进阶
-categories: [C++]
+categories:
+  - C++
 tags:
   - C++
   - backend
   - 计算机基础
-date: 2021-07-17 17:08:12
 hidden: true
+abbrlink: 3fc05dec
+date: 2021-07-17 17:08:12
 ---
 ## 预处理
 

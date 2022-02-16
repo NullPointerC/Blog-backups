@@ -1,9 +1,11 @@
 ---
 title: weekly-10.4-10.10
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
+abbrlink: f0bdd2
 date: 2021-10-10 22:18:44
 ---
 

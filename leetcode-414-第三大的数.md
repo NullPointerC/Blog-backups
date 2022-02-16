@@ -1,9 +1,11 @@
 ---
 title: leetcode-414-第三大的数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: dc7b78b7
 date: 2021-10-06 12:03:10
 ---
 

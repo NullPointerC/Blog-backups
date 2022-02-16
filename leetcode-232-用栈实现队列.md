@@ -1,9 +1,11 @@
 ---
 title: leetcode-232-用栈实现队列
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3744ceec
 date: 2021-07-13 09:06:11
 ---
 

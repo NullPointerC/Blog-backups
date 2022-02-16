@@ -1,9 +1,11 @@
 ---
 title: leetcode-128-最长连续序列
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: c430e00
 date: 2021-09-16 16:02:10
 ---
 

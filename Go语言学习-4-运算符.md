@@ -1,9 +1,11 @@
 ---
 title: Go语言学习-4-运算符
-categories: [Go]
+categories:
+  - Go
 tags:
   - backend
   - Go
+abbrlink: c5dacbe6
 date: 2021-10-13 21:32:26
 ---
 

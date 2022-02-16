@@ -1,10 +1,12 @@
 ---
 title: Go语言学习-9-函数
-date: 2021-10-17 20:28:43
-categories: [Go]
+categories:
+  - Go
 tags:
   - backend
   - Go
+abbrlink: 29f93ebc
+date: 2021-10-17 20:28:43
 ---
 
 继续学Go了。在Go中也是有函数这么一个可复用的代码块。

@@ -1,9 +1,11 @@
 ---
 title: leetcode-131-分割回文串
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: b4196748
 date: 2021-09-11 15:52:25
 ---
 

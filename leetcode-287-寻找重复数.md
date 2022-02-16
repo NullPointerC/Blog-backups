@@ -1,9 +1,11 @@
 ---
 title: leetcode-287-寻找重复数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: ac8c8f12
 date: 2021-09-20 14:30:22
 ---
 

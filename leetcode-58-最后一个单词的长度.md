@@ -1,9 +1,11 @@
 ---
 title: leetcode-58-最后一个单词的长度
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 37d7cb35
 date: 2021-09-21 10:09:11
 ---
 

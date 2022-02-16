@@ -1,9 +1,12 @@
 ---
 title: AcWing-2019-拖拉机
-date: 2022-01-05 19:37:43
 categories: AcWing
-tags: [AcWing,algorithm]
+tags:
+  - AcWing
+  - algorithm
 hidden: true
+abbrlink: e65d76b
+date: 2022-01-05 19:37:43
 ---
 
 [2019. 拖拉机](https://www.acwing.com/problem/content/description/2021/)

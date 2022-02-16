@@ -1,8 +1,11 @@
 ---
 title: leetcode-1716-计算力扣银行的钱
-date: 2022-01-15 12:27:04
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 1c75e7a4
+date: 2022-01-15 12:27:04
 ---
 
 [1716. 计算力扣银行的钱](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/)

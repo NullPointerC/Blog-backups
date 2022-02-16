@@ -1,8 +1,10 @@
 ---
 title: 剑指Offer-35-复杂链表的复制
-date: 2021-12-11 23:22:24
 categories: Offer
-tags: [剑指Offer]
+tags:
+  - 剑指Offer
+abbrlink: 9cd7e152
+date: 2021-12-11 23:22:24
 ---
 
 [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)

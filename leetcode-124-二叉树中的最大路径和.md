@@ -1,9 +1,11 @@
 ---
 title: leetcode-124-二叉树中的最大路径和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: a8452b25
 date: 2021-08-15 11:32:17
 ---
 

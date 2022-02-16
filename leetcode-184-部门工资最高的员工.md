@@ -1,9 +1,11 @@
 ---
 title: leetcode-184-部门工资最高的员工
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: 11615f09
 date: 2021-10-10 19:16:28
 ---
 

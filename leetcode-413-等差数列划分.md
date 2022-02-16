@@ -1,10 +1,12 @@
 ---
 title: leetcode-413-等差数列划分
-date: 2021-10-18 17:58:12
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 64a6a712
+date: 2021-10-18 17:58:12
 ---
 
 [$link$](https://leetcode-cn.com/problems/arithmetic-slices/)

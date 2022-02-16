@@ -1,9 +1,11 @@
 ---
 title: Go语言学习-3-数据类型
-categories: [Go]
+categories:
+  - Go
 tags:
   - backend
   - Go
+abbrlink: e64f4fa6
 date: 2021-10-11 10:42:47
 ---
 

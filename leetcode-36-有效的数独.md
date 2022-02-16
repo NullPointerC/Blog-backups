@@ -1,9 +1,11 @@
 ---
 title: leetcode-36-有效的数独
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: e7486e0a
 date: 2021-07-10 08:53:34
 ---
 

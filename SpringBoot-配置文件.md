@@ -1,10 +1,12 @@
 ---
 title: SpringBoot-配置文件
-date: 2021-12-25 19:43:26
-categories: [SpringBoot]
+categories:
+  - SpringBoot
 tags:
   - backend
   - SpringBoot
+abbrlink: 87c4c7c3
+date: 2021-12-25 19:43:26
 ---
 
 ## properties

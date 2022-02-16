@@ -1,10 +1,12 @@
 ---
 title: weekly-11.1-11.7
-date: 2021-11-07 22:25:09
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
+abbrlink: 8b11fc39
+date: 2021-11-07 22:25:09
 ---
 
 没想马上就11月份了,这个学期好快呀,已经开学两个月了。这两个月来很值得高兴的事，从9月中旬起，坚持每天写题，到现在，已经拿了2个leetcode的牌😂。继续加油，算法这块必须也一定要拿捏住了！！！

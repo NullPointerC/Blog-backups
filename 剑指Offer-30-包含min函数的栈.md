@@ -1,8 +1,10 @@
 ---
 title: 剑指Offer-30-包含min函数的栈
-date: 2021-12-10 16:41:30
 categories: 剑指Offer
-tags: [剑指Offer]
+tags:
+  - 剑指Offer
+abbrlink: 7eef573e
+date: 2021-12-10 16:41:30
 ---
 
 [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)

@@ -1,9 +1,11 @@
 ---
 title: leetcode-350-两个数组的交集Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: e391e637
 date: 2021-07-04 10:17:22
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-1614-括号的最大嵌套深度
-date: 2022-01-07 11:14:10
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: e7c4f04f
+date: 2022-01-07 11:14:10
 ---
 
 [1614. 括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/)

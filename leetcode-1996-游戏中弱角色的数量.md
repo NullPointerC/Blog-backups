@@ -1,8 +1,11 @@
 ---
 title: leetcode-1996-游戏中弱角色的数量
-date: 2022-01-28 23:41:00
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 1a71eeb8
+date: 2022-01-28 23:41:00
 ---
 
 [1996. 游戏中弱角色的数量](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/)

@@ -1,8 +1,11 @@
 ---
 title: leetcode-367-有效的完全平方数
-date: 2021-11-04 08:33:25
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 1609f186
+date: 2021-11-04 08:33:25
 ---
 
 [$link$](https://leetcode-cn.com/problems/valid-perfect-square/)

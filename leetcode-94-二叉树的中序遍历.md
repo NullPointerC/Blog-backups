@@ -1,9 +1,11 @@
 ---
 title: leetcode-94-二叉树的中序遍历
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3acd2e71
 date: 2021-06-11 20:54:43
 ---
 

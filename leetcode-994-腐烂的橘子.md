@@ -1,8 +1,11 @@
 ---
 title: leetcode-994-腐烂的橘子
-date: 2021-11-08 21:36:09
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 8b0c227c
+date: 2021-11-08 21:36:09
 ---
 
 [$link$](https://leetcode-cn.com/problems/rotting-oranges/)

@@ -1,8 +1,10 @@
 ---
 title: 剑指Offer-24-反转链表
-date: 2021-12-11 23:16:55
 categories: 剑指Offer
-tags: [剑指Offer]
+tags:
+  - 剑指Offer
+abbrlink: b263218e
+date: 2021-12-11 23:16:55
 ---
 
 [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)

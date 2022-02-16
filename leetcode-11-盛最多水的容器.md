@@ -1,9 +1,11 @@
 ---
 title: leetcode-11-盛最多水的容器
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 6a13c7a1
 date: 2021-09-06 20:25:50
 ---
 

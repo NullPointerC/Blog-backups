@@ -1,9 +1,13 @@
 ---
 title: Ubuntu复习笔记-vi编辑器
-date: 2022-01-03 16:34:21
 categories: Ubuntu
-tags: [Ubuntu,Linux,backend]
+tags:
+  - Ubuntu
+  - Linux
+  - backend
 hidden: true
+abbrlink: 32a38616
+date: 2022-01-03 16:34:21
 ---
 
 ## 简介

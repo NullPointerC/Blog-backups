@@ -1,8 +1,11 @@
 ---
 title: leetcode-438-找到字符串中所有字母异位词
-date: 2021-11-20 14:49:24
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 7fd7cf1a
+date: 2021-11-20 14:49:24
 ---
 
 [$link$](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)

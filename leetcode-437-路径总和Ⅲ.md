@@ -1,9 +1,11 @@
 ---
 title: leetcode-437-路径总和Ⅲ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 2ea242cd
 date: 2021-09-05 10:47:25
 ---
 

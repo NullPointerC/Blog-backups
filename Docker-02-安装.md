@@ -1,9 +1,11 @@
 ---
 title: Docker-02-安装
-categories: [Docker]
+categories:
+  - Docker
 tags:
   - Docker
   - Linux
+abbrlink: 54ad4777
 date: 2021-09-20 16:50:40
 ---
 

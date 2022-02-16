@@ -1,8 +1,11 @@
 ---
 title: leetcode-542-01矩阵
-date: 2021-11-08 20:45:27
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 69580a77
+date: 2021-11-08 20:45:27
 ---
 
 [$link$](https://leetcode-cn.com/problems/01-matrix/)

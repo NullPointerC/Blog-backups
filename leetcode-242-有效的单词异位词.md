@@ -1,9 +1,11 @@
 ---
 title: leetcode-242-有效的单词异位词
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 63692a40
 date: 2021-07-11 08:30:59
 ---
 

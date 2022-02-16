@@ -1,9 +1,11 @@
 ---
 title: 算法小抄--dp篇
-categories: [algorithm]
+categories:
+  - algorithm
 tags:
   - 计算机基础
   - algorithm
+abbrlink: 1b7a0acc
 date: 2021-08-19 09:25:36
 ---
 

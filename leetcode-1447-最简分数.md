@@ -1,8 +1,11 @@
 ---
 title: leetcode-1447-最简分数
-date: 2022-02-10 00:13:11
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 4f083ed5
+date: 2022-02-10 00:13:11
 ---
 
 [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/)

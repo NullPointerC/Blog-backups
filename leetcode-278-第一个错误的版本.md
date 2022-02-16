@@ -1,8 +1,12 @@
 ---
 title: leetcode-278-第一个错误的版本
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: ce1de17a
 date: 2021-10-31 19:18:30
-categories: [LeetCode]
-tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/first-bad-version/)

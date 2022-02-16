@@ -1,8 +1,11 @@
 ---
 title: leetcode-1763-最长的美好子字符串
-date: 2022-02-01 00:30:37
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: b1adc7cf
+date: 2022-02-01 00:30:37
 ---
 
 [1763. 最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/)

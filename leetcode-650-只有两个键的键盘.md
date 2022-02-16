@@ -1,9 +1,11 @@
 ---
 title: leetcode-650-只有两个键的键盘
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 473147b6
 date: 2021-09-19 17:10:52
 ---
 

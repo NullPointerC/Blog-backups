@@ -1,8 +1,11 @@
 ---
 title: leetcode-397-整数替换
-date: 2021-11-19 10:02:45
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: '3e706957'
+date: 2021-11-19 10:02:45
 ---
 
 [$link$](https://leetcode-cn.com/problems/integer-replacement/)

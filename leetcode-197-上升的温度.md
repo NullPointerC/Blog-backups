@@ -1,10 +1,12 @@
 ---
 title: leetcode-197-上升的温度
-date: 2021-10-17 16:21:48
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: 81fc77ae
+date: 2021-10-17 16:21:48
 ---
 
 [$link$](https://leetcode-cn.com/problems/rising-temperature/)

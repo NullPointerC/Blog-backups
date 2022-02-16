@@ -1,8 +1,11 @@
 ---
 title: leetcode-46-全排列
-date: 2021-11-10 15:36:18
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: bc23d726
+date: 2021-11-10 15:36:18
 ---
 
 [$link$](https://leetcode-cn.com/problems/permutations/)

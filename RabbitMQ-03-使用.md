@@ -1,9 +1,11 @@
 ---
 title: RabbitMQ-03-使用
-categories: [MQ]
+categories:
+  - MQ
 tags:
   - MQ
   - backend
+abbrlink: 6965b780
 date: 2021-09-21 17:59:37
 ---
 

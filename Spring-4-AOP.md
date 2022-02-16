@@ -1,9 +1,11 @@
 ---
 title: Spring-4-AOP
-categories: [Spring]
+categories:
+  - Spring
 tags:
   - FrameWork
   - backend
+abbrlink: 9707245c
 date: 2021-09-03 21:51:57
 ---
 

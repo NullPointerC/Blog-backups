@@ -1,9 +1,11 @@
 ---
 title: Spring-1-IOC
-categories: [Spring]
+categories:
+  - Spring
 tags:
   - FrameWork
   - backend
+abbrlink: d54abb4a
 date: 2021-08-31 17:59:44
 ---
 

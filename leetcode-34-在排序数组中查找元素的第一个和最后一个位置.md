@@ -1,8 +1,11 @@
 ---
 title: leetcode-34-在排序数组中查找元素的第一个和最后一个位置
-date: 2021-11-14 18:32:30
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 6aad1c9e
+date: 2021-11-14 18:32:30
 ---
 
 [$link$](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)

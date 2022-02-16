@@ -1,9 +1,11 @@
 ---
 title: leetcode-331-验证二叉树的前序序列化
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 5649b8a0
 date: 2021-08-31 11:16:21
 ---
 

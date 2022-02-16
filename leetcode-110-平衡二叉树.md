@@ -1,9 +1,11 @@
 ---
 title: leetcode-110-平衡二叉树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 8e285fa6
 date: 2021-07-01 12:28:48
 ---
 

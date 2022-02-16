@@ -1,9 +1,11 @@
 ---
 title: leetcode-228-汇总区间
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: b78a85ac
 date: 2021-06-22 13:42:15
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: Go语言学习-16-channel
-date: 2021-11-05 21:06:47
 categories: Go
-tags: [Go,backend]
+tags:
+  - Go
+  - backend
+abbrlink: 60ed5fd4
+date: 2021-11-05 21:06:47
 ---
 
 ## channel

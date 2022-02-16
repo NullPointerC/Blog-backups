@@ -1,8 +1,11 @@
 ---
 title: leetcode-3-无重复字符的最长字串
-date: 2021-11-05 17:30:10
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 5b64bdfe
+date: 2021-11-05 17:30:10
 ---
 
 [$link$](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)

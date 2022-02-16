@@ -1,8 +1,11 @@
 ---
 title: leetcode-567-字符串的排列
-date: 2021-11-05 20:24:54
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: cc06db15
+date: 2021-11-05 20:24:54
 ---
 
 [$link$](https://leetcode-cn.com/problems/permutation-in-string/)

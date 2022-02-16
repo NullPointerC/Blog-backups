@@ -1,9 +1,11 @@
 ---
 title: leetcode-101-对称二叉树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 10be8c1c
 date: 2021-07-14 09:25:35
 ---
 

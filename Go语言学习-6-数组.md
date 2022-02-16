@@ -1,9 +1,11 @@
 ---
 title: Go语言学习-6-数组
-categories: [Go]
+categories:
+  - Go
 tags:
   - backend
   - Go
+abbrlink: b576d52f
 date: 2021-10-13 21:50:58
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-2000-反转单词的前缀
-date: 2022-02-02 00:07:19
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: b16949a4
+date: 2022-02-02 00:07:19
 ---
 
 [2000. 反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/)

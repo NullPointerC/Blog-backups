@@ -1,9 +1,11 @@
 ---
 title: leetcode-236-二叉树的最近公共祖先
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 2d1d5a54
 date: 2021-08-30 21:20:21
 ---
 

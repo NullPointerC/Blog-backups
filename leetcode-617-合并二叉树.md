@@ -1,8 +1,11 @@
 ---
 title: leetcode-617-合并二叉树
-date: 2021-11-07 18:50:05
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 28eec343
+date: 2021-11-07 18:50:05
 ---
 
 [$link$](https://leetcode-cn.com/problems/merge-two-binary-trees/)

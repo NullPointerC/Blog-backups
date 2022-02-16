@@ -1,9 +1,11 @@
 ---
 title: leetcode-116-填充每个节点的下一个右侧节点指针
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: dbe2b3ae
 date: 2021-08-27 11:37:31
 ---
 

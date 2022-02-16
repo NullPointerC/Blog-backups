@@ -1,9 +1,11 @@
 ---
 title: leetcode-268-丢失的数字
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 230bca03
 date: 2021-09-16 16:46:51
 ---
 

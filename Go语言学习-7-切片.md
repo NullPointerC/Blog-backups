@@ -1,9 +1,11 @@
 ---
 title: Go语言学习-7-切片
-categories: [Go]
+categories:
+  - Go
 tags:
   - backend
   - Go
+abbrlink: 7ebd31ff
 date: 2021-10-14 19:13:36
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: Django学习小记-1-简介
-categories: [Django]
+categories:
+  - Django
 tags:
   - Python
   - backend
   - Django
+abbrlink: 65dcdaa8
 date: 2021-08-07 20:12:34
 ---
 

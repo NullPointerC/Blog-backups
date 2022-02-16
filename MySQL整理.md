@@ -1,9 +1,11 @@
 ---
 title: MySQL整理
-categories: [MySQL]
+categories:
+  - MySQL
 tags:
   - backend
   - MySQL
+abbrlink: bf2339a8
 date: 2021-08-15 22:22:48
 ---
 

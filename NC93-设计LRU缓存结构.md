@@ -1,9 +1,11 @@
 ---
 title: NC93-设计LRU缓存结构
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - algorithm
   - nowcoder
+abbrlink: f30ffccd
 date: 2021-09-28 21:47:42
 ---
 

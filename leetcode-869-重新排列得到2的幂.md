@@ -1,8 +1,12 @@
 ---
 title: leetcode-869-重新排列得到2的幂
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: eacfab5
 date: 2021-10-28 09:19:54
-categories: [LeetCode]
-tags: [LeetCode, algorithm]
 ---
 
 [link](https://leetcode-cn.com/problems/reordered-power-of-2/)

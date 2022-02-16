@@ -1,8 +1,12 @@
 ---
 title: leetcode-260-只出现一次的数字Ⅲ
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: a4ce05c6
 date: 2021-10-30 21:20:02
-categories: [LeetCode]
-tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/single-number-iii/)

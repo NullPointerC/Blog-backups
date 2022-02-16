@@ -1,10 +1,12 @@
 ---
 title: leetcode-15-三数之和
-date: 2021-10-17 16:51:29
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 4cce238
+date: 2021-10-17 16:51:29
 ---
 
 [$link$](https://leetcode-cn.com/problems/3sum/)

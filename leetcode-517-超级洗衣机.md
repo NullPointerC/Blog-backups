@@ -1,9 +1,11 @@
 ---
 title: leetcode-517-超级洗衣机
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3483c960
 date: 2021-09-29 11:24:58
 ---
 

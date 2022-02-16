@@ -1,9 +1,11 @@
 ---
 title: leetcode-645-错误的集合
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: de091f76
 date: 2021-07-04 09:51:01
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-1688-比赛中的配对次数
-date: 2022-01-25 14:21:08
 categories: LeetCode
-tags: [LeetCode, algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 72c62573
+date: 2022-01-25 14:21:08
 ---
 
 [1688. 比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament/)

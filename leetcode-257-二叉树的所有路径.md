@@ -1,9 +1,11 @@
 ---
 title: leetcode-257-二叉树的所有路径
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: b9ca94cb
 date: 2021-08-30 21:36:42
 ---
 

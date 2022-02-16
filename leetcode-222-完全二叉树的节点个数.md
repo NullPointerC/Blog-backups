@@ -1,9 +1,11 @@
 ---
 title: leetcode-222-完全二叉树的节点个数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 7bdfb8bc
 date: 2021-08-29 11:57:46
 ---
 

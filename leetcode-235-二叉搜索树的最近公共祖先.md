@@ -1,9 +1,11 @@
 ---
 title: leetcode-235-二叉搜索树的最近公共祖先
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 113757b7
 date: 2021-08-17 19:33:34
 ---
 

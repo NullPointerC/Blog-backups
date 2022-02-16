@@ -1,9 +1,11 @@
 ---
 title: leetcode-583-两个字符串的删除操作
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: ce18fe87
 date: 2021-09-25 09:29:49
 ---
 

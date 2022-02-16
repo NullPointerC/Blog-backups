@@ -1,8 +1,11 @@
 ---
 title: leetcode-89-格雷编码
-date: 2022-01-08 11:28:19
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 5d49fb44
+date: 2022-01-08 11:28:19
 ---
 
 [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)

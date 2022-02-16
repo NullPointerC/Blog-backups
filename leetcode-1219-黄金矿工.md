@@ -1,8 +1,11 @@
 ---
 title: leetcode-1219-黄金矿工
-date: 2022-02-05 00:25:03
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 50d6dd0
+date: 2022-02-05 00:25:03
 ---
 
 [1219. 黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/)

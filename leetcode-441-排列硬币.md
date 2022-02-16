@@ -1,9 +1,11 @@
 ---
 title: leetcode-441-排列硬币
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: bc8901c3
 date: 2021-10-10 18:12:05
 ---
 

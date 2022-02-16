@@ -1,8 +1,11 @@
 ---
 title: leetcode-557-反转字符串中的单词Ⅲ
-date: 2021-11-03 21:24:55
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 56a7c6dd
+date: 2021-11-03 21:24:55
 ---
 
 [$link$](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)

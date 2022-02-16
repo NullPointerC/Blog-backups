@@ -1,9 +1,11 @@
 ---
 title: leetcode-5-最长回文子串
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 545f106b
 date: 2021-08-23 16:56:55
 ---
 

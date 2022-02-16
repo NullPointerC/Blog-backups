@@ -1,9 +1,11 @@
 ---
 title: Go语言学习-5-流程控制
-categories: [Go]
+categories:
+  - Go
 tags:
   - backend
   - Go
+abbrlink: 925ae198
 date: 2021-10-13 21:36:28
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-1091-二进制矩阵中的最短路径
-date: 2021-11-21 19:54:17
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 92bfad95
+date: 2021-11-21 19:54:17
 ---
 
 [二进制矩阵中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/)

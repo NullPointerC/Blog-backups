@@ -1,9 +1,11 @@
 ---
 title: leetcode-113-路径总和Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: fffdd281
 date: 2021-08-21 09:19:05
 ---
 

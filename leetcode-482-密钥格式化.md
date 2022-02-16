@@ -1,9 +1,11 @@
 ---
 title: leetcode-482-密钥格式化
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 366acf31
 date: 2021-10-04 10:48:16
 ---
 

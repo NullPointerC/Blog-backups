@@ -1,9 +1,11 @@
 ---
 title: leetcode-429-N叉树的层序遍历
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 65a20670
 date: 2021-09-05 09:59:05
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: leetcode-1221-分割平衡字符串
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: '694e7200'
 date: 2021-09-07 16:37:41
 ---
 

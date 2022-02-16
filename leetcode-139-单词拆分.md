@@ -1,9 +1,11 @@
 ---
 title: leetcode-139-单词拆分
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 6dfa25e3
 date: 2021-09-21 11:21:15
 ---
 

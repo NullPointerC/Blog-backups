@@ -1,9 +1,11 @@
 ---
 title: leetcode-20-有效的括号
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 87bc76a1
 date: 2021-07-13 08:35:57
 ---
 

@@ -1,8 +1,12 @@
 ---
 title: leetcode-500-键盘行
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: bdb82c3b
 date: 2021-10-31 16:29:25
-categories: [LeetCode]
-tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/keyboard-row/)

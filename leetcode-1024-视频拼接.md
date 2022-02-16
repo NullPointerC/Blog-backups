@@ -1,8 +1,11 @@
 ---
 title: leetcode-1024-视频拼接
-date: 2022-01-05 21:33:03
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: ee4b8a17
+date: 2022-01-05 21:33:03
 ---
 
 [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/)

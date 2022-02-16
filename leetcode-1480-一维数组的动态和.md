@@ -1,9 +1,11 @@
 ---
 title: leetcode-1480-一维数组的动态和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 5765c87b
 date: 2021-08-29 09:56:58
 ---
 

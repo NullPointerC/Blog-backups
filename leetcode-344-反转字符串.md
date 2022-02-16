@@ -1,9 +1,11 @@
 ---
 title: leetcode-344-反转字符串
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 862bbee9
 date: 2021-09-20 14:02:19
 ---
 

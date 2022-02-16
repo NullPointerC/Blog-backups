@@ -1,9 +1,11 @@
 ---
 title: leetcode-146-LRU缓存机制
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 303968e
 date: 2021-09-23 21:45:00
 ---
 

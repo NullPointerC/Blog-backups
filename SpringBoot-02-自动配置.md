@@ -1,9 +1,11 @@
 ---
 title: SpringBoot-02-自动配置
-categories: [SpringBoot]
+categories:
+  - SpringBoot
 tags:
   - backend
   - SpringBoot
+abbrlink: 4fd155df
 date: 2021-04-04 09:42:23
 ---
 

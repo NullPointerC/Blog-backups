@@ -1,8 +1,11 @@
 ---
 title: leetcode-373-查找和最小的K对数字
-date: 2022-01-14 22:58:44
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: d8218614
+date: 2022-01-14 22:58:44
 ---
 
 [373. 查找和最小的 K 对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/)

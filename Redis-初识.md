@@ -1,9 +1,11 @@
 ---
 title: Redis-初识
-categories: [Redis]
+categories:
+  - Redis
 tags:
   - backend
   - Redis
+abbrlink: 2cef2a6c
 date: 2021-08-28 10:56:35
 ---
 

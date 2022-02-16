@@ -1,10 +1,12 @@
 ---
 title: leetcode-264-丑数Ⅱ
-date: 2021-10-19 21:05:58
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 36d86be4
+date: 2021-10-19 21:05:58
 ---
 
 [$link$](https://leetcode-cn.com/problems/ugly-number-ii/)

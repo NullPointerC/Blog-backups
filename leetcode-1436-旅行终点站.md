@@ -1,9 +1,11 @@
 ---
 title: leetcode-1436-旅行终点站
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 8d402736
 date: 2021-10-01 12:07:47
 ---
 

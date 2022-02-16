@@ -1,9 +1,11 @@
 ---
 title: Linux-I/O模型
-categories: [Linux]
+categories:
+  - Linux
 tags:
   - Linux
   - backend
+abbrlink: 63d0c722
 date: 2021-10-02 15:59:19
 ---
 

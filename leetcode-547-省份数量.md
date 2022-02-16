@@ -1,8 +1,11 @@
 ---
 title: leetcode-547-省份数量
-date: 2021-11-20 17:02:51
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: f3f2dfe
+date: 2021-11-20 17:02:51
 ---
 
 [$link$](https://leetcode-cn.com/problems/number-of-provinces/)

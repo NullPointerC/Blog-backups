@@ -1,8 +1,12 @@
 ---
 title: Java8-简介及发展
-date: 2022-01-21 23:55:08
 categories: Java
-tags: [Java,backend,计算机基础]
+tags:
+  - Java
+  - backend
+  - 计算机基础
+abbrlink: fda30b6e
+date: 2022-01-21 23:55:08
 ---
 
 Java8虽然提出了很多新特性,但是在日常写项目和编程实践的使用还不是特别熟悉,写这个专栏记录一下Java8的学习之路。

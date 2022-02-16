@@ -1,8 +1,11 @@
 ---
 title: leetcode-677-键值映射
-date: 2021-11-14 16:26:02
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 15c3da59
+date: 2021-11-14 16:26:02
 ---
 
 [$link$](https://leetcode-cn.com/problems/map-sum-pairs/submissions/)

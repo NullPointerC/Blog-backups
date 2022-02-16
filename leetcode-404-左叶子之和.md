@@ -1,9 +1,11 @@
 ---
 title: leetcode-404-左叶子之和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: c30336e7
 date: 2021-09-03 11:44:22
 ---
 

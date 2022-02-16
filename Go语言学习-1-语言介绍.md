@@ -1,9 +1,11 @@
 ---
 title: Go语言学习-1.语言介绍
-categories: [Go]
+categories:
+  - Go
 tags:
   - backend
   - Go
+abbrlink: 9382eb68
 date: 2021-03-29 12:53:02
 ---
 

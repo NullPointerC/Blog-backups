@@ -1,9 +1,11 @@
 ---
 title: weekly-9.6-9.12
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
+abbrlink: 74c8d666
 date: 2021-09-12 22:20:15
 ---
 

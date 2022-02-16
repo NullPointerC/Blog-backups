@@ -1,10 +1,12 @@
 ---
 title: weekly-10.25-10.31
-date: 2021-10-31 22:55:09
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
+abbrlink: bcba0bae
+date: 2021-10-31 22:55:09
 ---
 
 又开始上课了,今天上课依然困。

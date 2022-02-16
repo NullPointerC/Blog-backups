@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL2-查找入职员工时间排名倒数第三的员工所有信息
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: 84ca03a5
 date: 2021-09-26 20:33:34
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: weekly-12.13-12.19
-date: 2021-12-19 17:08:17
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
+abbrlink: c3f4cb71
+date: 2021-12-19 17:08:17
 ---
 
 这周接种了第三针,挺好的,为祖国点赞。

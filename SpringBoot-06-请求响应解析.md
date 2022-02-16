@@ -1,9 +1,11 @@
 ---
 title: SpringBoot-06-请求响应解析
-categories: [SpringBoot]
+categories:
+  - SpringBoot
 tags:
   - backend
   - SpringBoot
+abbrlink: ecf3e520
 date: 2021-04-09 09:58:35
 ---
 

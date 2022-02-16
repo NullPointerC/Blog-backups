@@ -1,9 +1,11 @@
 ---
 title: leetcode-98-验证二叉搜索树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: dbeb6db1
 date: 2021-08-18 11:33:10
 ---
 

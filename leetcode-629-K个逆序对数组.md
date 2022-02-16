@@ -1,8 +1,11 @@
 ---
 title: leetcode-629-K个逆序对数组
-date: 2021-11-11 20:47:22
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: ff194c2a
+date: 2021-11-11 20:47:22
 ---
 
 [$link$](https://leetcode-cn.com/problems/k-inverse-pairs-array/)

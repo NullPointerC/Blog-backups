@@ -1,9 +1,11 @@
 ---
 title: Go语言学习-2-常量与变量
-categories: [Go]
+categories:
+  - Go
 tags:
   - backend
   - Go
+abbrlink: 5997b268
 date: 2021-09-19 20:36:25
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: leetcode-70-爬楼梯
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: d167da26
 date: 2021-09-26 18:08:44
 ---
 

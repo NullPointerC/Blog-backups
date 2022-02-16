@@ -1,9 +1,11 @@
 ---
 title: leetcode-343-整数拆分
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 75231a24
 date: 2021-09-18 11:22:26
 ---
 

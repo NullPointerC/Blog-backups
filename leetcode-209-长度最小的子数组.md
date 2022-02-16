@@ -1,8 +1,11 @@
 ---
 title: leetcode-209-长度最小的子数组
-date: 2021-11-20 16:26:03
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 5a4df887
+date: 2021-11-20 16:26:03
 ---
 
 [$link$](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)

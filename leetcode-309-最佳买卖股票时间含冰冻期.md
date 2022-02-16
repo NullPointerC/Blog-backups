@@ -1,9 +1,11 @@
 ---
 title: leetcode-309-最佳买卖股票时间含冰冻期
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 679afbbe
 date: 2021-09-29 21:50:18
 ---
 

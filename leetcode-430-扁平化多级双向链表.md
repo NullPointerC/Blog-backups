@@ -1,9 +1,11 @@
 ---
 title: leetcode-430-扁平化多级双向链表
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: d76add41
 date: 2021-09-24 12:33:11
 ---
 

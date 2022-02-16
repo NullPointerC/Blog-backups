@@ -1,9 +1,11 @@
 ---
 title: 算法笔记--子序列dp
-categories: [algorithm]
+categories:
+  - algorithm
 tags:
   - 计算机基础
   - algorithm
+abbrlink: 8a81f848
 date: 2021-09-08 11:05:40
 ---
 

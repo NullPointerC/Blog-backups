@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL8-找出所有员工当前薪水salary情况
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: 995cff6b
 date: 2021-10-07 14:09:07
 ---
 

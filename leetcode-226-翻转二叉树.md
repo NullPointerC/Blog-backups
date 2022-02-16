@@ -1,9 +1,11 @@
 ---
 title: leetcode-226-翻转二叉树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3b994793
 date: 2021-07-15 21:03:43
 ---
 

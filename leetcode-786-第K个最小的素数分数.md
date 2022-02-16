@@ -1,8 +1,11 @@
 ---
 title: leetcode-786-第K个最小的素数分数
-date: 2021-11-29 18:34:47
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 9cd05434
+date: 2021-11-29 18:34:47
 ---
 
 [第 K 个最小的素数分数](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/)

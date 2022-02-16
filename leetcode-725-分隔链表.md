@@ -1,9 +1,11 @@
 ---
 title: leetcode-725-分隔链表
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3caabf83
 date: 2021-09-22 19:05:16
 ---
 

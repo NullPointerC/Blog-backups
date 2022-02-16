@@ -1,8 +1,11 @@
 ---
 title: leetcode-594-最长和谐子序列
-date: 2021-11-20 10:33:38
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: fa93e7ad
+date: 2021-11-20 10:33:38
 ---
 
 [$link$](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)

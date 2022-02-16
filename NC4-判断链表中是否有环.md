@@ -1,9 +1,11 @@
 ---
 title: NC4-判断链表中是否有环
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - algorithm
   - nowcoder
+abbrlink: 6df15575
 date: 2021-09-26 19:03:14
 ---
 

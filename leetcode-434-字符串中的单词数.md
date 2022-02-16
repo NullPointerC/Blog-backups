@@ -1,9 +1,11 @@
 ---
 title: leetcode-434-字符串中的单词数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 59bf3080
 date: 2021-10-07 12:03:28
 ---
 

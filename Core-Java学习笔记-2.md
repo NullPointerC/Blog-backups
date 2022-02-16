@@ -1,10 +1,12 @@
 ---
 title: Core-Java学习笔记-2
-categories: [Java]
+categories:
+  - Java
 tags:
   - Java
   - backend
   - 计算机基础
+abbrlink: 339a4850
 date: 2021-04-24 22:43:59
 ---
 

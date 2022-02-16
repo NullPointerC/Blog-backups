@@ -1,8 +1,11 @@
 ---
 title: leetcode-539-最小时间差
-date: 2022-01-18 22:39:13
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 954ee71a
+date: 2022-01-18 22:39:13
 ---
 
 [539. 最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/)

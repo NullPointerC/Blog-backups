@@ -1,9 +1,11 @@
 ---
 title: leetcode-114-二叉树展开为链表
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 6f49cd54
 date: 2021-08-22 10:46:30
 ---
 

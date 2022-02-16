@@ -1,9 +1,11 @@
 ---
 title: leetcode-447-回旋镖的数量
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: c0e4ff8c
 date: 2021-09-13 21:59:33
 ---
 

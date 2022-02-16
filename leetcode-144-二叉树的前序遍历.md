@@ -1,9 +1,11 @@
 ---
 title: leetcode-144-二叉树的前序遍历
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 1ea5f0d2
 date: 2021-07-14 07:57:41
 ---
 

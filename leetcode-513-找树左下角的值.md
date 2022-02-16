@@ -1,9 +1,11 @@
 ---
 title: leetcode-513-找树左下角的值
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 505270f7
 date: 2021-09-19 18:47:16
 ---
 

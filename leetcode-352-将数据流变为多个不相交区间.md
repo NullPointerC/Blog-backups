@@ -1,9 +1,11 @@
 ---
 title: leetcode-352-将数据流变为多个不相交区间
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 79dcb7f0
 date: 2021-10-09 20:35:20
 ---
 

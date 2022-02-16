@@ -1,9 +1,11 @@
 ---
 title: leetcode-326-3的幂
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: a469d3cd
 date: 2021-09-23 16:14:04
 ---
 

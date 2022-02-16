@@ -1,9 +1,11 @@
 ---
 title: leetcode-639-解码方法Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: f2ce971b
 date: 2021-09-27 10:11:34
 ---
 

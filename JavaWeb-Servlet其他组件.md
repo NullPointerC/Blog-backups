@@ -1,10 +1,12 @@
 ---
 title: JavaWeb-Servlet其他组件
-categories: [Java]
+categories:
+  - Java
 tags:
   - web
   - Java
   - backend
+abbrlink: 3d81ebc0
 date: 2021-07-30 17:26:28
 ---
 

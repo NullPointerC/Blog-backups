@@ -1,8 +1,11 @@
 ---
 title: leetcode-1748-唯一元素的和
-date: 2022-02-06 00:23:41
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 9ea3ea8a
+date: 2022-02-06 00:23:41
 ---
 
 [1748. 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/)

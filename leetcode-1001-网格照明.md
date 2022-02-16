@@ -1,8 +1,11 @@
 ---
 title: leetcode-1001-网格照明
-date: 2022-02-08 23:55:54
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 4977ad79
+date: 2022-02-08 23:55:54
 ---
 
 [1001. 网格照明](https://leetcode-cn.com/problems/grid-illumination/ "1001. 网格照明")

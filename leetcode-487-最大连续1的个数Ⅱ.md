@@ -1,9 +1,11 @@
 ---
 title: leetcode-487-最大连续1的个数Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: d909295d
 date: 2021-10-01 14:54:57
 ---
 

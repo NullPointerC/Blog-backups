@@ -1,8 +1,11 @@
 ---
 title: leetcode-319-灯泡开关
-date: 2021-11-15 10:18:02
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 6304f02c
+date: 2021-11-15 10:18:02
 ---
 
 [$link$](https://leetcode-cn.com/problems/bulb-switcher/)

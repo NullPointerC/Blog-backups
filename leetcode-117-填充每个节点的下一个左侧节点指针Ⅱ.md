@@ -1,9 +1,11 @@
 ---
 title: leetcode-117-填充每个节点的下一个左侧节点指针Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: d4f9075f
 date: 2021-08-27 16:31:20
 ---
 

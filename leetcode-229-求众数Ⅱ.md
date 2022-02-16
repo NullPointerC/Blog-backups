@@ -1,10 +1,12 @@
 ---
 title: leetcode-229-求众数Ⅱ
-date: 2021-10-22 10:51:16
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: a5808e22
+date: 2021-10-22 10:51:16
 ---
 
 [$link$](https://leetcode-cn.com/problems/majority-element-ii/)

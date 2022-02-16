@@ -1,8 +1,11 @@
 ---
 title: leetcode-299-猜数字游戏
-date: 2021-11-08 10:45:00
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 8f060970
+date: 2021-11-08 10:45:00
 ---
 
 [$link$](https://leetcode-cn.com/problems/bulls-and-cows/)

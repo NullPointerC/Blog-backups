@@ -1,8 +1,11 @@
 ---
 title: leetcode-1218-最长定差子序列
-date: 2021-11-05 00:19:04
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 448f67e3
+date: 2021-11-05 00:19:04
 ---
 
 [$link$](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)

@@ -1,9 +1,11 @@
 ---
 title: leetcode-168-Excel表列名称
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: ab1b457c
 date: 2021-06-29 09:56:43
 ---
 

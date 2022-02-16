@@ -1,9 +1,11 @@
 ---
 title: Redis-数据类型
-categories: [Redis]
+categories:
+  - Redis
 tags:
   - backend
   - Redis
+abbrlink: b4681a1
 date: 2021-08-28 17:30:10
 ---
 

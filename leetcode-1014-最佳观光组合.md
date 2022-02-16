@@ -1,10 +1,12 @@
 ---
 title: leetcode-1014-最佳观光组合
-date: 2021-10-16 20:49:11
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 55eff4f0
+date: 2021-10-16 20:49:11
 ---
 
 [link](https://gitee.com/cao_ziqiang/img/raw/master/20211016204944.png)

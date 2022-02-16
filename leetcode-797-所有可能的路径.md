@@ -1,8 +1,11 @@
 ---
 title: leetcode-797-所有可能的路径
-date: 2021-11-22 21:25:52
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: ed3a23f1
+date: 2021-11-22 21:25:52
 ---
 
 [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)

@@ -1,8 +1,11 @@
 ---
 title: leetcode-540-有序数组中的单一元素
-date: 2022-02-12 15:49:00
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: '182e8129'
+date: 2022-02-12 15:49:00
 ---
 
 [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)

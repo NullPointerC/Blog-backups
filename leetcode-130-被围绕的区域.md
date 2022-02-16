@@ -1,8 +1,11 @@
 ---
 title: leetcode-130-被围绕的区域
-date: 2021-11-22 19:29:00
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: fc624921
+date: 2021-11-22 19:29:00
 ---
 
 [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)

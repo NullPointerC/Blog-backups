@@ -1,10 +1,12 @@
 ---
 title: Django学习小记-6-表单
-categories: [Django]
+categories:
+  - Django
 tags:
   - Python
   - backend
   - Django
+abbrlink: b48b745
 date: 2021-08-23 16:47:30
 ---
 

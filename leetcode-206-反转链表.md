@@ -1,9 +1,11 @@
 ---
 title: leetcode-206-反转链表
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3c8b8c92
 date: 2021-07-13 07:58:15
 ---
 

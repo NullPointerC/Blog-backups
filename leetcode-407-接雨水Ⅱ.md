@@ -1,8 +1,11 @@
 ---
 title: leetcode-407-接雨水Ⅱ
-date: 2021-11-03 20:15:48
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 598bca24
+date: 2021-11-03 20:15:48
 ---
 
 [$link$](https://leetcode-cn.com/problems/trapping-rain-water-ii/solution/)

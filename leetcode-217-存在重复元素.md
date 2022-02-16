@@ -1,9 +1,11 @@
 ---
 title: leetcode-217-存在重复元素
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: f1a3cde2
 date: 2021-07-02 16:31:15
 ---
 

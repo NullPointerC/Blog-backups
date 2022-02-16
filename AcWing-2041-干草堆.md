@@ -1,9 +1,12 @@
 ---
 title: AcWing-2041-干草堆
-date: 2022-01-03 12:09:07
 categories: AcWing
-tags: [AcWing,algorithm]
+tags:
+  - AcWing
+  - algorithm
 hidden: true
+abbrlink: 2021b85
+date: 2022-01-03 12:09:07
 ---
 
 [2041. 干草堆](https://www.acwing.com/problem/content/2043/)

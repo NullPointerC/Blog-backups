@@ -1,10 +1,12 @@
 ---
 title: Django学习小记-2-配置
-categories: [Django]
+categories:
+  - Django
 tags:
   - Python
   - backend
   - Django
+abbrlink: 8a3ab76b
 date: 2021-08-09 21:27:01
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-598-范围求和Ⅱ
-date: 2021-11-07 18:36:11
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 92c0faed
+date: 2021-11-07 18:36:11
 ---
 
 [$link$](https://leetcode-cn.com/problems/range-addition-ii/)

@@ -1,9 +1,11 @@
 ---
 title: leetcode-88-合并两个有序数组
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: afcdf8aa
 date: 2021-07-03 14:55:28
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-1023-驼峰式匹配
-date: 2022-01-05 20:29:40
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: d928aba5
+date: 2022-01-05 20:29:40
 ---
 
 [1023. 驼峰式匹配](https://leetcode-cn.com/problems/camelcase-matching/)

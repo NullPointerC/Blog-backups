@@ -1,9 +1,11 @@
 ---
 title: leetcode-202-快乐数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: ee4db54e
 date: 2021-09-08 10:49:10
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: leetcode-638-大礼包
-date: 2021-10-24 10:24:19
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 6641f0dc
+date: 2021-10-24 10:24:19
 ---
 
 [$link$](https://gitee.com/cao_ziqiang/img/raw/master/20211026102608.png)

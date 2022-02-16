@@ -1,8 +1,11 @@
 ---
 title: leetcode-507-完美数
-date: 2021-12-31 11:58:36
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: dc10a7e1
+date: 2021-12-31 11:58:36
 ---
 
 [507. 完美数](https://leetcode-cn.com/problems/perfect-number/)

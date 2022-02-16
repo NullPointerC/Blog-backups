@@ -1,9 +1,11 @@
 ---
 title: leetcode-450-删除二叉搜索树中的节点
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 26c688c5
 date: 2021-09-06 19:49:38
 ---
 

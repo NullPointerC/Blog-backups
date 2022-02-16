@@ -1,8 +1,11 @@
 ---
 title: leetcode-876-链表中间的节点
-date: 2021-11-04 08:44:12
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 6abc5df6
+date: 2021-11-04 08:44:12
 ---
 
 [$link$](https://leetcode-cn.com/problems/middle-of-the-linked-list/)

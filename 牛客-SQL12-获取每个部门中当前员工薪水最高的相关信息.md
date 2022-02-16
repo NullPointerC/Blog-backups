@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL12-获取每个部门中当前员工薪水最高的相关信息
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: ff3d287a
 date: 2021-10-08 21:17:08
 ---
 

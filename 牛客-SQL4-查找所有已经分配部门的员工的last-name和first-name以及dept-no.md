@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL4-查找所有已经分配部门的员工的last_name和first_name以及dept_no
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: f9f9351c
 date: 2021-09-27 21:57:45
 ---
 

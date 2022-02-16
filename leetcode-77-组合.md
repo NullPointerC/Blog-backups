@@ -1,8 +1,11 @@
 ---
 title: leetcode-77-组合
-date: 2021-11-10 15:07:00
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: e545650c
+date: 2021-11-10 15:07:00
 ---
 
 [$link$](https://leetcode-cn.com/problems/combinations/)

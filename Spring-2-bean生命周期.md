@@ -1,9 +1,11 @@
 ---
 title: Spring-2-bean生命周期
-categories: [Spring]
+categories:
+  - Spring
 tags:
   - FrameWork
   - backend
+abbrlink: 15e35ae6
 date: 2021-09-03 18:53:05
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: leetcode-119-杨辉三角Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: b68eb59
 date: 2021-07-16 21:19:44
 ---
 

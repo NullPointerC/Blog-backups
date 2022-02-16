@@ -1,8 +1,11 @@
 ---
 title: leetcode-1185-一周中的第几天
-date: 2022-01-03 11:18:44
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: dc4783e
+date: 2022-01-03 11:18:44
 ---
 
 [1185. 一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week/)

@@ -1,8 +1,11 @@
 ---
 title: leetcode-1189-气球的最大数量
-date: 2022-02-13 00:20:22
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 64e2b709
+date: 2022-02-13 00:20:22
 ---
 
 [1189. “气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/)

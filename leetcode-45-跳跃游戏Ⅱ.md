@@ -1,9 +1,11 @@
 ---
 title: leetcode-45-跳跃游戏Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: ddfe670e
 date: 2021-08-28 09:27:34
 ---
 

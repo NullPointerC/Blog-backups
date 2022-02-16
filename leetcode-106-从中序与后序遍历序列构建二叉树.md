@@ -1,9 +1,11 @@
 ---
 title: leetcode-106-从中序与后序遍历序列构建二叉树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: c0240587
 date: 2021-08-19 09:11:16
 ---
 

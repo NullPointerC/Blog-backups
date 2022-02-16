@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL7-查找薪水记录超过15次的员工号emp_no以及其对应的记录次数t
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: 378d5a6c
 date: 2021-10-07 14:03:46
 ---
 

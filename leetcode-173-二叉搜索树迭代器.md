@@ -1,9 +1,11 @@
 ---
 title: leetcode-173-二叉搜索树迭代器
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: c8c9d776
 date: 2021-08-29 10:31:59
 ---
 

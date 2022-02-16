@@ -1,8 +1,11 @@
 ---
 title: leetcode-1034-边界着色
-date: 2021-12-07 17:45:10
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 23dc668
+date: 2021-12-07 17:45:10
 ---
 
 [边界着色](https://leetcode-cn.com/problems/coloring-a-border/)

@@ -1,8 +1,11 @@
 ---
 title: leetcode-846-一手顺子
-date: 2021-12-30 10:59:37
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 36fd53ea
+date: 2021-12-30 10:59:37
 ---
 
 [846. 一手顺子](https://leetcode-cn.com/problems/hand-of-straights/)

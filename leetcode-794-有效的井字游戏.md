@@ -1,8 +1,11 @@
 ---
 title: leetcode-794-有效的井字游戏
-date: 2021-12-09 18:12:09
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: cb5d1e0f
+date: 2021-12-09 18:12:09
 ---
 
 [有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)

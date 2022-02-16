@@ -1,9 +1,13 @@
 ---
 title: Ubuntu复习笔记-Ubuntu字符界面
-date: 2022-01-03 13:26:45
 categories: Ubuntu
-tags: [Ubuntu,Linux,backend]
+tags:
+  - Ubuntu
+  - Linux
+  - backend
 hidden: true
+abbrlink: 3c5ee45f
+date: 2022-01-03 13:26:45
 ---
 
 Ubuntu不仅有友好的图形界面，也有功能强大的字符界面。这里复习一下常用的命令。

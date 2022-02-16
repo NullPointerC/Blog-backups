@@ -1,9 +1,11 @@
 ---
 title: leetcode-96-不同的二叉搜索树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 7345cafc
 date: 2021-08-16 13:37:36
 ---
 

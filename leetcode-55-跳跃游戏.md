@@ -1,9 +1,11 @@
 ---
 title: leetcode-55-跳跃游戏
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 34dde757
 date: 2021-09-04 10:26:33
 ---
 

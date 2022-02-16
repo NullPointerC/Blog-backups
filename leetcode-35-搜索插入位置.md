@@ -1,8 +1,12 @@
 ---
 title: leetcode-35-搜索插入位置
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: d5667e0c
 date: 2021-10-31 19:28:42
-categories: [LeetCode]
-tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/search-insert-position/)

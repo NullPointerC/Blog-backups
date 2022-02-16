@@ -1,8 +1,11 @@
 ---
 title: leetcode-1005-K次取反后最大化的数组和
-date: 2021-12-03 10:23:57
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: f097161c
+date: 2021-12-03 10:23:57
 ---
 
 [K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/)

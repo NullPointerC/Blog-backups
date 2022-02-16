@@ -1,8 +1,11 @@
 ---
 title: leetcode-1332-删除回文子序列
-date: 2022-01-22 11:30:41
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 634d8866
+date: 2022-01-22 11:30:41
 ---
 
 [1332. 删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences/)

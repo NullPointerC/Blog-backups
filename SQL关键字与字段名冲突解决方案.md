@@ -1,9 +1,11 @@
 ---
 title: SQL关键字与字段名冲突解决方案
-categories: [SQL]
+categories:
+  - SQL
 tags:
   - SQL
   - backend
+abbrlink: 51d77a6d
 date: 2021-03-27 19:29:50
 ---
 

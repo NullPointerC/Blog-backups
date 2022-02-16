@@ -1,8 +1,11 @@
 ---
 title: leetcode-475-供暖器
-date: 2021-12-20 21:54:34
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 33e4e510
+date: 2021-12-20 21:54:34
 ---
 
 [供暖器](https://leetcode-cn.com/problems/heaters/)

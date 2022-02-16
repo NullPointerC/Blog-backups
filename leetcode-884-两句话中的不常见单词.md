@@ -1,8 +1,11 @@
 ---
 title: leetcode-884-两句话中的不常见单词
-date: 2022-01-30 15:31:08
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: a8f0fb53
+date: 2022-01-30 15:31:08
 ---
 
 [884. 两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)

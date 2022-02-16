@@ -1,10 +1,12 @@
 ---
 title: weekly-11.22-11.28
-date: 2021-11-28 19:05:07
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
+abbrlink: 4ea4b09e
+date: 2021-11-28 19:05:07
 ---
 
 这周又感觉是无所事事的一周,没学到新东西,也没沉淀到什么东西,忙着各种事。leetcode也刷得人麻了，不想再一天天的追求数量了，暂停一天好几题的盲目刷，开始归纳一下以往写过的题。

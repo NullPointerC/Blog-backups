@@ -1,10 +1,12 @@
 ---
 title: leetcode-1312-让字符串成为回文串的最少插入次数
-date: 2021-10-17 19:30:48
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: cf48e2f1
+date: 2021-10-17 19:30:48
 ---
 
 [$link$](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)

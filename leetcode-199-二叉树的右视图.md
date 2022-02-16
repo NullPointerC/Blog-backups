@@ -1,9 +1,11 @@
 ---
 title: leetcode-199-二叉树的右视图
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 34d6bf1d
 date: 2021-08-29 11:14:33
 ---
 

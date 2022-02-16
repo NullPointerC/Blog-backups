@@ -1,8 +1,11 @@
 ---
 title: leetcode-747-至少是其他数字两倍的最大数
-date: 2022-01-13 18:17:25
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: baf22a65
+date: 2022-01-13 18:17:25
 ---
 
 [747. 至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)

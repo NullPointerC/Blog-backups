@@ -1,9 +1,11 @@
 ---
 title: leetcode-172-阶乘后的零
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: b41436fe
 date: 2021-07-16 21:41:57
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: leetcode-105-从前序和中序遍历序列构造二叉树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: e798ffd6
 date: 2021-08-15 11:59:49
 ---
 

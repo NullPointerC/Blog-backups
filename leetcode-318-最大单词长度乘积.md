@@ -1,8 +1,11 @@
 ---
 title: leetcode-318-最大单词长度乘积
-date: 2021-11-17 10:45:31
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 2402f29
+date: 2021-11-17 10:45:31
 ---
 
 [$link$](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)

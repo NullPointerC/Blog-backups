@@ -1,8 +1,11 @@
 ---
 title: leetcode-844-比较含退格的字符串
-date: 2021-11-17 20:53:35
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 20c33e34
+date: 2021-11-17 20:53:35
 ---
 
 [$link$](https://leetcode-cn.com/problems/backspace-string-compare/)

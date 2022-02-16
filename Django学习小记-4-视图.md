@@ -1,10 +1,12 @@
 ---
 title: Django学习小记-4-视图
-categories: [Django]
+categories:
+  - Django
 tags:
   - Python
   - backend
   - Django
+abbrlink: 36e4d102
 date: 2021-08-19 00:01:21
 ---
 

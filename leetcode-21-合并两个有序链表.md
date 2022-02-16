@@ -1,9 +1,11 @@
 ---
 title: leetcode-21-合并两个有序链表
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 150372ca
 date: 2021-07-12 08:24:19
 ---
 

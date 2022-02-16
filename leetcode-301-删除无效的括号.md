@@ -1,8 +1,12 @@
 ---
 title: leetcode-301-删除无效的括号
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: fb9108d9
 date: 2021-10-27 20:13:03
-categories: [LeetCode]
-tags: [LeetCode,algorithm]
 ---
 
 [link](https://leetcode-cn.com/problems/remove-invalid-parentheses/)

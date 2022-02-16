@@ -1,10 +1,12 @@
 ---
 title: leetcode-66-加一
-date: 2021-10-21 16:17:14
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 9209352a
+date: 2021-10-21 16:17:14
 ---
 
 [$link$](https://leetcode-cn.com/problems/plus-one/)

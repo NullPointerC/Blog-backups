@@ -1,9 +1,11 @@
 ---
 title: SpringBoot-03-配置文件
-categories: [SpringBoot]
+categories:
+  - SpringBoot
 tags:
   - backend
   - SpringBoot
+abbrlink: 8063201c
 date: 2021-04-05 10:21:55
 ---
 

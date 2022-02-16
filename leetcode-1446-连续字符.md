@@ -1,8 +1,11 @@
 ---
 title: leetcode-1446-连续字符
-date: 2021-12-01 16:01:30
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 9d08f171
+date: 2021-12-01 16:01:30
 ---
 
 [连续字符](https://leetcode-cn.com/problems/consecutive-characters/)

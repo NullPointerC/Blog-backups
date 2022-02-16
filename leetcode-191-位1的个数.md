@@ -1,8 +1,11 @@
 ---
 title: leetcode-191-位1的个数
-date: 2021-11-12 17:34:50
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 6dc69d9b
+date: 2021-11-12 17:34:50
 ---
 
 [$link$](https://leetcode-cn.com/problems/number-of-1-bits/)

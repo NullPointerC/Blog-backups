@@ -1,5 +1,6 @@
 ---
 title: leetcode-1078-Bigram分词
+abbrlink: bc26d4c3
 date: 2021-12-26 10:36:25
 ---
 

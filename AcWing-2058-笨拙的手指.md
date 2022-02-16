@@ -1,9 +1,12 @@
 ---
 title: AcWing-2058-笨拙的手指
-date: 2022-01-02 21:04:38
 categories: AcWing
-tags: [AcWing,algorithm]
+tags:
+  - AcWing
+  - algorithm
 hidden: true
+abbrlink: 8f5117d1
+date: 2022-01-02 21:04:38
 ---
 
 [2058.笨拙的手指](https://www.acwing.com/problem/content/description/2060/)

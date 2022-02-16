@@ -1,9 +1,11 @@
 ---
 title: leetcode-180-连续出现的数字
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: c356320b
 date: 2021-10-08 10:16:54
 ---
 

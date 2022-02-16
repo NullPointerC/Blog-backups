@@ -1,8 +1,11 @@
 ---
 title: leetcode-1380-矩阵中的幸运数
-date: 2022-02-15 00:22:16
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 1866ad81
+date: 2022-02-15 00:22:16
 ---
 
 [1380. 矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/)

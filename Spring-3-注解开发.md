@@ -1,9 +1,11 @@
 ---
 title: Spring-3-注解开发
-categories: [Spring]
+categories:
+  - Spring
 tags:
   - FrameWork
   - backend
+abbrlink: 9e8ef413
 date: 2021-09-03 19:40:38
 ---
 

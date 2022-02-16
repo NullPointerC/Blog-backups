@@ -1,9 +1,11 @@
 ---
 title: leetcode-145-二叉树的后序遍历
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: c7341708
 date: 2021-07-14 08:07:31
 ---
 

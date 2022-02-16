@@ -1,9 +1,11 @@
 ---
 title: leetcode-1035-不相交的线
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: a9b14448
 date: 2021-10-03 12:35:11
 ---
 

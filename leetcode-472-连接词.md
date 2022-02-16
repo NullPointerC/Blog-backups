@@ -1,8 +1,11 @@
 ---
 title: leetcode-472-连接词
-date: 2021-12-28 16:39:58
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: df479cd2
+date: 2021-12-28 16:39:58
 ---
 
 [472. 连接词](https://leetcode-cn.com/problems/concatenated-words/)

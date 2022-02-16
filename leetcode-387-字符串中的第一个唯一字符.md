@@ -1,9 +1,11 @@
 ---
 title: leetcode-387-字符串中的第一个唯一字符
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 957c0b51
 date: 2021-07-11 07:58:14
 ---
 

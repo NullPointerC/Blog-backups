@@ -1,9 +1,11 @@
 ---
 title: leetcode-108-将有序数组转换为二叉搜索树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: f62a2a30
 date: 2021-06-30 10:23:19
 ---
 

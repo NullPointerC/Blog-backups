@@ -1,9 +1,11 @@
 ---
 title: leetcode-112-路径总和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: '50503e81'
 date: 2021-07-15 21:07:50
 ---
 

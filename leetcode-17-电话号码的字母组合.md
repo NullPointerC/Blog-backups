@@ -1,9 +1,11 @@
 ---
 title: leetcode-17-电话号码的字母组合
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: ce888fab
 date: 2021-09-14 21:21:46
 ---
 

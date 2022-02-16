@@ -1,9 +1,11 @@
 ---
 title: leetcode-107-二叉树的层序遍历Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 657b1dcd
 date: 2021-08-26 12:00:06
 ---
 

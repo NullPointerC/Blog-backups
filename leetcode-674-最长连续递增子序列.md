@@ -1,9 +1,11 @@
 ---
 title: leetcode-674-最长连续递增子序列
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 8fa08c5a
 date: 2021-09-16 15:30:31
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: leetcode-427-建立四叉树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 54d73d57
 date: 2021-09-03 13:13:02
 ---
 

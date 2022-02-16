@@ -1,9 +1,11 @@
 ---
 title: leetcode-256-粉刷房子
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 822c6f7f
 date: 2021-09-28 10:27:42
 ---
 

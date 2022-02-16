@@ -1,9 +1,11 @@
 ---
 title: leetcode-405-数字转换为十六进制数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: b130c543
 date: 2021-10-02 13:12:11
 ---
 

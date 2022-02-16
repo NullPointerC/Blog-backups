@@ -1,8 +1,12 @@
 ---
 title: leetcode-575-分糖果
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: d79ccdd9
 date: 2021-11-01 09:07:29
-categories: [LeetCode]
-tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/distribute-candies/)

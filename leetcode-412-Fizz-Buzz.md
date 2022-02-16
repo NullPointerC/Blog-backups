@@ -1,9 +1,11 @@
 ---
 title: leetcode-412-Fizz-Buzz
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 1757aa6a
 date: 2021-10-13 15:55:04
 ---
 

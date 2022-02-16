@@ -1,8 +1,11 @@
 ---
 title: leetcode-382-链表随机节点
-date: 2022-01-16 12:30:43
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: bf79e14b
+date: 2022-01-16 12:30:43
 ---
 
 [382. 链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/)

@@ -1,9 +1,11 @@
 ---
 title: SpringBoot-日志
-categories: [SpringBoot]
+categories:
+  - SpringBoot
 tags:
   - backend
   - SpringBoot
+abbrlink: fb799777
 date: 2021-05-18 18:30:02
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-384-打乱数组
-date: 2021-11-22 10:48:27
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 695f5d62
+date: 2021-11-22 10:48:27
 ---
 
 [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/)

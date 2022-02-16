@@ -1,9 +1,11 @@
 ---
 title: leetcode-104-二叉树的最大深度
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 52c89569
 date: 2021-07-14 09:21:42
 ---
 

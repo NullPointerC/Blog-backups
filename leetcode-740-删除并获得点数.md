@@ -1,9 +1,11 @@
 ---
 title: leetcode-740-删除并获得点数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 845f448a
 date: 2021-10-11 10:33:52
 ---
 

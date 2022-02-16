@@ -1,9 +1,11 @@
 ---
 title: leetcode-1137-第N个泰波那契数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 47d6597d
 date: 2021-09-01 10:08:48
 ---
 

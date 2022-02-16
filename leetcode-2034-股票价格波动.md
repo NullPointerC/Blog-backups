@@ -1,8 +1,11 @@
 ---
 title: leetcode-2034-股票价格波动
-date: 2022-01-23 23:07:02
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 8ed33e02
+date: 2022-01-23 23:07:02
 ---
 
 [2034. 股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation/)

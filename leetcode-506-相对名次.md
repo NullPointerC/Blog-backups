@@ -1,8 +1,11 @@
 ---
 title: leetcode-506-相对名次
-date: 2021-12-02 09:08:29
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 539b7022
+date: 2021-12-02 09:08:29
 ---
 
 [相对名次](https://leetcode-cn.com/problems/relative-ranks/)

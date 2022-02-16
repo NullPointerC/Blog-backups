@@ -1,11 +1,12 @@
 ---
 title: weekly-10.11-10.17
-date: 2021-10-17 21:36:29
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
-
+abbrlink: 1d2fefe9
+date: 2021-10-17 21:36:29
 ---
 
 又一周结束了。时间真是好快呀。这周继续学了会Go，然后继续学$dp$。

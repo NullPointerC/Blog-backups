@@ -1,9 +1,11 @@
 ---
 title: leetcode-73-矩阵置零
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: a538d352
 date: 2021-07-10 09:03:36
 ---
 

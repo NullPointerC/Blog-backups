@@ -1,9 +1,11 @@
 ---
 title: leetcode-109-有序链表转换二叉搜索树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: a8c1183f
 date: 2021-08-20 09:35:13
 ---
 

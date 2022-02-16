@@ -1,8 +1,11 @@
 ---
 title: leetcode-90-子集Ⅱ
-date: 2021-11-23 20:49:03
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: '825019e3'
+date: 2021-11-23 20:49:03
 ---
 
 [子集 II](https://leetcode-cn.com/problems/subsets-ii/)

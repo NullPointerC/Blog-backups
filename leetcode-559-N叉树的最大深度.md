@@ -1,8 +1,11 @@
 ---
 title: leetcode-559-N叉树的最大深度
-date: 2021-11-21 09:49:11
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 261a365
+date: 2021-11-21 09:49:11
 ---
 
 [N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)

@@ -1,9 +1,11 @@
 ---
 title: SpringBoot-07-文件上传
-categories: [SpringBoot]
+categories:
+  - SpringBoot
 tags:
   - backend
   - SpringBoot
+abbrlink: 1a782ebb
 date: 2021-04-10 09:58:35
 ---
 

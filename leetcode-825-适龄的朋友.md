@@ -1,8 +1,11 @@
 ---
 title: leetcode-825-适龄的朋友
-date: 2021-12-27 10:50:03
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: cef75914
+date: 2021-12-27 10:50:03
 ---
 
 [825. 适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages/)

@@ -1,9 +1,11 @@
 ---
 title: leetcode-221-最大正方形
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 78797a86
 date: 2021-09-13 21:26:20
 ---
 

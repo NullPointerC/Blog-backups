@@ -1,9 +1,11 @@
 ---
 title: leetcode-64-最小路径和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: aec4f41d
 date: 2021-09-10 16:46:05
 ---
 

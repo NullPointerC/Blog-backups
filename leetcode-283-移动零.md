@@ -1,8 +1,11 @@
 ---
 title: leetcode-283-移动零
-date: 2021-11-02 21:01:09
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: ab478c9d
+date: 2021-11-02 21:01:09
 ---
 
 [$link$](https://leetcode-cn.com/problems/move-zeroes/)

@@ -1,8 +1,11 @@
 ---
 title: leetcode-71-简化路径
-date: 2022-01-06 10:46:01
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: d40ef1ef
+date: 2022-01-06 10:46:01
 ---
 
 [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)

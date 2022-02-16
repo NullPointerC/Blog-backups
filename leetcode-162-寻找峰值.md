@@ -1,9 +1,11 @@
 ---
 title: leetcode-162-寻找峰值
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3c21df52
 date: 2021-09-15 09:55:10
 ---
 

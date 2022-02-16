@@ -1,9 +1,11 @@
 ---
 title: leetcode-508-出现次数最多的子树元素和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: c7ba1096
 date: 2021-09-19 18:13:59
 ---
 

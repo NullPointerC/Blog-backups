@@ -1,10 +1,12 @@
 ---
 title: weekly-11.15-11.21
-date: 2021-11-21 21:20:55
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
+abbrlink: 7c503157
+date: 2021-11-21 21:20:55
 ---
 
 又到了写周报的时候, 这一周又是过得好快的一周。恍惚间，就快要结束11月了，感觉还有好多想做事还没来得及做，好多想学的也没来得及学。。。

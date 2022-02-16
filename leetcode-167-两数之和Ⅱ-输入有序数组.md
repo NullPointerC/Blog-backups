@@ -1,8 +1,11 @@
 ---
 title: leetcode-167-两数之和Ⅱ-输入有序数组
-date: 2021-11-02 21:25:13
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: a5c7e74f
+date: 2021-11-02 21:25:13
 ---
 
 [$link$](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)

@@ -1,9 +1,11 @@
 ---
 title: leetcode-449-序列化和反序列化二叉搜索树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 7fa1c4b8
 date: 2021-09-06 18:59:15
 ---
 

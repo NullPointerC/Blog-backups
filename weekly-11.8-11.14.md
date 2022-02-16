@@ -1,11 +1,12 @@
 ---
 title: weekly-11.8-11.14
-date: 2021-11-14 20:38:05
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
-
+abbrlink: 6ffa6099
+date: 2021-11-14 20:38:05
 ---
 
 又到了写周报的时间,这周感觉又是飞快的一周,恍惚间就又到周天了,本来想写的项目也没动手,每天也只能仅仅完成一些数量的算法题而已。

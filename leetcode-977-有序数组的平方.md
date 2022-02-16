@@ -1,8 +1,12 @@
 ---
 title: leetcode-977-有序数组的平方
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: b1131f5c
 date: 2021-11-01 21:19:46
-categories: [LeetCode]
-tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)

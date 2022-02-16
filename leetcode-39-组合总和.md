@@ -1,8 +1,11 @@
 ---
 title: leetcode-39-组合总和
-date: 2021-12-01 16:28:15
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 660ea70c
+date: 2021-12-01 16:28:15
 ---
 
 [组合总和](https://leetcode-cn.com/problems/combination-sum/)

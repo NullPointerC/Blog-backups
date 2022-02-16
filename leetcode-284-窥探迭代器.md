@@ -1,9 +1,11 @@
 ---
 title: leetcode-284-窥探迭代器
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: d30bd20a
 date: 2021-10-05 12:47:32
 ---
 

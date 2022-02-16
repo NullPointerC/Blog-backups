@@ -1,8 +1,11 @@
 ---
 title: leetcode-700-二叉搜索树中的搜索
-date: 2021-11-26 10:09:16
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 7fed452f
+date: 2021-11-26 10:09:16
 ---
 
 [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)

@@ -1,8 +1,11 @@
 ---
 title: leetcode-1414-和为K的最少斐波那契数字数目
-date: 2022-02-03 00:28:53
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 9f74fad6
+date: 2022-02-03 00:28:53
 ---
 
 [1414. 和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)

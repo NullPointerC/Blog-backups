@@ -1,8 +1,12 @@
 ---
 title: leetcode-492-构造矩阵
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 7450cfab
 date: 2021-10-23 12:16:30
-categories: [LeetCode]
-tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/construct-the-rectangle/)

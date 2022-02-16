@@ -1,10 +1,12 @@
 ---
 title: weekly-12.6-12.12
-date: 2021-12-12 15:51:15
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
+abbrlink: fd9e2dda
+date: 2021-12-12 15:51:15
 ---
 
 这周依旧划水,爬虫终于不纠结于他的$pyqt$了,早点搞$tkinter$多好,虽然没有$qt$那么方便拖拖拖，但是这种创建GUI的方式就比$qt$的信号和槽的机制好了太多，通俗易懂了，就是想做好看确实比较难，但是满足基本的作业需求是完全够了。

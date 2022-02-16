@@ -1,9 +1,11 @@
 ---
 title: leetcode-176-第二高的薪水
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: 5cf820b3
 date: 2021-08-25 11:02:07
 ---
 

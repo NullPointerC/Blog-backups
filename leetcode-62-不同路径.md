@@ -1,9 +1,11 @@
 ---
 title: leetcode-62-不同路径
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3d0dbff0
 date: 2021-08-28 10:08:43
 ---
 

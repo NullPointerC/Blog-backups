@@ -1,9 +1,11 @@
 ---
 title: leetcode-297-二叉树的序列化和反序列化
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: a5c1bbf4
 date: 2021-08-30 22:46:20
 ---
 

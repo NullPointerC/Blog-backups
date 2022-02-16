@@ -1,9 +1,11 @@
 ---
 title: leetcode-178-分数排名
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: d06e6983
 date: 2021-09-22 20:39:36
 ---
 

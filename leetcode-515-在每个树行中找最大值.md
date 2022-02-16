@@ -1,9 +1,11 @@
 ---
 title: leetcode-515-在每个树行中找最大值
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 4a1359a6
 date: 2021-09-19 19:10:19
 ---
 

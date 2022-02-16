@@ -1,9 +1,11 @@
 ---
 title: leetcode-30-串联所有单词的子串
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: a479358a
 date: 2021-10-12 10:20:14
 ---
 

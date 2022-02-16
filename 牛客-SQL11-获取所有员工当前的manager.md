@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL11-获取所有员工当前的manager
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: 182cfafe
 date: 2021-10-07 14:21:29
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-2029-石子游戏IX
-date: 2022-01-20 14:03:49
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: de858cfc
+date: 2022-01-20 14:03:49
 ---
 
 [2029. 石子游戏 IX](https://leetcode-cn.com/problems/stone-game-ix/)

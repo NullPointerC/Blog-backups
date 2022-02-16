@@ -1,8 +1,11 @@
 ---
 title: leetcode-733-图像渲染
-date: 2021-11-06 12:38:12
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 267b92d0
+date: 2021-11-06 12:38:12
 ---
 
 [$link$](https://leetcode-cn.com/problems/flood-fill/)

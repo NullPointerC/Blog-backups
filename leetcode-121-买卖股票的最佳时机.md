@@ -1,9 +1,11 @@
 ---
 title: leetcode-121-买卖股票的最佳时机
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 147fa94a
 date: 2021-07-04 11:15:07
 ---
 

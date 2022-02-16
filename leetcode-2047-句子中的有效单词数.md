@@ -1,8 +1,11 @@
 ---
 title: leetcode-2047-句子中的有效单词数
-date: 2022-01-27 22:25:55
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: c0f6ca1
+date: 2022-01-27 22:25:55
 ---
 
 [2047. 句子中的有效单词数](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/)

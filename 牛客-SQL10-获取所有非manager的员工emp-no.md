@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL10-获取所有非manager的员工emp_no
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: 3b2cc27c
 date: 2021-10-07 14:14:54
 ---
 

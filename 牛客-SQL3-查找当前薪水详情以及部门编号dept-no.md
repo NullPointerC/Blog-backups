@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL3-查找当前薪水详情以及部门编号dept_no
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: 8cc67f3e
 date: 2021-09-26 20:42:17
 ---
 

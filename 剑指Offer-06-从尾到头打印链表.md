@@ -1,8 +1,10 @@
 ---
 title: 剑指Offer-06-从尾到头打印链表
-date: 2021-12-11 22:52:29
 categories: 剑指Offer
-tags: [剑指Offer]
+tags:
+  - 剑指Offer
+abbrlink: a0a3db1e
+date: 2021-12-11 22:52:29
 ---
 
 [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)

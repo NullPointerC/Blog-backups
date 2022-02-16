@@ -1,9 +1,11 @@
 ---
 title: leetcode-265-粉刷房子Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 840e902e
 date: 2021-09-28 18:58:58
 ---
 

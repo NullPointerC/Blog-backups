@@ -1,7 +1,9 @@
 ---
 title: 剑指OfferⅡ-069-山峰数组的顶部
 categories: 剑指Offer
-tags: [剑指Offer]
+tags:
+  - 剑指Offer
+abbrlink: 21fb1d8c
 date: 2021-10-14 09:47:09
 ---
 

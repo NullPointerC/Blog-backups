@@ -1,9 +1,11 @@
 ---
 title: POI-使用
-categories: [Java]
+categories:
+  - Java
 tags:
   - Java
   - SpringBoot
+abbrlink: 8213ca6e
 date: 2021-05-28 18:40:59
 ---
 

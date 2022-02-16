@@ -1,8 +1,11 @@
 ---
 title: leetcode-1705-吃苹果的最大数目
-date: 2021-12-24 15:32:54
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: b3b7e056
+date: 2021-12-24 15:32:54
 ---
 
 [吃苹果的最大数目](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/)

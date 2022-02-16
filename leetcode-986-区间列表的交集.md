@@ -1,8 +1,11 @@
 ---
 title: leetcode-986-区间列表的交集
-date: 2021-11-20 13:43:44
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 6328c311
+date: 2021-11-20 13:43:44
 ---
 
 [$link$](https://leetcode-cn.com/problems/interval-list-intersections/)

@@ -1,8 +1,11 @@
 ---
 title: leetcode-1342-将数字变为0的操作次数
-date: 2022-01-31 00:29:58
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 97f5a41
+date: 2022-01-31 00:29:58
 ---
 
 [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)

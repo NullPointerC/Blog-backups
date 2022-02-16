@@ -1,9 +1,11 @@
 ---
 title: SpringBoot-01-容器配置
-categories: [SpringBoot]
+categories:
+  - SpringBoot
 tags:
   - backend
   - SpringBoot
+abbrlink: 6e63cc9b
 date: 2021-04-03 22:04:42
 ---
 

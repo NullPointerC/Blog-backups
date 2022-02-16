@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL1-查找最晚入职员工的所有信息
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: 472065a7
 date: 2021-09-25 10:52:01
 ---
 

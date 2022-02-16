@@ -1,9 +1,11 @@
 ---
 title: leetcode-177-第N高的薪水
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: dce3930a
 date: 2021-08-29 10:14:10
 ---
 

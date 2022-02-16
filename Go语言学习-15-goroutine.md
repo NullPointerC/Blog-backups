@@ -1,8 +1,11 @@
 ---
 title: Go语言学习-15-goroutine
-date: 2021-11-04 21:07:01
 categories: Go
-tags: [Go,backend]
+tags:
+  - Go
+  - backend
+abbrlink: 3300d2f2
+date: 2021-11-04 21:07:01
 ---
 
 并发是编程里面一个非常重要的概念，Go语言在语言层面天生支持并发，这也是Go语言流行的一个很重要的原因。

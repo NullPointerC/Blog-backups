@@ -1,9 +1,11 @@
 ---
 title: leetcode-1746-经过一次操作后的最大子数组
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: c0ac1e08
 date: 2021-10-01 15:45:20
 ---
 

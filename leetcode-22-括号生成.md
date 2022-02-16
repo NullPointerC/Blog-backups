@@ -1,9 +1,11 @@
 ---
 title: leetcode-22-括号生成
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: '533e3721'
 date: 2021-08-24 09:51:22
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: leetcode-63-不同路径Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 9d8c54c8
 date: 2021-09-10 17:25:21
 ---
 

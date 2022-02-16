@@ -1,9 +1,11 @@
 ---
 title: leetcode-341-扁平化嵌套列表迭代器
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: d04ec38e
 date: 2021-09-02 21:34:51
 ---
 

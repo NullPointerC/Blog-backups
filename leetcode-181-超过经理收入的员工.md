@@ -1,9 +1,11 @@
 ---
 title: leetcode-181-超过经理收入的员工
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: a97c412e
 date: 2021-10-10 18:43:59
 ---
 

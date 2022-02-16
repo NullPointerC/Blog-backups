@@ -1,8 +1,11 @@
 ---
 title: leetcode-78-子集
-date: 2021-11-23 20:38:32
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 4c2079e9
+date: 2021-11-23 20:38:32
 ---
 
 [子集](https://leetcode-cn.com/problems/subsets/)

@@ -1,8 +1,11 @@
 ---
 title: leetcode-153-寻找旋转排序数组中的最小值
-date: 2021-11-15 11:03:22
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 350ab848
+date: 2021-11-15 11:03:22
 ---
 
 [$link$](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)

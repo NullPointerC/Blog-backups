@@ -1,10 +1,12 @@
 ---
 title: Django学习小记-7-路由
-categories: [Django]
+categories:
+  - Django
 tags:
   - Python
   - backend
   - Django
+abbrlink: '111274e7'
 date: 2021-08-25 16:54:04
 ---
 

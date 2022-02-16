@@ -1,8 +1,11 @@
 ---
 title: leetcode-2006-差的绝对值为K的数对数目
-date: 2022-02-09 00:26:22
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: d369fcd0
+date: 2022-02-09 00:26:22
 ---
 
 [2006. 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/)

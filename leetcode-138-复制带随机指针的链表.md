@@ -1,9 +1,11 @@
 ---
 title: leetcode-138-复制带随机指针的链表
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: f5e4d426
 date: 2021-09-20 13:52:17
 ---
 

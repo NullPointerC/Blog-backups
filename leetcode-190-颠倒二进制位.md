@@ -1,8 +1,11 @@
 ---
 title: leetcode-190-颠倒二进制位
-date: 2021-11-13 23:46:00
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: ca41e32e
+date: 2021-11-13 23:46:00
 ---
 
 [$link$](https://leetcode-cn.com/problems/reverse-bits/)

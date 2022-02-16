@@ -1,8 +1,11 @@
 ---
 title: leetcode-40-组合总和Ⅱ
-date: 2021-12-01 17:20:23
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 3d7e523e
+date: 2021-12-01 17:20:23
 ---
 
 [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)

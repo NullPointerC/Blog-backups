@@ -1,8 +1,11 @@
 ---
 title: leetcode-1629-按键持续时间最长的键
-date: 2022-01-09 10:12:42
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: f603bcf7
+date: 2022-01-09 10:12:42
 ---
 
 [1629. 按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/)

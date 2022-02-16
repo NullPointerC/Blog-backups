@@ -1,10 +1,12 @@
 ---
 title: leetcode-377-组合总和Ⅳ
-date: 2021-10-29 09:58:42
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: fc2fccaf
+date: 2021-10-29 09:58:42
 ---
 
 [$link$](https://leetcode-cn.com/problems/combination-sum-iv/)

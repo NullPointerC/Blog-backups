@@ -1,9 +1,11 @@
 ---
 title: leetcode-509-斐波那契数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: f71788d4
 date: 2021-09-25 09:50:38
 ---
 

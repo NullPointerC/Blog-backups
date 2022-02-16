@@ -1,9 +1,11 @@
 ---
 title: leetcode-1567-乘积为正数的最大子数组长度
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: cbfbbfdb
 date: 2021-10-16 16:22:59
 ---
 

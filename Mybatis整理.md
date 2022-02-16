@@ -1,10 +1,12 @@
 ---
 title: Mybatis整理
-categories: [FrameWork]
+categories:
+  - FrameWork
 tags:
   - FrameWork
   - backend
   - Mybatis
+abbrlink: 571c4c62
 date: 2021-08-19 11:12:41
 ---
 

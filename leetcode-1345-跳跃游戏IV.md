@@ -1,8 +1,11 @@
 ---
 title: leetcode-1345-跳跃游戏IV
-date: 2022-01-21 16:29:46
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: a147900c
+date: 2022-01-21 16:29:46
 ---
 
 [1345. 跳跃游戏 IV](https://leetcode-cn.com/problems/jump-game-iv/)

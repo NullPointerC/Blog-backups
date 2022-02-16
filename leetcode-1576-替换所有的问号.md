@@ -1,8 +1,11 @@
 ---
 title: leetcode-1576-替换所有的问号
-date: 2022-01-05 14:51:53
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: f0acaeba
+date: 2022-01-05 14:51:53
 ---
 
 [1576. 替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)

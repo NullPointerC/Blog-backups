@@ -1,9 +1,11 @@
 ---
 title: leetcode-182-查找重复的电子邮箱
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: e3d7e3a9
 date: 2021-10-10 18:49:08
 ---
 

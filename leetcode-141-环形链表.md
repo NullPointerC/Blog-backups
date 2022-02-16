@@ -1,9 +1,11 @@
 ---
 title: leetcode-141-环形链表
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 3d9ff97b
 date: 2021-07-12 08:09:20
 ---
 

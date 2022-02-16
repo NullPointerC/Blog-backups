@@ -1,10 +1,12 @@
 ---
 title: leetcode-240-搜索二维矩阵Ⅱ
-date: 2021-10-25 12:27:33
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: d9673f34
+date: 2021-10-25 12:27:33
 ---
 
 [$link$](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)

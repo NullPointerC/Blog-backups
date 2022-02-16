@@ -1,9 +1,11 @@
 ---
 title: leetcode-91-解码方法
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: d8198203
 date: 2021-09-11 11:26:29
 ---
 

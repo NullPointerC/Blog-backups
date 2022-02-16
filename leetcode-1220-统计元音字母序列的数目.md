@@ -1,8 +1,11 @@
 ---
 title: leetcode-1220-统计元音字母序列的数目
-date: 2022-01-17 21:48:51
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 64c8c68a
+date: 2022-01-17 21:48:51
 ---
 
 [1220. 统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation/)

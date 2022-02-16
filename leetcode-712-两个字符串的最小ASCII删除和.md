@@ -1,9 +1,11 @@
 ---
 title: leetcode-712-两个字符串的最小ASCII删除和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 532bc65f
 date: 2021-10-03 13:21:04
 ---
 

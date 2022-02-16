@@ -1,9 +1,11 @@
 ---
 title: leetcode-501-二叉搜索树中的众数
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: e139a73a
 date: 2021-09-19 17:44:15
 ---
 

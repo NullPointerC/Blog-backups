@@ -1,8 +1,11 @@
 ---
 title: leetcode-713-乘积小于K的子数组
-date: 2021-11-20 15:48:09
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 8d90d576
+date: 2021-11-20 15:48:09
 ---
 
 [$link$](https://leetcode-cn.com/problems/subarray-product-less-than-k/)

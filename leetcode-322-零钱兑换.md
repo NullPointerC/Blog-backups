@@ -1,9 +1,11 @@
 ---
 title: leetcode-322-零钱兑换
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 2a928bb2
 date: 2021-09-18 10:23:45
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: leetcode-118-杨辉三角
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: ab7c7359
 date: 2021-07-05 12:49:08
 ---
 

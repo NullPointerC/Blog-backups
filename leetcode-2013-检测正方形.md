@@ -1,8 +1,11 @@
 ---
 title: leetcode-2013-检测正方形
-date: 2022-01-26 22:56:42
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 1052cc70
+date: 2022-01-26 22:56:42
 ---
 
 [2013. 检测正方形](https://leetcode-cn.com/problems/detect-squares/)

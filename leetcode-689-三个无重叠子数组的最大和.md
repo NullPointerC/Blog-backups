@@ -1,8 +1,11 @@
 ---
 title: leetcode-689-三个无重叠子数组的最大和
-date: 2021-12-08 19:46:00
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: fc3891d
+date: 2021-12-08 19:46:00
 ---
 
 [三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)

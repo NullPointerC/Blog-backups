@@ -1,9 +1,11 @@
 ---
 title: Docker-01-简介
-categories: [Docker]
+categories:
+  - Docker
 tags:
   - Docker
   - Linux
+abbrlink: 865be22f
 date: 2021-09-20 15:37:18
 ---
 

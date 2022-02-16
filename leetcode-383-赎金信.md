@@ -1,9 +1,11 @@
 ---
 title: leetcode-383-赎金信
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 153f62b9
 date: 2021-07-11 08:11:20
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: leetcode-187-重复的DNA序列
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: e37c8c9f
 date: 2021-10-08 10:12:51
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: Spring-5-JDBC
-categories: [Spring]
+categories:
+  - Spring
 tags:
   - FrameWork
   - backend
+abbrlink: 37612eca
 date: 2021-09-04 13:52:40
 ---
 

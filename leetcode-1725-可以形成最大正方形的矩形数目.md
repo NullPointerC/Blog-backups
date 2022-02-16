@@ -1,8 +1,11 @@
 ---
 title: leetcode-1725-可以形成最大正方形的矩形数目
-date: 2022-02-04 00:09:21
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 76152e4e
+date: 2022-02-04 00:09:21
 ---
 
 [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)

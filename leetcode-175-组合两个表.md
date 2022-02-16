@@ -1,9 +1,11 @@
 ---
 title: leetcode-175-组合两个表
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: 1b367fea
 date: 2021-08-23 15:40:19
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: weekly-10.18-10.24
-date: 2021-10-24 19:26:15
-categories: [review]
+categories:
+  - review
 tags:
   - record
   - schoollife
+abbrlink: 3a93a843
+date: 2021-10-24 19:26:15
 ---
 
 又是忙碌的一周呢,这周前面几天又刮风又下雨的,天气真冷。

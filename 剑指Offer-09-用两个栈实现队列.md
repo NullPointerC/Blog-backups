@@ -1,8 +1,10 @@
 ---
 title: 剑指Offer-09-用两个栈实现队列
-date: 2021-12-10 16:29:28
 categories: 剑指Offer
-tags: [剑指Offer]
+tags:
+  - 剑指Offer
+abbrlink: deb45271
+date: 2021-12-10 16:29:28
 ---
 
 这周起也就开起刷剑指offer了,因为感觉一直刷leetcode也不是初心,主要是学以致用,能够拿下基本的面试算法题以及能够说明白就可以了，💪。

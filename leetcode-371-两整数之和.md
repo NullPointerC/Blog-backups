@@ -1,9 +1,11 @@
 ---
 title: leetcode-371-两整数之和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 8ca45202
 date: 2021-09-26 18:01:14
 ---
 

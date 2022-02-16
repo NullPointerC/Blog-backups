@@ -1,8 +1,11 @@
 ---
 title: leetcode-1984-学生分数的最小差值
-date: 2022-02-11 01:22:25
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: d6f44060
+date: 2022-02-11 01:22:25
 ---
 
 [1984. 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)

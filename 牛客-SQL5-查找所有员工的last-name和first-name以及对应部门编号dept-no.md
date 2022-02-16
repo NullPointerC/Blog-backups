@@ -1,9 +1,11 @@
 ---
 title: 牛客-SQL5-查找所有员工的last_name和first_name以及对应部门编号dept_no
-categories: [nowcoder]
+categories:
+  - nowcoder
 tags:
   - SQL
   - nowcoder
+abbrlink: bdb860dd
 date: 2021-10-07 13:58:51
 ---
 

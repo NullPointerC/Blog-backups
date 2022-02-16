@@ -1,9 +1,11 @@
 ---
 title: leetcode-196-删除重复的电子邮箱
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - SQL
   - LeetCode
+abbrlink: cb699d5c
 date: 2021-10-11 10:16:08
 ---
 

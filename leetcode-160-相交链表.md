@@ -1,9 +1,11 @@
 ---
 title: leetcode-160-相交链表
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 6cab73e4
 date: 2021-09-07 18:22:41
 ---
 

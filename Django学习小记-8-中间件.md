@@ -1,10 +1,12 @@
 ---
 title: Django学习小记-8-中间件
-categories: [Django]
+categories:
+  - Django
 tags:
   - Python
   - backend
   - Django
+abbrlink: 11d924ef
 date: 2021-08-26 17:01:24
 ---
 

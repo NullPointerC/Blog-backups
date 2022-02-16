@@ -1,8 +1,12 @@
 ---
 title: leetcode-704-二分查找
+categories:
+  - LeetCode
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: cde03001
 date: 2021-10-31 17:00:36
-categories: [LeetCode]
-tags: [LeetCode,algorithm]
 ---
 
 [$link$](https://leetcode-cn.com/problems/binary-search/)

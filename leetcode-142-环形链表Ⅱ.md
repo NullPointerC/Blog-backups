@@ -1,9 +1,11 @@
 ---
 title: leetcode-142-环形链表Ⅱ
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 1cf22a85
 date: 2021-09-21 14:53:18
 ---
 

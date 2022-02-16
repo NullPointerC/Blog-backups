@@ -1,8 +1,11 @@
 ---
 title: leetcode-1405-最长快乐字符串
-date: 2022-02-07 22:36:36
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 8429cfc1
+date: 2022-02-07 22:36:36
 ---
 
 [1405. 最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string/ "最长快乐字符串")

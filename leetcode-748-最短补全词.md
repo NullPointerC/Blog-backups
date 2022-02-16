@@ -1,8 +1,11 @@
 ---
 title: leetcode-748-最短补全词
-date: 2021-12-10 16:16:18
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: b75a8752
+date: 2021-12-10 16:16:18
 ---
 
 [最短补全词](https://leetcode-cn.com/problems/shortest-completing-word/)

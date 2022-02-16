@@ -1,8 +1,11 @@
 ---
 title: leetcode-189-旋转数组
-date: 2021-11-01 21:35:32
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: f58b266b
+date: 2021-11-01 21:35:32
 ---
 
 [$link$](https://leetcode-cn.com/problems/rotate-array/)

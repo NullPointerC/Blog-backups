@@ -1,9 +1,11 @@
 ---
 title: RabbitMQ-01-简介
-categories: [MQ]
+categories:
+  - MQ
 tags:
   - MQ
   - backend
+abbrlink: 90e130b0
 date: 2021-09-20 21:12:22
 ---
 

@@ -1,8 +1,11 @@
 ---
 title: leetcode-375-猜数字大小Ⅱ
-date: 2021-11-12 10:52:10
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 5d4974fb
+date: 2021-11-12 10:52:10
 ---
 
 [$link$](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)

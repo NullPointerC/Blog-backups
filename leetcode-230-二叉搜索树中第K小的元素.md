@@ -1,9 +1,11 @@
 ---
 title: leetcode-230-二叉搜索树中第K小的元素
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 79556a75
 date: 2021-08-29 14:49:50
 ---
 

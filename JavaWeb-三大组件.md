@@ -1,10 +1,12 @@
 ---
 title: JavaWeb-三大组件
-categories: [Java]
+categories:
+  - Java
 tags:
   - web
   - Java
   - backend
+abbrlink: d22df17a
 date: 2021-07-30 16:54:59
 ---
 

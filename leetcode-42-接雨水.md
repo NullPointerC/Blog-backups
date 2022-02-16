@@ -1,9 +1,11 @@
 ---
 title: leetcode-42-接雨水
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 78b424c5
 date: 2021-10-08 10:59:41
 ---
 

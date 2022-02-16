@@ -1,9 +1,11 @@
 ---
 title: leetcode-746-使用最小花费爬楼梯
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 6b716dcb
 date: 2021-09-26 18:48:05
 ---
 

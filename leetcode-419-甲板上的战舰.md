@@ -1,8 +1,11 @@
 ---
 title: leetcode-419-甲板上的战舰
-date: 2021-12-18 12:07:46
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 117cb370
+date: 2021-12-18 12:07:46
 ---
 
 [419. 甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/)

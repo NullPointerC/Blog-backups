@@ -1,9 +1,11 @@
 ---
 title: leetcode-292-Nim游戏
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 268e088f
 date: 2021-09-18 19:03:36
 ---
 

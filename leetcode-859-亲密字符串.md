@@ -1,8 +1,11 @@
 ---
 title: leetcode-859-亲密字符串
-date: 2021-11-23 19:20:23
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 57fd16e0
+date: 2021-11-23 19:20:23
 ---
 
 [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)

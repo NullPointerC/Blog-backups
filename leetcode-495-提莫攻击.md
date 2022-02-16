@@ -1,8 +1,11 @@
 ---
 title: leetcode-495-提莫攻击
-date: 2021-11-10 14:51:40
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 3532aa24
+date: 2021-11-10 14:51:40
 ---
 
 [$link$](https://leetcode-cn.com/problems/teemo-attacking/)

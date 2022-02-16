@@ -1,9 +1,11 @@
 ---
 title: leetcode-99-恢复二叉搜索树
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 77f9ab83
 date: 2021-08-15 12:55:56
 ---
 

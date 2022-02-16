@@ -1,9 +1,11 @@
 ---
 title: SpringBoot-04-web开发
-categories: [SpringBoot]
+categories:
+  - SpringBoot
 tags:
   - backend
   - SpringBoot
+abbrlink: ea8ce85d
 date: 2021-04-07 09:49:48
 ---
 

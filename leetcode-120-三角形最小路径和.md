@@ -1,9 +1,11 @@
 ---
 title: leetcode-120-三角形最小路径和
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: d33121a1
 date: 2021-09-22 20:16:35
 ---
 

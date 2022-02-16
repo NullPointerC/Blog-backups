@@ -1,9 +1,12 @@
 ---
 title: MySQL45讲-1-一条SQL查询语句是如何执行的?
-date: 2022-01-19 17:18:48
 categories: MySQL
-tags: [MySQL, backend]
+tags:
+  - MySQL
+  - backend
 hidden: true
+abbrlink: 11c3edb6
+date: 2022-01-19 17:18:48
 ---
 
 > 这个专栏记录自己学习MySQL45讲的记录

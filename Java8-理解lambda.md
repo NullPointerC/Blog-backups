@@ -1,8 +1,12 @@
 ---
 title: Java8-理解lambda
-date: 2022-01-25 16:32:46
 categories: Java
-tags: [Java,backend,计算机基础]
+tags:
+  - Java
+  - backend
+  - 计算机基础
+abbrlink: 1bc4ebd1
+date: 2022-01-25 16:32:46
 ---
 
 ### 不同范式的编程

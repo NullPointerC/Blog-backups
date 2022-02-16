@@ -1,9 +1,11 @@
 ---
 title: leetcode-83-删除排序链表中的重复元素
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 8928fe03
 date: 2021-06-10 21:14:02
 ---
 

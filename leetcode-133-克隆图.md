@@ -1,9 +1,11 @@
 ---
 title: leetcode-133-克隆图
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: ad75200
 date: 2021-09-17 17:26:13
 ---
 

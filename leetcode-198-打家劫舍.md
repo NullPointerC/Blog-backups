@@ -1,9 +1,11 @@
 ---
 title: leetcode-198-打家劫舍
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: bc8418f1
 date: 2021-09-27 18:07:28
 ---
 

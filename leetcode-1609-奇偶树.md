@@ -1,8 +1,11 @@
 ---
 title: leetcode-1609-奇偶树
-date: 2021-12-25 10:45:13
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 3864c21e
+date: 2021-12-25 10:45:13
 ---
 
 祝大伙圣诞快乐。![img](https://gitee.com/cao_ziqiang/img/raw/master/20211225104654.jpg)

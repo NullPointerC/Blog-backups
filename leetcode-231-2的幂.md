@@ -1,9 +1,11 @@
 ---
 title: leetcode-231-2的幂
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 4833014e
 date: 2021-06-19 22:14:11
 ---
 

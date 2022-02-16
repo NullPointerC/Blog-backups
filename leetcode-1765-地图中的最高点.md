@@ -1,8 +1,11 @@
 ---
 title: leetcode-1765-地图中的最高点
-date: 2022-01-29 20:31:37
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 7c92064f
+date: 2022-01-29 20:31:37
 ---
 
 [1765. 地图中的最高点](https://leetcode-cn.com/problems/map-of-highest-peak/)

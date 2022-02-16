@@ -1,9 +1,11 @@
 ---
 title: leetcode-38-外观数列
-categories: [LeetCode]
+categories:
+  - LeetCode
 tags:
   - algorithm
   - LeetCode
+abbrlink: 9611f784
 date: 2021-10-15 09:47:34
 ---
 

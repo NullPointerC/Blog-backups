@@ -1,8 +1,11 @@
 ---
 title: leetcode-911-在线选举
-date: 2021-12-11 22:37:00
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 8b3e34a5
+date: 2021-12-11 22:37:00
 ---
 
 [在线选举](https://leetcode-cn.com/problems/online-election/)
