@@ -1,8 +1,11 @@
 ---
 title: leetcode-494-目标和
-date: 2022-02-17 16:13:22
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: b5d89e0b
+date: 2022-02-17 16:13:22
 ---
 
 [494. 目标和](https://leetcode-cn.com/problems/target-sum/)
