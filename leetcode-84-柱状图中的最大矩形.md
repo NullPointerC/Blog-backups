@@ -1,8 +1,11 @@
 ---
 title: leetcode-84-柱状图中的最大矩形
-date: 2022-02-23 21:31:36
 categories: LeetCode
-tags: [LeetCode,algorithm]
+tags:
+  - LeetCode
+  - algorithm
+abbrlink: 3dba54d2
+date: 2022-02-23 21:31:36
 ---
 
 [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
