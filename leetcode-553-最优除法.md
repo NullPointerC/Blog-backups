@@ -14,28 +14,9 @@ date: 2022-02-27 11:50:33
 
 说实话没有什么思路刚看到这题，以为是回溯所有结果，后面看答案，发现思路也太简洁了。
 
-假设最后的结果形式是
-$$
-a \div b
-$$
-要使这个结果最大，就应该要让$b$尽可能的小，再观察数据范围，
+假设最后的结果形式是$a \div b$要使这个结果最大，就应该要让$b$尽可能的小，再观察数据范围，
 
-发现数据范围都在
-$$
-[2,1000]
-$$
-这个区间内，所以应该让尽可能多的数参与到分子中，转换为连乘，
-$$
-\frac{nums[0]}{nums[1] / nums[2] / num[3] / ... / nums[n - 2] / num[n - 1]}
-$$
-再转换为连乘
-$$
-\frac{nums[0]}{nums[1] \times \frac{1}{nums[2]} \times \frac{1}{nums[3]} \times ... \times \frac{1} {nums[n-2]} \times \frac{1}{nums[n-1]}}
-$$
-也就是
-$$
-\frac{nums[0] \times nums[2] \times nums[3] \times ... nums[n - 2] \times nums[n-1]}{nums[1]}
-$$
+发现数据范围都在$[2,1000]$这个区间内，所以应该让尽可能多的数参与到分子中，转换为连乘，$\frac{nums[0]}{nums[1] / nums[2] / num[3] / ... / nums[n - 2] / num[n - 1]}$，再转换为连乘$\frac{nums[0]}{nums[1] \times \frac{1}{nums[2]} \times \frac{1}{nums[3]} \times ... \times \frac{1} {nums[n-2]} \times \frac{1}{nums[n-1]}}$，也就是$\frac{nums[0] \times nums[2] \times nums[3] \times ... nums[n - 2] \times nums[n-1]}{nums[1]}$。
 
 ```java
 class Solution {
