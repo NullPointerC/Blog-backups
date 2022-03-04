@@ -55,5 +55,23 @@ class Solution {
 }
 ```
 
+也可以发现，每次只需要维护两个变量，所以可以降低空间复杂度。
 
+```java
+class Solution {
+    public long subArrayRanges(int[] nums) {
+        int n = nums.length;
+        long res = 0;
+        for(int i = 0; i < n; i++) {
+            int minn = nums[i], maxx = nums[i];
+            for(int j = i + 1; j < n; j++) {
+                minn = Math.min(minn, nums[j]);
+                maxx = Math.max(maxx, nums[j]);
+                res += (maxx - minn);
+            }
+        }
+        return res;
+    }
+}
+```
 
