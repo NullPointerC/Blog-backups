@@ -3,6 +3,7 @@ title: 剑指Offer-06-从尾到头打印链表
 categories: 剑指Offer
 tags:
   - 剑指Offer
+hidden: true
 abbrlink: a0a3db1e
 date: 2021-12-11 22:52:29
 ---
