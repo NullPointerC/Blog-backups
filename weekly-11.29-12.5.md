@@ -5,6 +5,7 @@ categories:
 tags:
   - record
   - schoollife
+hidden: true
 abbrlink: 59bc61c5
 date: 2021-12-05 16:49:52
 ---
