@@ -12,7 +12,7 @@ date: 2021-12-11 23:16:55
 
 <hr/>
 
-![image-20211211231742671](https://gitee.com/cao_ziqiang/img/raw/master/20211211231742.png)
+![image-20211211231742671](http://static.codenote.xyz/img/20211211231742.png)
 
 比较好想到的办法应该是使用双指针。
 

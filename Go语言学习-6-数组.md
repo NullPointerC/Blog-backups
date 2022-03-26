@@ -148,7 +148,7 @@ func main() {
 
 可以在终端看到$a$的值仍为$[1, 2, 3]$。
 
-![image-20211014190330434](https://gitee.com/cao_ziqiang/img/raw/master/20211014190330.png)
+![image-20211014190330434](http://static.codenote.xyz/img/20211014190330.png)
 
 1. 数组支持 “==“、”!=” 操作符，因为内存总是被初始化过的。
 2. `[n]*T`表示指针数组，`*[n]T`表示数组指针 。

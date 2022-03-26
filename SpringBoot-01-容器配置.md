@@ -67,7 +67,7 @@ public class MyConfig {
 
 条件装配：满足Conditional指定的条件，则进行组件注入
 
-![image.png](https://gitee.com/cao_ziqiang/img/raw/master/1602835786727-28b6f936-62f5-4fd6-a6c5-ae690bd1e31d.png)
+![image.png](http://static.codenote.xyz/img/1602835786727-28b6f936-62f5-4fd6-a6c5-ae690bd1e31d.png)
 
 ## 2.2、配置文件引入
 

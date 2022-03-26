@@ -195,5 +195,5 @@ func main() {
 
 ### 通道总结
 
-![channel异常总结](https://gitee.com/cao_ziqiang/img/raw/master/20211105211438.png)
+![channel异常总结](http://static.codenote.xyz/img/20211105211438.png)
 

@@ -22,7 +22,7 @@ Django模板系统默认支持DTL和Jinja2模板后端，当然也可以配置�
 
 Django在创建项目的时候，默认定义的TEMPLATES在项目的settings.py文件中
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210826163016.jpeg)
+![img](http://static.codenote.xyz/img/20210826163016.jpeg)
 
 BACKEND：指定了要使用的模板引擎类的Python路径；
 

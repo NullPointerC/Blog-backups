@@ -38,7 +38,7 @@ View代表的是视图层，即系统中选择显示什么和怎么显示的部�
 
 Controller代表的是控制层，它负责根据从View中输入的指令检索Model中的数据，再以一定的逻辑产生最终的结果输出。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210817205439.jpeg)
+![img](http://static.codenote.xyz/img/20210817205439.jpeg)
 
 MVC的3层之间紧密相连，但是又相互独立。每一层的修改都不会影响其他层，每一层都提供了各自独立的接口供其他层调用，这种模块化的开发极大地降低了代码之间的耦合，也增加了模块的可重用性。
 
@@ -52,7 +52,7 @@ MVC的3层之间紧密相连，但是又相互独立。每一层的修改都不�
 
 从概念上可以看出，Django也是一个MVC框架。但在Django中，C（Controller）是由框架自行处理的，它由框架的URLConf来实现，其机制是使用正则表达式匹配URL，再去调用合适的Python函数。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210817205714.jpeg)
+![img](http://static.codenote.xyz/img/20210817205714.jpeg)
 
 ### 1.3 功能模块
 
@@ -74,7 +74,7 @@ MVC的3层之间紧密相连，但是又相互独立。每一层的修改都不�
 
 9. 中间件。中间件是一个插件系统，嵌入在Django的Request和Response之间执行，可以对输入和输出内容做出修改。中间件是业务无关的技术类组件，是用来定义处理所有请求和响应的通用处理架构。
 
-	![img](https://gitee.com/cao_ziqiang/img/raw/master/20210817210207.jpeg)
+	![img](http://static.codenote.xyz/img/20210817210207.jpeg)
 
 10. 缓存系统。Django提供一个稳健的缓存系统，实现了不同级别的缓存粒度：可以缓存单个视图的结果输出，缓存难以生成的片段，或者是缓存整个网站。
 
@@ -126,7 +126,7 @@ django-admin startproject 项目名称
 
 Django对容器的名字是不敏感的，用户可以在创建之后再修改成自己感兴趣的名称。容器目录如（my_bbs）的内部结构如下：
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210817211108.jpeg)
+![img](http://static.codenote.xyz/img/20210817211108.jpeg)
 
 （1）内层的my_bbs是项目中的Python包名称，即导入Python包所使用的名称。
 
@@ -148,7 +148,7 @@ python manage.py runserver
 
 输入localhost:8000
 
-![image-20210817211325768](https://gitee.com/cao_ziqiang/img/raw/master/20210817211325.png)
+![image-20210817211325768](http://static.codenote.xyz/img/20210817211325.png)
 
 ### 2.4 文件配置项解析
 

@@ -100,7 +100,7 @@ useGeneratedKeys属性会自动根据驱动生成对应SQL语句
 
 二级缓存手动开启,属于范围Mapper Namespace；
 
-![image-20210820161814713](https://gitee.com/cao_ziqiang/img/raw/master/20210820161814.png)
+![image-20210820161814713](http://static.codenote.xyz/img/20210820161814.png)
 
 缓存规则：
 

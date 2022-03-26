@@ -47,7 +47,7 @@ new创建一个新线程，还没有开始就一直处于新建状态
 - 当线程在等待另一个线程通知调度器出现一个条件时，这个线程会进入等待状态。如调用Object.wait方法或Thread.join方法，或是等待Lock或Condition时，就会出现这种情况。
 - 有几个方法有超时参数，调用这些方法会让线程进入计时等待状态。这一状态会一直保持到超时期满或接收到适当的通知。如Thread.sleep、计时版的Object.wait、Thread.join、Lock.tryLock以及Condition.await。
 
-![image-20210720161936464](https://gitee.com/cao_ziqiang/img/raw/master/20210723094258.png)
+![image-20210720161936464](http://static.codenote.xyz/img/20210723094258.png)
 
 ### 2.4 终止线程
 

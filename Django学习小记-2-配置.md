@@ -105,7 +105,7 @@ python manage.py startapp post
 
 可以在manage.py的同级目录下看到多出了一个post目录，它的目录结构大致如下：
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210817221246.jpeg)
+![img](http://static.codenote.xyz/img/20210817221246.jpeg)
 
 外层的__init__.py文件标识post是一个Python包。
 

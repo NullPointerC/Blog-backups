@@ -53,7 +53,7 @@ IO模型主要由阻塞式I/O模型(BIO)，非阻塞式I/O模型(NIO)，I/O复�
 
 也称为同步阻塞I/O，是比较传统的I/O模型。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211002155320.png)
+![img](http://static.codenote.xyz/img/20211002155320.png)
 
 用户态进程发出一个IO请求时，会调用$recvfrom$这个系统调用去内核态获取数据，如果当前内核态中数据没有准备好，那么用户态的进程会让出CPU时间片，一直阻塞等待，不会进行其他操作。
 
@@ -69,7 +69,7 @@ IO模型主要由阻塞式I/O模型(BIO)，非阻塞式I/O模型(NIO)，I/O复�
 
 
 
-![](https://gitee.com/cao_ziqiang/img/raw/master/20211002155429.png)
+![](http://static.codenote.xyz/img/20211002155429.png)
 
 在非阻塞式I/O模型中，当用户态进程发出read操作，而内核态中的数据还没有准备好，它并不会阻塞用户态进程，而是会立即返回一个error。而用户态进程看到自己发起了read请求没有被阻塞马上收到了error时，用户态进程就知道数据还没有准备好。
 
@@ -83,7 +83,7 @@ IO模型主要由阻塞式I/O模型(BIO)，非阻塞式I/O模型(NIO)，I/O复�
 
 ## 多路复用I/O(Multiplexing IO)
 
-![](https://gitee.com/cao_ziqiang/img/raw/master/20211002155810.png)
+![](http://static.codenote.xyz/img/20211002155810.png)
 
 多路复用I/O也称事件驱动（event driven I/O）。其本质上是将轮询从用户态转移到内核态；多路复用器解决的是IO状态的问题。
 
@@ -107,7 +107,7 @@ epoll和select/poll最大区别是：
 
 ## 信息驱动式I/O模型
 
-![](https://gitee.com/cao_ziqiang/img/raw/master/20211002160129.png)
+![](http://static.codenote.xyz/img/20211002160129.png)
 
 用户态建立好信号处理程序后，通过系统调用sigaction并立即返回，在系统调用中告知内核态自己需要的数据，然后就去执行其他任务了，内核准备好数据后，会给用户态发送一个SIGIO信号，用户态的信号处理程序收到之后，会立即调用recvfrom，等待数据从内核态复制到用户态，待完成之后recvfrom返回成功指示，用户态进程处理数据。
 
@@ -115,7 +115,7 @@ epoll和select/poll最大区别是：
 
 ## 异步I/O模型
 
-![image-20211002214547596](https://gitee.com/cao_ziqiang/img/raw/master/20211002214547.png)
+![image-20211002214547596](http://static.codenote.xyz/img/20211002214547.png)
 
 与信号驱动模型的主要区别是：信号驱动I/O由内核通知我们何时可以开起一个I/O操作；异步I/O模型由内核通知我们I/O操作何时已经完成。在复制数据到用户空间这个时间段内，用户态进程也是不阻塞的。
 
@@ -123,7 +123,7 @@ epoll和select/poll最大区别是：
 
 五种I/O对比
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211002203814.jpeg)
+![img](http://static.codenote.xyz/img/20211002203814.jpeg)
 
 ## Java中的IO
 

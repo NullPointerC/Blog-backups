@@ -68,4 +68,4 @@ public String upload(@RequestParam("email") String email,
                          @RequestPart("photos") MultipartFile[] photos)
 ```
 
-![image.png](https://gitee.com/cao_ziqiang/img/raw/master/20210821102323.png)
+![image.png](http://static.codenote.xyz/img/20210821102323.png)

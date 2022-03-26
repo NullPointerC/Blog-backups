@@ -65,7 +65,7 @@ Spring AOP的底层实现原理。Spring基于代理模式实现功能的动态�
 
 ### 静态代理
 
-![image-20210904130732267](https://gitee.com/cao_ziqiang/img/raw/master/20210904130732.png)
+![image-20210904130732267](http://static.codenote.xyz/img/20210904130732.png)
 
 通过代理和实现类实现同一个接口，在代理类中持有实现类的实例，并扩展要实现的方法，这种方式成为静态代理；
 
@@ -89,7 +89,7 @@ JDK的动态代理虽然很灵活，但是却有一个前提，必须要实现�
 
 CGLIB是运行时字节码增强技术，也是Spring AOP扩展无接口类的底层技术，它会在代码运行时，自动生成目标继承类字节码的方式进行行为的扩展；
 
-![image-20210904133757667](https://gitee.com/cao_ziqiang/img/raw/master/20210904133757.png)
+![image-20210904133757667](http://static.codenote.xyz/img/20210904133757.png)
 
 Spring 会根据代理类有没有实现接口来选择代理方式，如果目标类实现了接口，就会使用JDK动态代理，如果目标类没有实现接口，那么使用CGLib对目标类进行增强；
 

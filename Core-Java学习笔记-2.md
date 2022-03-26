@@ -187,7 +187,7 @@ import static java.lang.Math.*;
 
 #### 1.5.3 数值之间的转换
 
-![image-20210513110305743](https://gitee.com/cao_ziqiang/img/raw/master/20210513110305.png)
+![image-20210513110305743](http://static.codenote.xyz/img/20210513110305.png)
 
 实线代表无精度丢失转换,虚线代表有可能会有精度丢失的转换;
 

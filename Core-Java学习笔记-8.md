@@ -112,13 +112,13 @@ default void forEachRemaining(Consumer<? super E> action);
 
 集合框架中的接口图：
 
-![image-20210718100903275](https://gitee.com/cao_ziqiang/img/raw/master/20210718100903.png)
+![image-20210718100903275](http://static.codenote.xyz/img/20210718100903.png)
 
 有两个基本接口：`Collection`和`Map`。
 
 集合框架中的类图：
 
-![image-20210718103105854](https://gitee.com/cao_ziqiang/img/raw/master/20210718111922.png)
+![image-20210718103105854](http://static.codenote.xyz/img/20210718111922.png)
 
 ## 三、具体集合
 
@@ -521,7 +521,7 @@ toArray方法将集合转为数组。
 
 ## 七、 遗留的集合
 
-![image-20210719113327564](https://gitee.com/cao_ziqiang/img/raw/master/20210719113327.png)
+![image-20210719113327564](http://static.codenote.xyz/img/20210719113327.png)
 
 ### 7.1 HashTable
 
@@ -589,9 +589,9 @@ BitSet存储一个位序列（不是数学意义上的集，是位向量或位�
 
 C++:
 
-![image-20210719122530511](https://gitee.com/cao_ziqiang/img/raw/master/20210719122530.png)
+![image-20210719122530511](http://static.codenote.xyz/img/20210719122530.png)
 
 Java:
 
-![image-20210719122547969](https://gitee.com/cao_ziqiang/img/raw/master/20210719122548.png)
+![image-20210719122547969](http://static.codenote.xyz/img/20210719122548.png)
 

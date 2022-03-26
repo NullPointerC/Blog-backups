@@ -16,15 +16,15 @@ date: 2021-09-27 21:57:45
 
 有一个员工表，employees简况如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210927215828.png)
+![img](http://static.codenote.xyz/img/20210927215828.png)
 
 有一个部门表，dept_emp简况如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210927215839.png)
+![img](http://static.codenote.xyz/img/20210927215839.png)
 
 请你查找所有已经分配部门的员工的last_name和first_name以及dept_no，未分配的部门的员工不显示，以上例子如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210927215845.png)
+![img](http://static.codenote.xyz/img/20210927215845.png)
 
 <hr/>
 

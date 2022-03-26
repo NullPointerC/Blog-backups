@@ -11,7 +11,7 @@ date: 2021-09-08 11:05:40
 
 ## LIS问题
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908112039.png)
+![img](http://static.codenote.xyz/img/20210908112039.png)
 
 在本题中利用数学归纳可以进行如下构建：
 
@@ -21,7 +21,7 @@ date: 2021-09-08 11:05:40
 
 `dp[i]` 初始值为 1，因为以 `nums[i]` 结尾的最长递增子序列起码要包含它自己。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908112319.gif)
+![img](http://static.codenote.xyz/img/20210908112319.gif)
 
 在这个过程中，我们应该怎么设计算法逻辑来正确计算每个 `dp[i]` 呢？
 
@@ -33,7 +33,7 @@ date: 2021-09-08 11:05:40
 
 显然，可能形成很多种新的子序列，但是我们只选择最长的那一个，把最长子序列的长度作为 `dp[5]` 的值即可。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908112516.gif)
+![img](http://static.codenote.xyz/img/20210908112516.gif)
 
 ```java
 public int lengthOfLIS(int[] nums) {
@@ -65,7 +65,7 @@ public int lengthOfLIS(int[] nums) {
 
 ## 二维递增子序列
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908161550.png)
+![img](http://static.codenote.xyz/img/20210908161550.png)
 
 这道题目其实是最长递增子序列（Longes Increasing Subsequence，简写为 LIS）的一个变种，因为很显然，每次合法的嵌套是大的套小的，相当于找一个最长递增的子序列，其长度就是最多能嵌套的信封个数。
 
@@ -75,11 +75,11 @@ public int lengthOfLIS(int[] nums) {
 
 **先对宽度 `w` 进行升序排序，如果遇到 `w` 相同的情况，则按照高度 `h` 降序排序。之后把所有的 `h` 作为一个数组，在这个数组上计算 LIS 的长度就是答案。**
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908162523.jpeg)
+![img](http://static.codenote.xyz/img/20210908162523.jpeg)
 
 然后在 `h` 上寻找最长递增子序列：
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908162554.jpeg)
+![img](http://static.codenote.xyz/img/20210908162554.jpeg)
 
 这个子序列就是最优的嵌套方案。
 
@@ -129,7 +129,7 @@ public int lengthOfLIS(int[] nums) {
 
 ## 最大子序和
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908164402.jpeg)
+![img](http://static.codenote.xyz/img/20210908164402.jpeg)
 
 定义 `dp` 数组的含义：
 
@@ -255,7 +255,7 @@ int longestCommonSubsequence(string str1, string str2) {
 
 ## 编辑距离
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908190909.png)
+![img](http://static.codenote.xyz/img/20210908190909.png)
 
 编辑距离问题就是给我们两个字符串 `s1` 和 `s2`，只能用三种操作，让我们把 `s1` 变成 `s2`，求最少的操作数。
 
@@ -263,19 +263,19 @@ int longestCommonSubsequence(string str1, string str2) {
 
 设两个字符串分别为 “rad” 和 “apple”，为了把 `s1` 变成 `s2`，算法会这样进行：
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908191433.gif)
+![img](http://static.codenote.xyz/img/20210908191433.gif)
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908191450.jpeg)
+![img](http://static.codenote.xyz/img/20210908191450.jpeg)
 
 根据上面的 GIF，可以发现操作不只有三个，其实还有第四个操作，就是什么都不要做（skip）。比如这个情况：
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908191507.jpeg)
+![img](http://static.codenote.xyz/img/20210908191507.jpeg)
 
 因为这两个字符本来就相同，为了使编辑距离最小，显然不应该对它们有任何操作，直接往前移动 `i,j` 即可。
 
 还有一个很容易处理的情况，就是 `j` 走完 `s2` 时，如果 `i` 还没走完 `s1`，那么只能用删除操作把 `s1` 缩短为 `s2`。比如这个情况：
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908191524.jpeg)
+![img](http://static.codenote.xyz/img/20210908191524.jpeg)
 
 类似的，如果 `i` 走完 `s1` 时 `j` 还没走完了 `s2`，那就只能用插入操作把 `s2` 剩下的字符全部插入 `s1`。
 
@@ -309,7 +309,7 @@ dp(i, j - 1) + 1,    # 插入
 # 别忘了操作数加一
 ```
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908192654.gif)
+![img](http://static.codenote.xyz/img/20210908192654.gif)
 
 ```python
 dp(i - 1, j) + 1,    # 删除
@@ -319,7 +319,7 @@ dp(i - 1, j) + 1,    # 删除
 # 操作数加一
 ```
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908192719.gif)
+![img](http://static.codenote.xyz/img/20210908192719.gif)
 
 ```python
 dp(i - 1, j - 1) + 1 # 替换
@@ -329,7 +329,7 @@ dp(i - 1, j - 1) + 1 # 替换
 # 操作数加一
 ```
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210908192741.gif)
+![img](http://static.codenote.xyz/img/20210908192741.gif)
 
 整理一下就是：
 

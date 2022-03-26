@@ -18,11 +18,11 @@ date: 2021-10-07 14:09:07
 
 有一个薪水表，salaries简况如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211007140944.png)
+![img](http://static.codenote.xyz/img/20211007140944.png)
 
 请你找出所有员工具体的薪水salary情况，对于相同的薪水只显示一次,并按照逆序显示，以上例子输出如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211007140953.png)
+![img](http://static.codenote.xyz/img/20211007140953.png)
 
 <hr/>
 

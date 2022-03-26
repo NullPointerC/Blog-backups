@@ -14,7 +14,7 @@ date: 2021-09-26 20:33:34
 
 <hr/>
 
-![image-20210926203440306](https://gitee.com/cao_ziqiang/img/raw/master/20210926203440.png)
+![image-20210926203440306](http://static.codenote.xyz/img/20210926203440.png)
 
 <hr/>
 

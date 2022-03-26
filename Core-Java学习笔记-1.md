@@ -63,4 +63,4 @@ bin\jlink.exe --module-path jmods --add-modules java.desktop --output jre
 
 要启动JShell,我们只需要在终端输入`jshell`
 
-![image-20210424172543948](https://gitee.com/cao_ziqiang/img/raw/master/20210424172544.png)
+![image-20210424172543948](http://static.codenote.xyz/img/20210424172544.png)

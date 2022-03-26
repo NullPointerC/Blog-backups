@@ -24,7 +24,7 @@ date: 2022-01-03 16:34:21
 
 进行文字编辑的辅助功能，如替换，搜索，保存等。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20220103164356.jpeg)
+![img](http://static.codenote.xyz/img/20220103164356.jpeg)
 
 使用vi打开文件后默认是命令模式,按下:进入底线模式,可以输入一些命令进行文本操作。
 

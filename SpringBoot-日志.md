@@ -89,7 +89,7 @@ public class HelloWorld {
 
 SLF4J框架与其他日志框架整合时需要依赖的jar包关系如下图所示：
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210518183547.png)
+![img](http://static.codenote.xyz/img/20210518183547.png)
 
 每种日志实现框架都有自己的配置文件，在使用SLF4J后，配置文件还是书写成日志实现框架本身的配置文件。
 
@@ -115,7 +115,7 @@ SLF4J的官方文档：<a href="http://www.slf4j.org/manual.html">SLF4J使用手
 
 使用slf4j统一日志框架图示：
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210518183712.png)
+![img](http://static.codenote.xyz/img/20210518183712.png)
 
 相关链接：<a href="http://www.slf4j.org/legacy.html">slf4j解决遗留问题</a>
 
@@ -156,7 +156,7 @@ SLF4J的官方文档：<a href="http://www.slf4j.org/manual.html">SLF4J使用手
 
 `spring-boot-starter-logging` 依赖的构成
 
-![image-20201020094345703](https://gitee.com/cao_ziqiang/img/raw/master/20210518183922.png)
+![image-20201020094345703](http://static.codenote.xyz/img/20210518183922.png)
 
 Spring Boot底层使用 `slf4j + logback` 作为日志输出，并对整合的其他框架中默认的日志框架进行替换，实现日志输出框架的统一。
 
@@ -420,4 +420,4 @@ Spring Boot 允许我们替换默认的 `slf4j + logback` 日志框架结构，�
 
 切换成log4j2框架后的依赖关系
 
-![image-20201020170741477](https://gitee.com/cao_ziqiang/img/raw/master/20210518191754.png)
+![image-20201020170741477](http://static.codenote.xyz/img/20210518191754.png)

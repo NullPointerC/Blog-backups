@@ -312,7 +312,7 @@ func main() {
 
 执行截图：
 
-![image-20211017210136644](https://gitee.com/cao_ziqiang/img/raw/master/20211017210136.png)
+![image-20211017210136644](http://static.codenote.xyz/img/20211017210136.png)
 
 由于`defer`语句延迟调用的特性，所以`defer`语句能非常方便的处理资源释放问题。比如：资源清理、文件关闭、解锁及记录时间等。
 
@@ -320,7 +320,7 @@ func main() {
 
 在Go语言的函数中`return`语句在底层并不是原子操作，它分为给返回值赋值和RET指令两步。而`defer`语句执行的时机就在返回值赋值操作后，RET指令执行前。具体如下图所示：
 
-![defer执行时机](https://gitee.com/cao_ziqiang/img/raw/master/20211017210157.png)
+![defer执行时机](http://static.codenote.xyz/img/20211017210157.png)
 
 ## 内置函数
 

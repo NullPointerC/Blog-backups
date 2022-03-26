@@ -10,23 +10,23 @@ abbrlink: ff3d287a
 date: 2021-10-08 21:17:08
 ---
 
-[$link$](https://gitee.com/cao_ziqiang/img/raw/master/20211008211743.png)
+[$link$](http://static.codenote.xyz/img/20211008211743.png)
 
 ## 描述
 
 有一个员工表dept_emp简况如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211008211743.png)
+![img](http://static.codenote.xyz/img/20211008211743.png)
 
 有一个薪水表salaries简况如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211008211805.png)
+![img](http://static.codenote.xyz/img/20211008211805.png)
 
 获取每个部门中当前员工薪水最高的相关信息，给出dept_no, emp_no以及其对应的salary，按照部门编号dept_no升序排列，以上例子输出如下:
 
 （注意: Mysql与Sqlite select 非聚合列的结果可能不一样)
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211008211811.png)
+![img](http://static.codenote.xyz/img/20211008211811.png)
 
 <hr/>
 

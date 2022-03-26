@@ -14,13 +14,13 @@ date: 2021-09-28 21:47:42
 
 <hr/>
 
-![image-20210928214949697](https://gitee.com/cao_ziqiang/img/raw/master/20210928214949.png)
+![image-20210928214949697](http://static.codenote.xyz/img/20210928214949.png)
 
 <hr/>
 
-![image-20210928215022233](https://gitee.com/cao_ziqiang/img/raw/master/20210928215022.png)
+![image-20210928215022233](http://static.codenote.xyz/img/20210928215022.png)
 
-![image-20210928215036048](https://gitee.com/cao_ziqiang/img/raw/master/20210928215046.png)
+![image-20210928215036048](http://static.codenote.xyz/img/20210928215046.png)
 
 <hr/>
 

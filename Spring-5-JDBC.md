@@ -73,7 +73,7 @@ xml形式：
 @Transactional(propagation=Propagation.REQUIRED)
 ```
 
-![image-20210904145407749](https://gitee.com/cao_ziqiang/img/raw/master/20210904145407.png)
+![image-20210904145407749](http://static.codenote.xyz/img/20210904145407.png)
 
 ### 注解配置
 

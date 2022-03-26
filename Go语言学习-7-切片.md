@@ -73,7 +73,7 @@ func f1() {
 }
 ```
 
-![image-20211014192645339](https://gitee.com/cao_ziqiang/img/raw/master/20211014192645.png)
+![image-20211014192645339](http://static.codenote.xyz/img/20211014192645.png)
 
 ### 长度和容量
 
@@ -97,7 +97,7 @@ func f2() {
 
 输出的如下结果：
 
-![image-20211014192849291](https://gitee.com/cao_ziqiang/img/raw/master/20211014192849.png)
+![image-20211014192849291](http://static.codenote.xyz/img/20211014192849.png)
 
 为了方便起见，可以省略切片表达式中的任何索引。省略了`low`则默认为0；省略了`high`则默认为切片操作数的长度:
 
@@ -115,7 +115,7 @@ func f3() {
 }
 ```
 
-![image-20211014193335549](https://gitee.com/cao_ziqiang/img/raw/master/20211014193335.png)
+![image-20211014193335549](http://static.codenote.xyz/img/20211014193335.png)
 
 对于数组或字符串，如果`0 <= low <= high <= len(a)`，则索引合法，否则就会索引越界（out of range）。
 
@@ -131,7 +131,7 @@ func f4() {
 }
 ```
 
-![image-20211014194023644](https://gitee.com/cao_ziqiang/img/raw/master/20211014194023.png)
+![image-20211014194023644](http://static.codenote.xyz/img/20211014194023.png)
 
 #### 完整切片表达式
 
@@ -151,7 +151,7 @@ func f5() {
 }
 ```
 
-![image-20211014194322483](https://gitee.com/cao_ziqiang/img/raw/master/20211014194322.png)
+![image-20211014194322483](http://static.codenote.xyz/img/20211014194322.png)
 
 ## make()函数构造切片
 
@@ -182,11 +182,11 @@ func f6() {
 
 举个例子，现在有一个数组`a := [8]int{0, 1, 2, 3, 4, 5, 6, 7}`，切片`s1 := a[:5]`，相应示意图如下。
 
-![slice_01](https://gitee.com/cao_ziqiang/img/raw/master/20211014194637.png)
+![slice_01](http://static.codenote.xyz/img/20211014194637.png)
 
 切片`s2 := a[3:6]`，相应示意图如下：
 
-![slice_02](https://gitee.com/cao_ziqiang/img/raw/master/20211014194700.png)
+![slice_02](http://static.codenote.xyz/img/20211014194700.png)
 
 
 
@@ -203,7 +203,7 @@ func f7() {
 }
 ```
 
-![image-20211014195417549](https://gitee.com/cao_ziqiang/img/raw/master/20211014195419.png)
+![image-20211014195417549](http://static.codenote.xyz/img/20211014195419.png)
 
 输出结果如上表示，即使不为为`nil`切片，但是它的`len`和`cap`都可能为0。
 
@@ -221,7 +221,7 @@ func f8() {
 }
 ```
 
-![image-20211014195852068](https://gitee.com/cao_ziqiang/img/raw/master/20211014195852.png)
+![image-20211014195852068](http://static.codenote.xyz/img/20211014195852.png)
 
 ## 切片的遍历
 
@@ -274,7 +274,7 @@ func f12() {
 }
 ```
 
-![image-20211014201140419](https://gitee.com/cao_ziqiang/img/raw/master/20211014201140.png)
+![image-20211014201140419](http://static.codenote.xyz/img/20211014201140.png)
 
 从上面的结果可以看出：
 

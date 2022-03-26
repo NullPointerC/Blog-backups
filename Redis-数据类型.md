@@ -93,27 +93,27 @@ Jedis是Java对redis的操作工具包;
 
 用户的请求来到服务器,先查询缓存中是否有,减小DB的压力;
 
-![image-20210828225728944](https://gitee.com/cao_ziqiang/img/raw/master/20210828225729.png)
+![image-20210828225728944](http://static.codenote.xyz/img/20210828225729.png)
 
 ### 计数器
 
 如微博中的点赞数,转发数,因为redis提供了incr、decr等操作，可以在单线程下保证并发性地修改数据而不会出错;
 
-![image-20210828230022145](https://gitee.com/cao_ziqiang/img/raw/master/20210828230022.png)
+![image-20210828230022145](http://static.codenote.xyz/img/20210828230022.png)
 
 ### 消息队列系统
 
-![image-20210828230109898](https://gitee.com/cao_ziqiang/img/raw/master/20210828230110.png)
+![image-20210828230109898](http://static.codenote.xyz/img/20210828230110.png)
 
 ### 排行榜
 
 redis提供了Zset有序集合,十分符合排行榜的设定
 
-![image-20210828230207634](https://gitee.com/cao_ziqiang/img/raw/master/20210828230207.png)
+![image-20210828230207634](http://static.codenote.xyz/img/20210828230207.png)
 
 ### 社交网络
 
-![image-20210828230241369](https://gitee.com/cao_ziqiang/img/raw/master/20210828230241.png)
+![image-20210828230241369](http://static.codenote.xyz/img/20210828230241.png)
 
 很多社交网络的功能也会使用redis来实现,比如粉丝数,关注数,共同关注,时间轴等;
 
@@ -121,7 +121,7 @@ redis提供了Zset有序集合,十分符合排行榜的设定
 
 如布隆过滤器,对于垃圾信息的过滤;
 
-![image-20210828230401659](https://gitee.com/cao_ziqiang/img/raw/master/20210828230401.png)
+![image-20210828230401659](http://static.codenote.xyz/img/20210828230401.png)
 
 
 

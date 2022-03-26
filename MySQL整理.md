@@ -770,7 +770,7 @@ TRUNCATE TABLE 表名;
 
 日期函数中表达式如下
 
-![image-20210816235545157](https://gitee.com/cao_ziqiang/img/raw/master/20210816235545.png)
+![image-20210816235545157](http://static.codenote.xyz/img/20210816235545.png)
 
 ### 7.3 字符函数
 
@@ -805,7 +805,7 @@ TRUNCATE TABLE 表名;
 
 MySQL是通过日志文件来实现间接写入的。
 
-MySQL一共有5中日志文件，其中只有undo日志和redo日志和事务有关。![image-20210817002927526](https://gitee.com/cao_ziqiang/img/raw/master/20210817002927.png)
+MySQL一共有5中日志文件，其中只有undo日志和redo日志和事务有关。![image-20210817002927526](http://static.codenote.xyz/img/20210817002927.png)
 
 RDBMS = SQL语句+事务（ACID)
 
@@ -835,7 +835,7 @@ START TRANSACTION;
 
 不管在任何给定的时间、并发事务有多少，事务必须保证运行结果的一致性。
 
-![image-20210817004205713](https://gitee.com/cao_ziqiang/img/raw/master/20210817004205.png)
+![image-20210817004205713](http://static.codenote.xyz/img/20210817004205.png)
 
 不管怎么转账，总金额不变
 
@@ -845,7 +845,7 @@ START TRANSACTION;
 
 默认情况下A事务，只能看到日志中该事务的相关数据。
 
-![image-20210817004257548](https://gitee.com/cao_ziqiang/img/raw/master/20210817004306.png)
+![image-20210817004257548](http://static.codenote.xyz/img/20210817004306.png)
 
 持久性（durable）：
 
@@ -917,9 +917,9 @@ serializable;
 
 数据备份，备份的是数据文件、日志文件、索引文件等等；
 
-![image-20210817010815456](https://gitee.com/cao_ziqiang/img/raw/master/20210817010815.png)
+![image-20210817010815456](http://static.codenote.xyz/img/20210817010815.png)
 
-![image-20210817010841544](https://gitee.com/cao_ziqiang/img/raw/master/20210817010841.png)
+![image-20210817010841544](http://static.codenote.xyz/img/20210817010841.png)
 
 ### 9.2 导出为SQL文件
 

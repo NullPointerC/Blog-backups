@@ -13,7 +13,7 @@ date: 2022-01-02 21:04:38
 
 <hr/>
 
-![image-20220102210547432](https://gitee.com/cao_ziqiang/img/raw/master/20220102210547.png)
+![image-20220102210547432](http://static.codenote.xyz/img/20220102210547.png)
 
 <hr/>
 

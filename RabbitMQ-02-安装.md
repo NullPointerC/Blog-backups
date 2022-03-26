@@ -35,7 +35,7 @@ rpm -ivh erlang-22.3.4.21-1.el7.x86_64.rpm --nodeps --force
 
 安装完成$erlang$后可以查看版本
 
-![image-20210921165313712](https://gitee.com/cao_ziqiang/img/raw/master/20210921165313.png)
+![image-20210921165313712](http://static.codenote.xyz/img/20210921165313.png)
 
 接下来就是安装$Rabbit\quad MQ$
 
@@ -60,7 +60,7 @@ systemctl start rabbitmq-server
 rabbitmqctl status
 ```
 
-![image-20210921170839436](https://gitee.com/cao_ziqiang/img/raw/master/20210921170839.png)
+![image-20210921170839436](http://static.codenote.xyz/img/20210921170839.png)
 
 开启web管理界面
 
@@ -77,7 +77,7 @@ rabbitmqctl set_user_tags admin administrator
 
 接下来就可以访问了，web管理界面的默认端口为15672
 
-![image-20210921171846435](https://gitee.com/cao_ziqiang/img/raw/master/20210921171846.png)
+![image-20210921171846435](http://static.codenote.xyz/img/20210921171846.png)
 
 ## $Docker$安装
 

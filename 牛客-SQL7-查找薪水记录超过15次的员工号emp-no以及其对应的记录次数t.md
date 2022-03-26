@@ -18,11 +18,11 @@ date: 2021-10-07 14:03:46
 
 有一个薪水表，salaries简况如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211007140527.png)
+![img](http://static.codenote.xyz/img/20211007140527.png)
 
 请你查找薪水记录超过15次的员工号emp_no以及其对应的记录次数t，以上例子输出如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211007140534.png)
+![img](http://static.codenote.xyz/img/20211007140534.png)
 
 <hr/>
 

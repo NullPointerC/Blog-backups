@@ -20,7 +20,7 @@ Go也慢慢学的挺多的，周末的时候正好把函数学完了，大概看
 
 Java的下个月我要恶补回来。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211017214306.jpg)
+![img](http://static.codenote.xyz/img/20211017214306.jpg)
 
 虽然面试的时候没有问我很多Java的东西，但是自己也知道自己Java学的不算太好，只能说会用，下个月恶补。
 

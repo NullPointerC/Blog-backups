@@ -18,15 +18,15 @@ date: 2021-10-07 14:14:54
 
 有一个员工表employees简况如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211007141540.png)
+![img](http://static.codenote.xyz/img/20211007141540.png)
 
 有一个部门领导表dept_manager简况如下:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211007141603.png)
+![img](http://static.codenote.xyz/img/20211007141603.png)
 
 请你找出所有非部门领导的员工emp_no，以上例子输出:
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211007141606.png)
+![img](http://static.codenote.xyz/img/20211007141606.png)
 
 <hr/>
 

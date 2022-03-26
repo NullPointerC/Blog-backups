@@ -621,7 +621,7 @@ class TraceHandler implements InvocationHandler {
 
 代理对象属于在运行时定义的一个类（它有一个名字，如$Proxy0）。这个类也实现了Comparable接口。不过，它的compareTo方法调用了代理对象处理器的invoke方法。
 
-![image-20210714111053797](https://gitee.com/cao_ziqiang/img/raw/master/20210714111053.png)
+![image-20210714111053797](http://static.codenote.xyz/img/20210714111053.png)
 
 binarySearch方法会有一下调用：
 
@@ -633,7 +633,7 @@ if(elements[i].compareTo(key) < 0) ...
 
 最后因为有一句打印调用。所以又调用了代理对象的toString，也会重定向到调用处理器。
 
-![image-20210714111428325](https://gitee.com/cao_ziqiang/img/raw/master/20210714111428.png)
+![image-20210714111428325](http://static.codenote.xyz/img/20210714111428.png)
 
 以上为程序的一次运行结果截图示例。
 

@@ -41,7 +41,7 @@ yum remove docker \
 
 如果$yum$报告没有安装这些软件包，也没有问题。
 
-![image-20210920171106355](https://gitee.com/cao_ziqiang/img/raw/master/20210920171106.png)
+![image-20210920171106355](http://static.codenote.xyz/img/20210920171106.png)
 
 4. 更新$yum$
 
@@ -50,11 +50,11 @@ yum check-update
 yum update
 ```
 
-![image-20210920173043128](https://gitee.com/cao_ziqiang/img/raw/master/20210920173043.png)
+![image-20210920173043128](http://static.codenote.xyz/img/20210920173043.png)
 
 再次输入来查看是否全部更新完毕
 
-![image-20210920173455398](https://gitee.com/cao_ziqiang/img/raw/master/20210920173455.png)
+![image-20210920173455398](http://static.codenote.xyz/img/20210920173455.png)
 
 如上所示提示没有需要更新的软件包即可。
 
@@ -72,7 +72,7 @@ yum install -y yum-utils \
 sudo yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
 ```
 
-![image-20210920174221127](https://gitee.com/cao_ziqiang/img/raw/master/20210920174221.png)
+![image-20210920174221127](http://static.codenote.xyz/img/20210920174221.png)
 
 8. 查看$docker$版本
 
@@ -80,7 +80,7 @@ sudo yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/cen
 yum list docker-ce --showduplicates | sort -r
 ```
 
-![image-20210920174359974](https://gitee.com/cao_ziqiang/img/raw/master/20210920174400.png)
+![image-20210920174359974](http://static.codenote.xyz/img/20210920174400.png)
 
 9. 安装指定版本的$docker$
 
@@ -88,7 +88,7 @@ yum list docker-ce --showduplicates | sort -r
 yum install docker-ce-18.09.0 docker-ce-cli-18.09.0 containerd.io
 ```
 
-![image-20210920174731998](https://gitee.com/cao_ziqiang/img/raw/master/20210920174732.png)
+![image-20210920174731998](http://static.codenote.xyz/img/20210920174732.png)
 
 到这里$docker$就安装好了。由于$docker$也是$C/S$架构的软件，所以接下来就是启动$docker$
 
@@ -107,7 +107,7 @@ docker info
 
 都可以查看$docker$的信息。
 
-![image-20210920175203320](https://gitee.com/cao_ziqiang/img/raw/master/20210920175203.png)
+![image-20210920175203320](http://static.codenote.xyz/img/20210920175203.png)
 
 ## Docker容器
 
@@ -123,7 +123,7 @@ docker pull [OPTIONS] NAME[:TAG]
 docker images [OPTIONS] [REPOSITORY][:TAG]
 ```
 
-![image-20210920175653867](https://gitee.com/cao_ziqiang/img/raw/master/20210920175653.png)
+![image-20210920175653867](http://static.codenote.xyz/img/20210920175653.png)
 
 运行镜像
 
@@ -131,7 +131,7 @@ docker images [OPTIONS] [REPOSITORY][:TAG]
 docker run [OPTIONS] IMAGE [COMMAND][ARG...]
 ```
 
-![image-20210920180005442](https://gitee.com/cao_ziqiang/img/raw/master/20210920180005.png)
+![image-20210920180005442](http://static.codenote.xyz/img/20210920180005.png)
 
 ## Docker运行Nginx
 
@@ -141,11 +141,11 @@ docker run [OPTIONS] IMAGE [COMMAND][ARG...]
 
 我们输入$nginx$。
 
-![image-20210920180801633](https://gitee.com/cao_ziqiang/img/raw/master/20210920180801.png)
+![image-20210920180801633](http://static.codenote.xyz/img/20210920180801.png)
 
 这里有两个版本，一个是$library$，一个是$public$。这两个一个是$docker$官方，一个是网易云提供的，这里两个都可以选择，我们选择$library$使用。
 
-![image-20210920180911738](https://gitee.com/cao_ziqiang/img/raw/master/20210920180911.png)
+![image-20210920180911738](http://static.codenote.xyz/img/20210920180911.png)
 
 根据这里的下载地址和版本指定下载的命令
 
@@ -153,7 +153,7 @@ docker run [OPTIONS] IMAGE [COMMAND][ARG...]
 docker pull hub.c.163.com/library/nginx:1.13.0
 ```
 
-![image-20210920181024559](https://gitee.com/cao_ziqiang/img/raw/master/20210920181024.png)
+![image-20210920181024559](http://static.codenote.xyz/img/20210920181024.png)
 
 拉取完毕后，启动这个镜像。
 
@@ -161,7 +161,7 @@ docker pull hub.c.163.com/library/nginx:1.13.0
 docker run -d hub.c.163.com/library/nginx:1.13.0
 ```
 
-![image-20210920181339048](https://gitee.com/cao_ziqiang/img/raw/master/20210920181339.png)
+![image-20210920181339048](http://static.codenote.xyz/img/20210920181339.png)
 
 由于$nginx$是一个服务器后台进程，所以加上-d指令使其后台运行。
 
@@ -175,7 +175,7 @@ docker ps
 
 查看$docker$的状态
 
-![image-20210920181529185](https://gitee.com/cao_ziqiang/img/raw/master/20210920181529.png)
+![image-20210920181529185](http://static.codenote.xyz/img/20210920181529.png)
 
 进入容器
 
@@ -189,8 +189,8 @@ docker exec [OPTIONS] CONTAINER COMMAND [ARG...]
 docker exec -it 5a bash
 ```
 
-![image-20210920181855663](https://gitee.com/cao_ziqiang/img/raw/master/20210920181855.png)
+![image-20210920181855663](http://static.codenote.xyz/img/20210920181855.png)
 
 进入容器内部后查看$nginx$的位置以及文件等，可以看到$docker$虚拟化出了一样的文件结构。
 
-![image-20210920182110023](https://gitee.com/cao_ziqiang/img/raw/master/20210920182110.png)
+![image-20210920182110023](http://static.codenote.xyz/img/20210920182110.png)

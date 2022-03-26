@@ -12,7 +12,7 @@ date: 2021-12-19 17:08:17
 
 这周接种了第三针,挺好的,为祖国点赞。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211224171022.gif)
+![img](http://static.codenote.xyz/img/20211224171022.gif)
 
 也把$html$大作业写完了,虽然写的不好,但是稍微练习了一下前端,挺好的。
 

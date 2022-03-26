@@ -69,7 +69,7 @@ Hint: It's a good idea to run 'make test' ;)
 
 出现redis的启动动画就表示安装完成了.
 
-![image-20210828164907070](https://gitee.com/cao_ziqiang/img/raw/master/20210828164907.png)
+![image-20210828164907070](http://static.codenote.xyz/img/20210828164907.png)
 
 ### 配置
 
@@ -110,7 +110,7 @@ type		查看key的类型;
 
 ### 数据结构和内部编码
 
-![image-20210828232619223](https://gitee.com/cao_ziqiang/img/raw/master/20210828232619.png)
+![image-20210828232619223](http://static.codenote.xyz/img/20210828232619.png)
 
 在redis内部定义了redisObject结构体
 
@@ -126,7 +126,7 @@ struct redisObject{
 
 ### 单线程
 
-![image-20210828232927814](https://gitee.com/cao_ziqiang/img/raw/master/20210828232927.png)
+![image-20210828232927814](http://static.codenote.xyz/img/20210828232927.png)
 
 redis是串行化执行命令,一次只能有一条语句被执行;
 
@@ -145,7 +145,7 @@ redis单线程速度快的原因:
 2. 非阻塞I/O,使用epoll模型;
 3. 单线程避免了线程切换和竞态消耗;
 
-![image-20210828233246150](https://gitee.com/cao_ziqiang/img/raw/master/20210828233246.png)
+![image-20210828233246150](http://static.codenote.xyz/img/20210828233246.png)
 
 也有说法认为redis并不完全是单线程,在进行文件读写时
 

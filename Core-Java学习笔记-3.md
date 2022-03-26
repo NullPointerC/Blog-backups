@@ -24,7 +24,7 @@ date: 2021-07-10 09:45:44
 
 但是在面向对象语言中，需要先考虑数据，然后再考虑对数据的算法。
 
-![image-20210710100116067](https://gitee.com/cao_ziqiang/img/raw/master/20210710100116.png)
+![image-20210710100116067](http://static.codenote.xyz/img/20210710100116.png)
 
 ### 1.1 类
 

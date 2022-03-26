@@ -13,7 +13,7 @@ date: 2021-04-08 09:58:35
 
 ## 1.1 、请求映射
 
-![image.png](https://gitee.com/cao_ziqiang/img/raw/master/20210821100100.png)
+![image.png](http://static.codenote.xyz/img/20210821100100.png)
 
 DispatcherServlet	->	doDispatch（）
 
@@ -33,7 +33,7 @@ protected void doDispatch(HttpServletRequest request, HttpServletResponse respon
 			mappedHandler = getHandler(processedRequest);
             //HandlerMapping：处理器映射。/xxx->>xxxx
 ```
-![image.png](https://gitee.com/cao_ziqiang/img/raw/master/20210821100310.png)
+![image.png](http://static.codenote.xyz/img/20210821100310.png)
 
 **RequestMappingHandlerMapping**：保存了所有@RequestMapping 和handler的映射规则。
 

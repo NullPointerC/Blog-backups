@@ -31,19 +31,19 @@ FIFO。由于MQ本身的底层数据机构就是队列，所以具有FIFO性质�
 
 系统解耦。如系统A，产出了数据$dataA$，下游还有系统B，系统C，需要接收系统A的数据，如果仅仅通过调用系统A的对外接口，不易于升级系统，且可能导致等待时长变高，需要等会下游系统的返回才可以进行下一步。如果使用MQ，则只需要将消息发送到MQ中间件，至于谁需要这些消息，下游的系统自己就会去接收消息。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210921200138.webp)
+![img](http://static.codenote.xyz/img/20210921200138.webp)
 
 <hr/>
 
 异步调用。假如存在调用链路$A->B->C->D$。由于每个调用都需要时间，整个链路完成可能需要$2s$，但是实际上有很多事情可以异步完成，如点外卖过程中，用户下单后，需要调用支付模块进行付费，然后需要通知商户接单，同时也需要通知骑手，通知骑手的时候也需要调用骑手的智能匹配算法，还需要考虑距离，天气，商品库存等等。这一系列问题并不是用户下单时需要考虑的问题，这些后续步骤可以通过消息来异步的调用。而如果使用MQ，用户只需要付费，支付模块将消息发送给MQ，由MQ通知其他模块进行后续步骤。**如果使用MQ，系统A发送数据到MQ，然后就可以返回响应给客户端，不需要再等待系统B、C、D的响应，可以大大地提高性能**。对于一些非必要的业务，比如发送短信，发送邮件等等，就可以采用MQ。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210921200236.webp)
+![img](http://static.codenote.xyz/img/20210921200236.webp)
 
 <hr/>
 
 流量削峰。有时系统的请求量突然上升，可能这只是系统的活动期间，其余时间流量比较正常，我们无需为这段时间额外扩容服务器。只需要先将消息存入MQ中，MQ会以系统正常的吞吐量处理。**如果使用MQ，系统A不再是直接发送SQL到数据库，而是把数据发送到MQ，MQ短时间积压数据是可以接受的，然后由消费者每次拉取2000条进行处理，防止在请求峰值时期大量的请求直接发送到MySQL导致系统崩溃**。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210921200328.webp)
+![img](http://static.codenote.xyz/img/20210921200328.webp)
 
 ## RabbitMQ
 
@@ -57,7 +57,7 @@ Erlang语言编写。性能好，通信能力强，延迟低，具有原生$Scok
 
 ### Rabbit MQ的实现
 
-![image-20210920214458593](https://gitee.com/cao_ziqiang/img/raw/master/20210920214458.png)
+![image-20210920214458593](http://static.codenote.xyz/img/20210920214458.png)
 
 $Server$：服务
 
@@ -81,7 +81,7 @@ $queue$：队列。消费者只需要监听队列来消费消息，不需要关�
 
 
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210921200820.webp)
+![img](http://static.codenote.xyz/img/20210921200820.webp)
 
 消息生产者连接到RabbitMQ Broker，创建connection，开启channel。
 

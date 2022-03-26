@@ -14,7 +14,7 @@ date: 2021-10-24 19:26:15
 
 而且也开始上发展对象的党课了，又要开始抄抄抄了，心疼我的手1s。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211026192841.jpg)
+![img](http://static.codenote.xyz/img/20211026192841.jpg)
 
 周二下午还想着打一下icpc,结果只会写签到题，太菜了。
 
@@ -30,4 +30,4 @@ date: 2021-10-24 19:26:15
 
 忙碌又没有学习的一周过了。。。下周不要再摸鱼了。。。
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20211026194843.jpg)
+![img](http://static.codenote.xyz/img/20211026194843.jpg)

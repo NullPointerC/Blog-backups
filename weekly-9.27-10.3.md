@@ -10,7 +10,7 @@ abbrlink: e5dac62f
 date: 2021-10-03 21:18:22
 ---
 
-早上把简历投给了学长,希望是一个好结果吧,![img](https://gitee.com/cao_ziqiang/img/raw/master/20211011112137.jpg)
+早上把简历投给了学长,希望是一个好结果吧,![img](http://static.codenote.xyz/img/20211011112137.jpg)
 
 虽然知道自己不是很强,还有很多要学,要努力。
 

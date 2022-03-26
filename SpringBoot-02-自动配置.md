@@ -51,7 +51,7 @@ public @interface AutoConfigurationPackage {}
     spring-boot-autoconfigure-2.3.4.RELEASE.jar包里面也有META-INF/spring.factories
 ```
 
-![image.png](https://gitee.com/cao_ziqiang/img/raw/master/20210821094305.png)
+![image.png](http://static.codenote.xyz/img/20210821094305.png)
 
 ## 1.2、按需开启自动配置项
 

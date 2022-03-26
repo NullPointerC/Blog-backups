@@ -39,7 +39,7 @@ def dp(n):
 		dp(n - coin)
 ```
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210819093632.jpeg)
+![img](http://static.codenote.xyz/img/20210819093632.jpeg)
 
 dp的一般形式就是求最值,在运筹学上是一种最优化方法，核心问题就是穷举,因为要求的是最值,所以要把所有可行的答案都穷举出来。
 
@@ -63,7 +63,7 @@ int fib(int n) {
 }
 ```
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210819101552.jpeg)
+![img](http://static.codenote.xyz/img/20210819101552.jpeg)
 
 这样写代码虽然简洁易懂，但是十分低效,有很多重复计算的,如f(17)
 
@@ -110,7 +110,7 @@ public int fib(int N) {
 
 「状态转移方程」这个名词，实际上就是描述问题结构的数学形式：
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210819102053.png)
+![img](http://static.codenote.xyz/img/20210819102053.png)
 
 **dp空间优化**
 
@@ -177,7 +177,7 @@ private int dp(int[] coins, int amount) {
 }
 ```
 
-![img](https://gitee.com/cao_ziqiang/img/raw/master/20210819102808.png)
+![img](http://static.codenote.xyz/img/20210819102808.png)
 
 **带备忘录的递归**
 

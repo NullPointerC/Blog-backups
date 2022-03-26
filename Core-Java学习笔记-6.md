@@ -20,7 +20,7 @@ date: 2021-07-15 09:09:28
 
 
 
-![image-20210715092855871](https://gitee.com/cao_ziqiang/img/raw/master/20210715092855.png)
+![image-20210715092855871](http://static.codenote.xyz/img/20210715092855.png)
 
 异常都是派生于`Throwable`类的一个类实例。所有的异常都由`Throwable`**继承**而来。
 
