@@ -4,7 +4,7 @@ categories:
   - Docker
 tags:
   - Docker
-  - Linux
+  - 中间件技术
 abbrlink: e78d93ca
 date: 2021-09-20 19:19:14
 ---

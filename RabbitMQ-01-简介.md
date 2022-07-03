@@ -5,6 +5,7 @@ categories:
 tags:
   - MQ
   - backend
+  - 中间件技术
 abbrlink: 90e130b0
 date: 2021-09-20 21:12:22
 ---

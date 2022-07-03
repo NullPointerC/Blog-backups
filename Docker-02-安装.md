@@ -4,7 +4,7 @@ categories:
   - Docker
 tags:
   - Docker
-  - Linux
+  - 中间件技术
 abbrlink: 54ad4777
 date: 2021-09-20 16:50:40
 ---

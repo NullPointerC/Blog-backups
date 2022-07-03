@@ -4,7 +4,7 @@ categories:
   - Docker
 tags:
   - Docker
-  - Linux
+  - 中间件技术
 abbrlink: 865be22f
 date: 2021-09-20 15:37:18
 ---
